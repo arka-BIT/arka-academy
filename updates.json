@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "3da0d474fb270956",
+   "time": "2026-11-06T23:20:43.217975+00:00",
+   "source": "DD News",
+   "title": "AI निवेश की चिंताओं से अमेरिकी बाजारों को 2.5 ट्रिलियन डॉलर का झटका",
+   "url": "https://ddnews.gov.in/us-markets-face-2-5-trillion-blow-due-to-ai-investment-concerns/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "1c5fd34818617ab5",
+   "time": "2026-11-06T23:20:43.217975+00:00",
+   "source": "DD News",
+   "title": "आधार ऑफलाइन वेरिफिकेशन को मिली रफ्तार, UIDAI से जुड़ीं 300 संस्थाएं, 7.5 करोड़ बार डाउनलोड हुआ आधार ऐप",
+   "url": "https://ddnews.gov.in/aadhaar-offline-verification-gains-momentum-300-organizations-join-uidai-and-the-aadhaar-app-has-been-downloaded-75-million-times/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "a3f373669fac4ffa",
+   "time": "2026-11-06T23:20:43.217975+00:00",
+   "source": "DD News",
+   "title": "Earthquake: चीन-लद्दाख सीमा के पास 5.0 तीव्रता का भूकंप, जम्मू-कश्मीर में महसूस हुए झटके",
+   "url": "https://ddnews.gov.in/earthquake-5-0-magnitude-earthquake-near-china-ladakh-border-tremors-felt-in-jammu-and-kashmir/",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "c6081aacbaeba155",
    "time": "2026-11-06T22:44:28.210551+00:00",
    "source": "DD News",
@@ -159,7 +189,17 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
+  },
+  {
+   "id": "5812d2a4ea58b8b0",
+   "time": "2026-11-03T15:57:00+00:00",
+   "source": "Indian Express",
+   "title": "Global climate goals must respect national circumstances: India",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee610f9f864d9e99cd1cfaff2feba0&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-06T22:44:28.210551+00:00"
+ "updated": "2026-11-06T23:20:43.217975+00:00"
 }
