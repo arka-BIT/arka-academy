@@ -38,7 +38,8 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 BOT = Path(__file__).resolve().parent
-DATA = BOT.parent / "data"
+# all files live together at the top level of the repository
+DATA = BOT if (BOT / "feeds.json").exists() and not (BOT.parent / "bot").exists() else BOT.parent / "data"
 UA = "ArkaAcademyUpdatesBot/1.0 (+https://www.youtube.com/@arkaacademy-forcivilservices)"
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 NOW = dt.datetime.now(dt.timezone.utc)
