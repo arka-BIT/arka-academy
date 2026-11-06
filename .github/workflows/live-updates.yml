@@ -1,0 +1,39 @@
+name: Live UPSC updates
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch, tag and publish updates
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python arka_updates.py
+      - name: Save results
+        run: |
+          git config user.name "arka-updates-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add updates.json pending.json state.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Live updates $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push
