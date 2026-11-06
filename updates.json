@@ -1,1 +1,75 @@
-{"items": [], "updated": null}
+{
+ "items": [
+  {
+   "id": "5a1cde92887fe78a",
+   "time": "2026-11-06T20:27:48+00:00",
+   "source": "The Hindu",
+   "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "f92d54100b416ef3",
+   "time": "2026-11-06T20:17:51+00:00",
+   "source": "The Hindu",
+   "title": "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton cultivators not eligible for protection under FRA Act",
+   "url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "a965294997899ebf",
+   "time": "2026-11-06T20:00:58+00:00",
+   "source": "The Hindu",
+   "title": "Supreme Court decision on BBMB arrears a victory for Himachal, says CM Sukhu",
+   "url": "https://www.thehindu.com/news/national/himachal-pradesh/supreme-court-decision-on-bbmb-arrears-a-victory-for-himachal-says-cm-sukhu/article71675039.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "465563497bbded7a",
+   "time": "2026-11-06T19:31:21+00:00",
+   "source": "The Hindu",
+   "title": "Bamboo shelters, cool roofs to climate-proof Telangana cities",
+   "url": "https://www.thehindu.com/news/national/telangana/bamboo-shelters-cool-roofs-to-climate-proof-telangana-cities/article71671169.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "eb24565dd088c994",
+   "time": "2026-11-06T19:25:44+00:00",
+   "source": "The Hindu",
+   "title": "Governor asks for status report on all public universities in Karnataka",
+   "url": "https://www.thehindu.com/news/national/karnataka/governor-asks-for-status-report-on-all-public-universities-in-karnataka/article71675530.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "e707d93f51a78c84",
+   "time": "2026-11-06T19:19:34+00:00",
+   "source": "The Hindu",
+   "title": "University of Madras, Sutherland Global Services to collaborate for setting up an AI lab",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/university-of-madras-sutherland-global-services-to-collaborate-for-setting-up-an-ai-lab/article71675403.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "16a4dfa85eb076a3",
+   "time": "2026-11-06T19:17:49+00:00",
+   "source": "The Hindu",
+   "title": "T.N. govt. enhances compensation for various categories of human-wildlife conflict",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-enhances-compensation-for-various-categories-of-human-wildlife-conflict/article71675570.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  }
+ ],
+ "updated": "2026-11-06T20:53:46.449885+00:00"
+}
