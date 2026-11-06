@@ -122,9 +122,10 @@ def fetch_rss(src):
         try:
             items = parse_rss(src, http(url))
             if n:
-                log(f"  {src['name']}: main feed blocked, used backup feed")
+                log(f"  {src['name']}: route {n + 1} worked ({urllib.parse.urlparse(url).netloc})")
             return items
         except (urllib.error.URLError, ET.ParseError, ValueError, TimeoutError) as e:
+            log(f"  {src['name']}: route {n + 1} refused ({urllib.parse.urlparse(url).netloc}: {e})")
             last = e
     raise last
 
