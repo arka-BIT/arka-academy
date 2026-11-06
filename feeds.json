@@ -11,7 +11,7 @@
     {"name": "PIB", "type": "x", "enabled": false, "username": "PIB_India"}
   ],
   "settings": {
-    "mode": "review",
+    "mode": "auto",
     "min_score": 60,
     "max_items_on_site": 40,
     "max_age_hours": 96,
