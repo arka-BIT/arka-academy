@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "307a328fb0d84a7b",
+   "time": "2026-11-06T23:56:30.272986+00:00",
+   "source": "DD News",
+   "title": "वैश्विक AI निवेश में गिरावट से भारतीय बाजारों को मिल सकता है फायदा : उदय कोटक",
+   "url": "https://ddnews.gov.in/decline-in-global-ai-investment-could-benefit-indian-markets-uday-kotak/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "3da0d474fb270956",
    "time": "2026-11-06T23:20:43.217975+00:00",
    "source": "DD News",
@@ -28,6 +38,16 @@
    "url": "https://ddnews.gov.in/earthquake-5-0-magnitude-earthquake-near-china-ladakh-border-tremors-felt-in-jammu-and-kashmir/",
    "paper": "GS-III",
    "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "64dd63425eaa65f4",
+   "time": "2026-11-06T23:16:54+00:00",
+   "source": "The Hindu",
+   "title": "Paraguayan President Pena impeached over banking crisis",
+   "url": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -161,16 +181,6 @@
    "exam": "Both"
   },
   {
-   "id": "78a92c77c6b4535d",
-   "time": "2026-11-06T18:45:26+00:00",
-   "source": "The Hindu",
-   "title": "Krishi mela will be held for three days instead of one day: Agriculture Minister",
-   "url": "https://www.thehindu.com/news/national/karnataka/krishi-mela-will-be-held-for-three-days-instead-of-one-day-agriculture-minister/article71675785.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
    "id": "44301e99ba178178",
    "time": "2026-11-06T15:05:59+00:00",
    "source": "Indian Express",
@@ -199,7 +209,17 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
+  },
+  {
+   "id": "853f6b7ec720c253",
+   "time": "2026-11-03T15:57:00+00:00",
+   "source": "Indian Express",
+   "title": "Global climate goals must respect national circumstances: India",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6971468b4f74b3d3f7796d32e557&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-06T23:20:43.217975+00:00"
+ "updated": "2026-11-06T23:56:30.272986+00:00"
 }
