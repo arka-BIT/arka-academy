@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "c6081aacbaeba155",
+   "time": "2026-11-06T22:44:28.210551+00:00",
+   "source": "DD News",
+   "title": "AI रेगुलेशन के डर से वैश्विक बाजारों में तबाही, एशियाई शेयर बाजारों में भारी गिरावट",
+   "url": "https://ddnews.gov.in/global-markets-in-turmoil-over-ai-regulation-fears/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "191cb168728a672f",
    "time": "2026-11-06T22:15:45.486609+00:00",
    "source": "DD News",
@@ -139,7 +149,17 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
+  },
+  {
+   "id": "84580f2538c7203b",
+   "time": "2026-11-03T15:57:00+00:00",
+   "source": "Indian Express",
+   "title": "Global climate goals must respect national circumstances: India",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee58908a1e427c852bce12ae6f96f5&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-06T22:15:45.486609+00:00"
+ "updated": "2026-11-06T22:44:28.210551+00:00"
 }
