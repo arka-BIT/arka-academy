@@ -251,20 +251,29 @@ KEYWORDS = {
     ("GS-III", "Disaster Management"): "cyclone|earthquake|flood|landslide|disaster|ndma|heatwave",
     ("GS-I", "Art & Culture"): "heritage|unesco|temple|festival of|classical|archaeolog|manuscript",
     ("GS-II", "Health"): "health|hospital|disease|ayushman|nutrition|tb |malaria",
-    ("GS-II", "Education"): "education|school|university|nep|skill",
+    ("GS-II", "Education"): "education polic|ministry of education|nep |university|ugc|ncert|cbse|skill india|literacy",
     ("GS-II", "Schemes"): "scheme|yojana|mission|abhiyan",
 }
-NOISE = r"condolence|greets|wishes|birthday|anniversary greetings|pays tribute|cricket|film|actor|rally"
+NOISE = (r"condolence|greets|greetings|wishes|birthday|pays tribute|homage|cricket|ipl|t20|odi|football|"
+         r"film|movie|actor|actress|box office|celebrity|rally|campaign|horse.trading|arrested|police|fir |"
+         r"murder|killed|rape|robbery|theft|accident|suicide|bail|absconding|mla |mlas |bjp|congress|aap |"
+         r"tvk|dmk|aiadmk|tmc|bsp|samajwadi|shiv sena|party worker|councillor|deputy mayor|mayor")
+
+
+def is_noise(text):
+    return bool(re.search(NOISE, f" {text} ".lower()))
 
 
 def classify_keywords(it):
-    t = f" {it['title']} {it['text']} ".lower()
-    if re.search(NOISE, t):
+    title = f" {it['title']} ".lower()
+    if is_noise(title):
         return {"relevant": False, "score": 0}
-    for (paper, topic), pat in KEYWORDS.items():
-        if re.search(pat, t):
-            return {"relevant": True, "score": 65, "headline": it["title"][:160], "paper": paper,
-                    "topic": topic, "exam": "Both"}
+    # a topic word in the headline counts; one found only in the snippet is too weak to publish
+    for where, score in ((title, 65), (f" {it['text']} ".lower(), 50)):
+        for (paper, topic), pat in KEYWORDS.items():
+            if re.search(pat, where):
+                return {"relevant": True, "score": score, "headline": it["title"][:160], "paper": paper,
+                        "topic": topic, "exam": "Both"}
     return {"relevant": False, "score": 20}
 
 
@@ -316,11 +325,19 @@ def publish(updates, entry):
     updates["items"].append({k: entry[k] for k in ("id", "time", "source", "title", "url", "paper", "topic", "exam")})
 
 
-def prune(updates, settings):
+def prune(updates, settings, keyword_mode=False):
     limit = NOW - dt.timedelta(hours=settings.get("max_age_hours", 96))
     items = [x for x in updates["items"] if dt.datetime.fromisoformat(x["time"]) >= limit]
+    if keyword_mode:  # clear out items the stricter filter would now reject
+        items = [x for x in items if not is_noise(x["title"])]
     items.sort(key=lambda x: x["time"], reverse=True)
-    updates["items"] = items[: settings.get("max_items_on_site", 40)]
+    # keep a mix of sources: no single source may take more than its share of the panel
+    cap, count, kept = settings.get("max_per_source_on_site", 12), {}, []
+    for x in items:
+        if count.get(x["source"], 0) < cap:
+            kept.append(x)
+            count[x["source"]] = count.get(x["source"], 0) + 1
+    updates["items"] = kept[: settings.get("max_items_on_site", 40)]
 
 
 # ---------------------------------------------------------------- main
@@ -389,7 +406,7 @@ def main():
 
     if dry:
         return
-    prune(updates, settings)
+    prune(updates, settings, keyword_mode=not os.environ.get("ANTHROPIC_API_KEY"))
     updates["updated"] = NOW.isoformat()
     state["seen"] = list(seen)[-4000:]
     save_json(DATA / "updates.json", updates)

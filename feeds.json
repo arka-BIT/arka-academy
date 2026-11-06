@@ -34,6 +34,7 @@
     "mode": "auto",
     "min_score": 60,
     "max_items_on_site": 40,
+    "max_per_source_on_site": 12,
     "max_age_hours": 96,
     "max_new_per_source_per_run": 15,
     "model": "claude-haiku-5-5"
