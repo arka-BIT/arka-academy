@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "191cb168728a672f",
+   "time": "2026-11-06T22:15:45.486609+00:00",
+   "source": "DD News",
+   "title": "भारत बनेगा दुनिया की ‘AI एप्लिकेशन राजधानी’: अश्विनी वैष्णव",
+   "url": "https://ddnews.gov.in/ashwini-vaishnaw-says-india-focused-on-becoming-ai-application-capital-of-the-world/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "5a1cde92887fe78a",
    "time": "2026-11-06T20:27:48+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "aebbb0cf4bf83bb2",
-   "time": "2026-11-06T18:52:18+00:00",
-   "source": "The Hindu",
-   "title": "Delhi’s Mustafabad election official lodges police complaint seeking FIR over false Form 7s filing",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhis-mustafabad-election-official-lodges-police-complaint-seeking-fir-over-false-form-7s-after-the-hindu-report/article71675514.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
    "id": "78a92c77c6b4535d",
    "time": "2026-11-06T18:45:26+00:00",
    "source": "The Hindu",
@@ -128,236 +128,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/krishi-mela-will-be-held-for-three-days-instead-of-one-day-agriculture-minister/article71675785.ece",
    "paper": "GS-III",
    "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "cd81d4ec2e565cca",
-   "time": "2026-11-06T18:43:39+00:00",
-   "source": "The Hindu",
-   "title": "TVK MLA’s ‘horse trading’ claim: former Madurai Deputy Mayor P.M. Mannan arrested, released on bail",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mlas-horse-trading-claim-former-madurai-deputy-mayor-pm-mannan-arrested-released-on-bail/article71673191.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7dce8df0d746e803",
-   "time": "2026-11-06T18:41:45+00:00",
-   "source": "The Hindu",
-   "title": "DMK demands independent probe into book procurement for Periyar Arivulagam",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-demands-independent-probe-into-book-procurement-for-periyar-arivulagam/article71675492.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "adedd3281aeed7aa",
-   "time": "2026-11-06T18:39:44+00:00",
-   "source": "The Hindu",
-   "title": "Officials told to make fool proof arrangements for CII Partnership Summit",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/officials-told-to-make-fool-proof-arrangements-for-cii-partnership-summit/article71675145.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "35c7c8b65cb0e301",
-   "time": "2026-11-06T18:37:26+00:00",
-   "source": "The Hindu",
-   "title": "Stakeholders oppose Karnataka govt.’s move to make private schools adopt govt. schools",
-   "url": "https://www.thehindu.com/news/national/karnataka/stakeholders-oppose-karnataka-govts-move-to-make-private-schools-adopt-govt-schools/article71675462.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "c2986afd6d521fd2",
-   "time": "2026-11-06T18:37:22+00:00",
-   "source": "The Hindu",
-   "title": "Rural women narrate stories on how Gruha Lakshmi scheme helped build their lives",
-   "url": "https://www.thehindu.com/news/national/karnataka/rural-women-narrate-stories-on-how-gruha-lakshmi-scheme-helped-build-their-lives/article71675677.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "b339963e4edd7ec3",
-   "time": "2026-11-06T18:34:36+00:00",
-   "source": "The Hindu",
-   "title": "Cyberabad Police explore one-way traffic system across Biodiversity, HITEC City corridors",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-police-explore-one-way-traffic-system-across-biodiversity-hitec-city-corridors/article71675124.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "d8f3e8f1181c9552",
-   "time": "2026-11-06T18:32:49+00:00",
-   "source": "The Hindu",
-   "title": "Anganwadi children hospitalised after suspected food poisoning",
-   "url": "https://www.thehindu.com/news/national/karnataka/anganwadi-children-hospitalised-after-suspected-food-poisoning/article71675540.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "7685c9ba6c0baa67",
-   "time": "2026-11-06T18:31:59+00:00",
-   "source": "The Hindu",
-   "title": "T.N. govt. disbands High-Level Committee on Union-State Relations",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-disbands-high-level-committee-on-union-state-relations/article71675771.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "00b740d4ab6034d9",
-   "time": "2026-11-06T18:26:57+00:00",
-   "source": "The Hindu",
-   "title": "Bengaluru: Seven-murder accused allegedly terrorised neighbours for years, say residents",
-   "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-seven-murder-accused-allegedly-terrorised-neighbours-for-years-say-residents/article71675781.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "cc1f40e737d58f25",
-   "time": "2026-11-06T18:14:03+00:00",
-   "source": "The Hindu",
-   "title": "Migrant worker held in Perumbavoor for alleged murder of toddler stepson",
-   "url": "https://www.thehindu.com/news/national/kerala/migrant-worker-held-in-perumbavoor-for-alleged-murder-of-toddler-stepson/article71675121.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "0c9753b805fbd5d8",
-   "time": "2026-11-06T18:06:39+00:00",
-   "source": "The Hindu",
-   "title": "Israel Opposition eases on ultra-Orthodox draft to oust Netanyahu",
-   "url": "https://www.thehindu.com/news/international/israel-opposition-eases-on-ultra-orthodox-draft-to-oust-netanyahu/article71675551.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "07dabdc95df831f8",
-   "time": "2026-11-06T18:02:34+00:00",
-   "source": "The Hindu",
-   "title": "Two USCIRF officials claim vigilante attacks on gurdwaras in India",
-   "url": "https://www.thehindu.com/news/national/us-commission-on-international-religious-freedom-claim-vigilante-attacks-on-india-gurdwaras/article71675663.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "ad1072e20d5e868c",
-   "time": "2026-11-06T17:57:51+00:00",
-   "source": "The Hindu",
-   "title": "SHRC issues notices to Anantapur Collector, Education officials over Raptadu attack",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/shrc-issues-notices-to-anantapur-collector-education-officials-over-raptadu-attack/article71675560.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "060ad19adc5bd409",
-   "time": "2026-11-06T17:49:11+00:00",
-   "source": "The Hindu",
-   "title": "OBC creamy layer verdict not a blanket revision of service allocations, seniority: Supreme Court",
-   "url": "https://www.thehindu.com/news/national/sc-clarifies-its-march-2026-verdict-on-obc-creamy-layer-policy-will-not-apply-retrospectively/article71673040.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "bf6425df220e4757",
-   "time": "2026-11-06T17:46:11+00:00",
-   "source": "The Hindu",
-   "title": "Cyclones caused over ₹500 crore loss to A.P. Energy Department, says Minister",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-caused-over-500-crore-loss-to-ap-energy-department-says-minister/article71675481.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "a5cfc386438fd148",
-   "time": "2026-11-06T17:34:48+00:00",
-   "source": "The Hindu",
-   "title": "Demarcation of Kaniyanapura elephant corridor soon: Minister",
-   "url": "https://www.thehindu.com/news/national/karnataka/demarcation-of-kaniyanapura-elephant-corridor-soon-minister/article71674856.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "8052c38dbb6dcf80",
-   "time": "2026-11-06T17:28:41+00:00",
-   "source": "The Hindu",
-   "title": "Rajasthan police rescue six minors forced into sex work, five arrested",
-   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-police-rescue-six-minors-forced-into-sex-work-five-arrested/article71675172.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "959742056a2c2b21",
-   "time": "2026-11-06T17:24:28+00:00",
-   "source": "The Hindu",
-   "title": "Airstrikes on market in southwestern Yemen kill at least 30, Houthis say",
-   "url": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "905cae3da11186f2",
-   "time": "2026-11-06T17:18:36+00:00",
-   "source": "The Hindu",
-   "title": "Bangladesh rescues Rohingya refugees in border gun battle",
-   "url": "https://www.thehindu.com/news/international/bangladesh-rescues-rohingya-refugees-in-border-gun-battle/article71675805.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "c2f3a20c4149c98f",
-   "time": "2026-11-06T16:27:44+00:00",
-   "source": "The Hindu",
-   "title": "Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang",
-   "url": "https://www.thehindu.com/news/international/trump-administration-scraps-meeting-of-panel-that-includes-metas-zuckerberg-nvidias-huang/article71675185.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "82a51d534d4e7ccb",
-   "time": "2026-11-06T16:13:36+00:00",
-   "source": "The Hindu",
-   "title": "Europe bomb threats 'likely co-ordinated campaign': Irish government",
-   "url": "https://www.thehindu.com/news/international/europe-bomb-threats-likely-co-ordinated-campaign-irish-government/article71675060.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "f602cd1a07a26b72",
-   "time": "2026-11-06T16:06:39+00:00",
-   "source": "The Hindu",
-   "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
-   "url": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "15536122e1b083f6",
-   "time": "2026-11-06T15:57:52+00:00",
-   "source": "The Hindu",
-   "title": "ADNOC inks 10-year LNG supply and purchase agreement with Gujarat Energy",
-   "url": "https://www.thehindu.com/business/Industry/adnoc-inks-10-year-lng-supply-and-purchase-agreement-with-gujarat-energy/article71674806.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -369,37 +139,7 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
-  },
-  {
-   "id": "883808700c68f105",
-   "time": "2026-11-06T14:10:06+00:00",
-   "source": "The Hindu",
-   "title": "$2.5 trillion wiped off Nasdaq 100 as U.S. midterm outcome adds to AI stock slump",
-   "url": "https://www.thehindu.com/business/us-midterm-results-add-to-global-ai-linked-stock-sell-off-25-trillion-wiped-off-nasdaq-100/article71674646.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "718d17990dc34739",
-   "time": "2026-11-06T13:23:05+00:00",
-   "source": "The Hindu",
-   "title": "Bus carrying kids to school crashes in France, leaving 2 dead and 16 injured",
-   "url": "https://www.thehindu.com/news/international/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured/article71674197.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "e2d9309b2cfa64b8",
-   "time": "2026-11-06T12:58:06+00:00",
-   "source": "The Hindu",
-   "title": "Magnitude-6.1 earthquake hits off Tokyo, no tsunami alert: weather agency",
-   "url": "https://www.thehindu.com/news/international/tokyo-japan-earthquake-weather-updates-november-6-2026/article71674193.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-06T22:00:31.465434+00:00"
+ "updated": "2026-11-06T22:15:45.486609+00:00"
 }
