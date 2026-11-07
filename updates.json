@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "2445062a29f5ad25",
+   "time": "2026-11-07T07:44:22+00:00",
+   "source": "The Hindu",
+   "title": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
+   "url": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
    "id": "7f03f0040453810e",
    "time": "2026-11-07T07:28:12+00:00",
    "source": "The Hindu",
@@ -126,16 +136,6 @@
    "source": "The Hindu",
    "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
    "url": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "63315350d0ced8d6",
-   "time": "2026-11-07T03:02:44+00:00",
-   "source": "The Hindu",
-   "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
-   "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
@@ -271,5 +271,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T07:35:55.829800+00:00"
+ "updated": "2026-11-07T07:50:43.522702+00:00"
 }
