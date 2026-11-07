@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "03055fbeda4f0d89",
+   "time": "2026-11-07T21:13:02+00:00",
+   "source": "The Hindu",
+   "title": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
    "id": "76759ebb424b26ac",
    "time": "2026-11-07T19:14:19+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/ethanol-blending-keralam-govt-asks-civil-supplies-commissioner-to-conduct-checks/article71678852.ece",
    "paper": "GS-II",
    "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "733651002e7c4364",
-   "time": "2026-11-07T15:16:10+00:00",
-   "source": "The Hindu",
-   "title": "Supreme Court says stopping vehicles, construction to prevent pollution ‘old, tried, failed tools’",
-   "url": "https://www.thehindu.com/news/national/supreme-court-on-stopping-vehicles-construction-to-prevent-pollution/article71674613.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T20:59:26.051619+00:00"
+ "updated": "2026-11-07T21:28:09.109646+00:00"
 }
