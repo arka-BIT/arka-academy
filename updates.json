@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "48f791085cedd9eb",
+   "time": "2026-11-07T18:10:32+00:00",
+   "source": "The Hindu",
+   "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "ea8f39de058c8e68",
    "time": "2026-11-07T17:36:01+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/hundreds-of-devotees-visit-deviramma-temple-in-chikkamagaluru/article71678621.ece",
    "paper": "GS-I",
    "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "770712e39d5ea70a",
-   "time": "2026-11-07T14:49:11+00:00",
-   "source": "The Hindu",
-   "title": "Agents booked, five fertility centres named in Hyderabad’s illegal oocyte racket; Telangana Women’s Commission questions inaction",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/agents-booked-five-fertility-centres-named-in-hyderabads-illegal-oocyte-racket-telangana-womens-commission-questions-inaction/article71678778.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T17:56:57.506670+00:00"
+ "updated": "2026-11-07T18:26:22.631287+00:00"
 }
