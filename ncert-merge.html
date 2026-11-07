@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><title>Arka Academy · Merge NCERT chapters</title>
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Hanken+Grotesk:wght@400;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+<style>
+body{margin:0;background:#FFFBF3;color:#0A1F44;font:15px/1.6 "Hanken Grotesk",system-ui,sans-serif}
+header{background:#082F6B;color:#fff;padding:12px 20px;border-bottom:4px solid #f2b705;font:400 1.2rem "Young Serif",serif}
+.w{max-width:820px;margin:0 auto;padding:26px 20px}h1{font:400 1.8rem "Young Serif",serif;color:#082F6B;margin:0 0 .3em}
+.drop{border:2.5px dashed #c8b48c;border-radius:14px;background:#fff;padding:34px;text-align:center;cursor:pointer}.drop.on{border-color:#D91E2E;background:#fdeceb}
+.drop b{display:block;font-size:1.1rem;color:#082F6B}.hint{color:#3B5278;font-size:14px}
+ol{background:#fff;border:1px solid #E8DBC2;border-radius:12px;padding:14px 14px 14px 40px;max-height:300px;overflow:auto}
+li{padding:3px 0}li span{color:#3B5278;font-size:13px}
+.btn{display:inline-block;padding:11px 20px;border-radius:9px;border:0;background:#D91E2E;color:#fff;font:700 15px "Hanken Grotesk";cursor:pointer;text-decoration:none}.btn:disabled{opacity:.5}
+.msg{padding:10px 14px;border-radius:9px;margin:12px 0;font-weight:600;background:#EAF2FF}.msg.err{background:#fdeceb;color:#a3121f}
+input[type=text]{width:100%;padding:10px 12px;border:1px solid #E8DBC2;border-radius:9px;font:inherit;box-sizing:border-box}
+</style></head><body><header>Arka Academy · Tools</header><div class="w">
+<h1>Merge NCERT chapters into one PDF</h1>
+<p class="hint">1. Download a book’s ZIP from ncert.nic.in. 2. Drop it below. 3. Click <b>Merge</b> and save the single PDF. 4. Upload it in admin → Resources → NCERT book. Everything happens on your own computer; nothing is uploaded here.</p>
+<label class="drop" id="drop"><b>Drop the NCERT ZIP here, or click to choose it</b><span class="hint">You can also select several chapter PDFs at once.</span>
+<input id="pick" type="file" accept=".zip,application/zip,application/pdf" multiple hidden></label>
+<div id="msg"></div>
+<div id="out" hidden>
+<p><b>Chapters in order</b> <span class="hint">(prelims first, then chapters by number, then appendices)</span></p><ol id="list"></ol>
+<label for="nm"><b>File name</b></label><input id="nm" type="text">
+<p style="margin-top:14px"><button class="btn" id="go" type="button">Merge into one PDF</button></p>
+</div></div>
+<script>
+var $=function(i){return document.getElementById(i)},FILES=[];
+function msg(t,err){$("msg").innerHTML=t?'<div class="msg'+(err?" err":"")+'">'+t.replace(/</g,"&lt;")+'</div>':""}
+if(!window.JSZip||!window.PDFLib)msg("Could not load the merge tools. Check your internet connection and reload the page.",1);
+function prefix(names){if(!names.length)return"";var p=names[0];names.forEach(function(n){while(n.indexOf(p)!==0)p=p.slice(0,-1)});return p}
+function rank(suffix){if(/^ps$/i.test(suffix)||/^p\d*$/i.test(suffix))return[-1,suffix];var m=suffix.match(/^(\d+)$/);if(m)return[0,+m[1]];return[1,suffix.toLowerCase()]}
+function order(files){var base=files.map(function(f){return f.name.split("/").pop().replace(/\.pdf$/i,"")}),p=prefix(base);
+if(/\d$/.test(p)&&base.some(function(b){return/^\d/.test(b.slice(p.length))}))p=p.replace(/\d+$/,function(d){return d.length>1?d.slice(0,1):d});
+files.forEach(function(f,i){f.key=rank(base[i].slice(p.length)||base[i])});
+return files.sort(function(a,b){if(a.key[0]!==b.key[0])return a.key[0]-b.key[0];return a.key[1]<b.key[1]?-1:a.key[1]>b.key[1]?1:0})}
+function show(){$("list").innerHTML=FILES.map(function(f){return"<li>"+f.name.split("/").pop().replace(/</g,"&lt;")+" <span>("+Math.round(f.size/1024)+" KB)</span></li>"}).join("");$("out").hidden=!FILES.length}
+function take(list){msg("Reading…");FILES=[];var jobs=[];
+Array.prototype.forEach.call(list,function(f){if(/\.zip$/i.test(f.name)){if(!$("nm").value)$("nm").value=f.name.replace(/\.zip$/i,"")+"-complete.pdf";
+jobs.push(JSZip.loadAsync(f).then(function(z){var ps=[];z.forEach(function(path,e){if(!e.dir&&/\.pdf$/i.test(path)&&!/__MACOSX/.test(path))ps.push(e.async("uint8array").then(function(d){FILES.push({name:path,size:d.length,data:d})}))});return Promise.all(ps)}))}
+else if(/\.pdf$/i.test(f.name))jobs.push(f.arrayBuffer().then(function(d){FILES.push({name:f.name,size:d.byteLength,data:new Uint8Array(d)})}))});
+Promise.all(jobs).then(function(){if(!FILES.length)return msg("No PDF chapters were found in that file.",1);order(FILES);if(!$("nm").value)$("nm").value="NCERT-book-complete.pdf";show();msg(FILES.length+" chapters found. Check the order, then click Merge.")}).catch(function(e){msg("Could not read the file: "+e.message,1)})}
+$("pick").onchange=function(){take(this.files)};
+["dragenter","dragover"].forEach(function(t){$("drop").addEventListener(t,function(e){e.preventDefault();this.classList.add("on")})});
+["dragleave","drop"].forEach(function(t){$("drop").addEventListener(t,function(e){e.preventDefault();this.classList.remove("on")})});
+$("drop").addEventListener("drop",function(e){take(e.dataTransfer.files)});
+$("go").onclick=function(){var b=this;b.disabled=true;msg("Merging… this can take a minute for large books.");
+(async function(){var out=await PDFLib.PDFDocument.create();
+for(var i=0;i<FILES.length;i++){var src=await PDFLib.PDFDocument.load(FILES[i].data,{ignoreEncryption:true});var pages=await out.copyPages(src,src.getPageIndices());pages.forEach(function(p){out.addPage(p)})}
+var bytes=await out.save(),url=URL.createObjectURL(new Blob([bytes],{type:"application/pdf"})),a=document.createElement("a"),n=$("nm").value.trim()||"NCERT-book-complete.pdf";
+a.href=url;a.download=/\.pdf$/i.test(n)?n:n+".pdf";document.body.appendChild(a);a.click();a.remove();
+msg("Done: "+out.getPageCount()+" pages. The merged PDF has been downloaded. Now upload it in admin → Resources → NCERT book.")})()
+.catch(function(e){msg("Merge failed: "+e.message,1)}).finally(function(){b.disabled=false})};
+</script></body></html>
