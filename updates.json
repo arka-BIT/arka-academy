@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "7f03f0040453810e",
+   "time": "2026-11-07T07:28:12+00:00",
+   "source": "The Hindu",
+   "title": "Why soaring freight costs amid West Asia conflict are squeezing Keralam exports",
+   "url": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "8ed8914b3fe83f6d",
    "time": "2026-11-07T06:23:19+00:00",
    "source": "The Hindu",
@@ -126,16 +136,6 @@
    "source": "The Hindu",
    "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
    "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "0c28a931d272ae8f",
-   "time": "2026-11-07T01:44:47+00:00",
-   "source": "The Hindu",
-   "title": "India, EU conclude multi-billion Euro global innovation programme",
-   "url": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
@@ -271,5 +271,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T06:58:40.546055+00:00"
+ "updated": "2026-11-07T07:35:55.829800+00:00"
 }
