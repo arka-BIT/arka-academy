@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "66522a76edad1118",
+   "time": "2026-11-07T21:25:09+00:00",
+   "source": "The Hindu",
+   "title": "Presidency University expels student for allegedly defacing Vivekananda poster",
+   "url": "https://www.thehindu.com/news/cities/kolkata/presidency-universityexpels-student-for-allegedly-defacing-vivekananda-poster/article71678327.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
    "id": "03055fbeda4f0d89",
    "time": "2026-11-07T21:13:02+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/kldb-to-launch-livestock-research-centre-at-mattupetty/article71678675.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "45fed41b1e73d84f",
-   "time": "2026-11-07T15:16:22+00:00",
-   "source": "The Hindu",
-   "title": "Ethanol blending: Keralam govt. asks Civil Supplies Commissioner to conduct checks",
-   "url": "https://www.thehindu.com/news/national/kerala/ethanol-blending-keralam-govt-asks-civil-supplies-commissioner-to-conduct-checks/article71678852.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T22:01:40.535063+00:00"
+ "updated": "2026-11-07T22:41:19.730614+00:00"
 }
