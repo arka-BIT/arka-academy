@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "5957c26d40da9429",
+   "time": "2026-11-07T11:07:24+00:00",
+   "source": "The Hindu",
+   "title": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
+   "url": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "271f80d7002a3065",
    "time": "2026-11-07T09:45:43+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "b4a36cfc679a611d",
-   "time": "2026-11-07T05:33:25+00:00",
-   "source": "The Hindu",
-   "title": "Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
    "id": "84c3b2cd32f006a9",
    "time": "2026-11-07T04:37:05.078474+00:00",
    "source": "DD News",
@@ -138,6 +138,16 @@
    "url": "https://ddnews.gov.in/cyclone-murasu-andhra-pradesh-chief-minister-chandrababu-naidu-conducts-an-aerial-survey-of-cyclone-affected-districts/",
    "paper": "GS-III",
    "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "5ddc56650ae6b914",
+   "time": "2026-11-07T02:53:00+00:00",
+   "source": "Indian Express",
+   "title": "Rahul shepherds India to win a low-scoring semi-thriller vs New Zealand",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0a1c5f6c447f8dd6d1584247c31c&url=https%3a%2f%2findianexpress.com%2farticle%2fsports%2fcricket%2fkl-rahul-shepherds-india-to-win-low-scoring-thriller-new-zealand-10954717%2f&c=3285014053755053633&mkt=en-ca",
+   "paper": "GS-II",
+   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -201,11 +211,41 @@
    "exam": "Both"
   },
   {
+   "id": "b23a26a63699fa61",
+   "time": "2026-11-06T18:17:00+00:00",
+   "source": "Indian Express",
+   "title": "‘Tunnel boring machine export curbs should not strain India-China ties’: Global Times",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0a1c5f6c447f8dd6d1584247c31c&url=https%3a%2f%2findianexpress.com%2farticle%2fbusiness%2ftunnel-boring-machine-export-curbs-strain-india-china-ties-global-times-10954158%2f&c=6843858965635780226&mkt=en-ca",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "44301e99ba178178",
    "time": "2026-11-06T15:05:59+00:00",
    "source": "Indian Express",
    "title": "India Inc’s overseas investments surge 41% to Rs 16.71 lakh crore",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPano0akRLYWhFSWI3X2tmX1I3VmFCYWUyV0dQbHNYV2YwZ1dwWDBJS1gwSjdUU0VZWkE3R2Njd2tkVzFuY0ZxUWRLQU5OYk1zNUdFSnNOMkF2Xzlrekd0Tm5SbzJyVDZyT2V6RENuWmxFOURjeEh1ZGhnQmZNUjB0a2FFYnBhalo2UWVQVTZCVUtvQjl2bHdkMFRyVkU3VWpUdEZLbWhnRjFnZ0pTZllZemV3MFZXeUHSAb4BQVVfeXFMTWZlNW5XT3VjemM5czE0ZlYtQl9hejk2Ty01ZTc3U0ZtS2lsRUNiLW1iWVg3TUNyUW01YklQZS1HWjJfQTE0REdUZXl1WjFPX3BPU0ZiNkZfUGZUM3l3ampMMHRfaWRMWlBrUXRuTkloWU1ONGNmcWROUjEwTDQ5RFpja0JYZTV0MGNEeVI5MlVHT1lJWGhYZXdxX3ZtX1Jmd05TYi1CUjVrUGhOTkE0RzZTMDFQeHprZEhkeEtGUQ?oc=5",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "69f3f39091d02d19",
+   "time": "2026-11-06T09:06:00+00:00",
+   "source": "Indian Express",
+   "title": "Khalid Jamil names India squad for New Zealand friendlies, Gurpreet dropped",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0a1c5f6c447f8dd6d1584247c31c&url=https%3a%2f%2findianexpress.com%2farticle%2fsports%2ffootball%2fkhalid-jamil-india-squad-upcoming-new-zealand-friendlies-10953882%2f&c=3677796469604539465&mkt=en-ca",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "4c27930c07ea72be",
+   "time": "2026-11-06T07:06:00+00:00",
+   "source": "Indian Express",
+   "title": "India Inc’s overseas investments surge 41% to Rs 16.71 lakh crore",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0a1c5f6c447f8dd6d1584247c31c&url=https%3a%2f%2findianexpress.com%2farticle%2fbusiness%2findia-inc-overseas-investments-rise-41-percent-16-71-lakh-crore-10953826%2f&c=2203940935482481861&mkt=en-ca",
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
@@ -271,5 +311,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T10:46:09.778510+00:00"
+ "updated": "2026-11-07T11:22:00.730764+00:00"
 }
