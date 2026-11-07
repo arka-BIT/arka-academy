@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "39a38933e73083eb",
+   "time": "2026-11-07T15:48:03+00:00",
+   "source": "The Hindu",
+   "title": "Health Minister U.T. Khader sets up fresh panel to review treatment of infant who suffered brain damage at private hospital",
+   "url": "https://www.thehindu.com/news/national/karnataka/health-minister-ut-khader-sets-up-fresh-panel-to-review-treatment-of-infant-who-suffered-brain-damage-at-private-hospital/article71678855.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "9c56c2cb3c2c86de",
    "time": "2026-11-07T15:32:50+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/brics-sustainable-lifestyle-week-concludes-at-kurnool-ggh/article71677992.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "5957c26d40da9429",
-   "time": "2026-11-07T11:07:24+00:00",
-   "source": "The Hindu",
-   "title": "Enforcement Directorate is not a ‘super cop’, says Karnataka High Court",
-   "url": "https://www.thehindu.com/news/national/karnataka/enforcement-directorate-is-not-a-super-cop-says-karnataka-high-court/article71677912.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -249,77 +249,7 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
-  },
-  {
-   "id": "84580f2538c7203b",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee58908a1e427c852bce12ae6f96f5&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "5812d2a4ea58b8b0",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee610f9f864d9e99cd1cfaff2feba0&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "853f6b7ec720c253",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee6971468b4f74b3d3f7796d32e557&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "c9e78cf39d762448",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee81cae99640a2b63dfd9fa6d96b75&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "9eed5f23d4e45cca",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeab45fd314ca4875f05c3a8f471f3&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "6a0b27e9ba2386be",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeb6d452c247c1bbe381da846190d8&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "2af8f622592903e1",
-   "time": "2026-11-03T15:57:00+00:00",
-   "source": "Indian Express",
-   "title": "Global climate goals must respect national circumstances: India",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef12c93ac14bc2b23a0d2825f0fe05&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-07T15:42:11.202579+00:00"
+ "updated": "2026-11-07T16:16:41.854855+00:00"
 }
