@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "ef16a3b443c35cc4",
+   "time": "2026-11-07T14:11:22+00:00",
+   "source": "The Hindu",
+   "title": "Health officials step up surveillance as Shigella cases rise in Malappuram",
+   "url": "https://www.thehindu.com/news/national/kerala/health-officials-step-up-surveillance-as-shigella-cases-rise-in-malappuram/article71678304.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "e4b306f93ad461c7",
+   "time": "2026-11-07T14:11:03+00:00",
+   "source": "The Hindu",
+   "title": "Farmers demand water from Bhadra reservoir for plantations",
+   "url": "https://www.thehindu.com/news/national/karnataka/farmers-demand-water-from-bhadra-reservoir-for-plantations/article71678006.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "57a41c2c2bc19430",
+   "time": "2026-11-07T14:10:22+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka dairy farmers seek KMF reforms based on Amul model, more investment in milk procurement",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-dairy-farmers-seek-kmf-reforms-based-on-amul-model-more-investment-in-milk-procurement/article71678244.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "933583cf9d045846",
+   "time": "2026-11-07T14:06:49+00:00",
+   "source": "The Hindu",
+   "title": "Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support",
+   "url": "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "9548e743f1e75428",
    "time": "2026-11-07T13:07:23+00:00",
    "source": "The Hindu",
@@ -78,46 +118,6 @@
    "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "2445062a29f5ad25",
-   "time": "2026-11-07T07:44:22+00:00",
-   "source": "The Hindu",
-   "title": "U.S. FBI and regulators issue warning about cyber-attacks targeting industrial refrigerators",
-   "url": "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "7f03f0040453810e",
-   "time": "2026-11-07T07:28:12+00:00",
-   "source": "The Hindu",
-   "title": "Why soaring freight costs amid West Asia conflict are squeezing Keralam exports",
-   "url": "https://www.thehindu.com/news/national/kerala/why-soaring-freight-costs-amid-west-asia-conflict-are-squeezing-keralam-exports/article71677514.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "8ed8914b3fe83f6d",
-   "time": "2026-11-07T06:23:19+00:00",
-   "source": "The Hindu",
-   "title": "CM Vijay orders ₹2,000-crore allocation to implement Vetri Laptop Scheme for college students",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-orders-2000-crore-allocation-to-implement-vetri-laptop-scheme-for-college-students/article71677364.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "eaf7ce2e651bf615",
-   "time": "2026-11-07T06:21:47+00:00",
-   "source": "The Hindu",
-   "title": "Ex-Keralam Excise Commissioner flags corruption, bribery in report to govt; CPI(M) alleges Minister’s involvement",
-   "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T13:31:27.597646+00:00"
+ "updated": "2026-11-07T14:21:55.084640+00:00"
 }
