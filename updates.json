@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "ea8f39de058c8e68",
+   "time": "2026-11-07T17:36:01+00:00",
+   "source": "The Hindu",
+   "title": "As COP31 comes to Turkiye, satellites reveal a landfill methane problem",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "400d53d1a402a4d3",
    "time": "2026-11-07T16:50:53+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/Hyderabad/agents-booked-five-fertility-centres-named-in-hyderabads-illegal-oocyte-racket-telangana-womens-commission-questions-inaction/article71678778.ece",
    "paper": "GS-III",
    "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "ef16a3b443c35cc4",
-   "time": "2026-11-07T14:11:22+00:00",
-   "source": "The Hindu",
-   "title": "Health officials step up surveillance as Shigella cases rise in Malappuram",
-   "url": "https://www.thehindu.com/news/national/kerala/health-officials-step-up-surveillance-as-shigella-cases-rise-in-malappuram/article71678304.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T17:26:33.251104+00:00"
+ "updated": "2026-11-07T17:56:57.506670+00:00"
 }
