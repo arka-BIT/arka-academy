@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "8ed8914b3fe83f6d",
+   "time": "2026-11-07T06:23:19+00:00",
+   "source": "The Hindu",
+   "title": "CM Vijay orders ₹2,000-crore allocation to implement Vetri Laptop Scheme for college students",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-orders-2000-crore-allocation-to-implement-vetri-laptop-scheme-for-college-students/article71677364.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "eaf7ce2e651bf615",
+   "time": "2026-11-07T06:21:47+00:00",
+   "source": "The Hindu",
+   "title": "Ex-Keralam Excise Commissioner flags corruption, bribery in report to govt; CPI(M) alleges Minister’s involvement",
+   "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "faaba106cfd35e84",
+   "time": "2026-11-07T06:17:08+00:00",
+   "source": "The Hindu",
+   "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+   "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "b4a36cfc679a611d",
    "time": "2026-11-07T05:33:25+00:00",
    "source": "The Hindu",
@@ -111,16 +141,6 @@
    "exam": "Both"
   },
   {
-   "id": "24918dce50f11259",
-   "time": "2026-11-07T01:16:06+00:00",
-   "source": "The Hindu",
-   "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "307a328fb0d84a7b",
    "time": "2026-11-06T23:56:30.272986+00:00",
    "source": "DD News",
@@ -161,16 +181,6 @@
    "exam": "Both"
   },
   {
-   "id": "64dd63425eaa65f4",
-   "time": "2026-11-06T23:16:54+00:00",
-   "source": "The Hindu",
-   "title": "Paraguayan President Pena impeached over banking crisis",
-   "url": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
    "id": "c6081aacbaeba155",
    "time": "2026-11-06T22:44:28.210551+00:00",
    "source": "DD News",
@@ -188,16 +198,6 @@
    "url": "https://ddnews.gov.in/ashwini-vaishnaw-says-india-focused-on-becoming-ai-application-capital-of-the-world/",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "5a1cde92887fe78a",
-   "time": "2026-11-06T20:27:48+00:00",
-   "source": "The Hindu",
-   "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
-   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -271,5 +271,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T06:10:15.952325+00:00"
+ "updated": "2026-11-07T06:58:40.546055+00:00"
 }
