@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "271f80d7002a3065",
+   "time": "2026-11-07T09:45:43+00:00",
+   "source": "The Hindu",
+   "title": "Sharad Pawar discharged from Mumbai hospital",
+   "url": "https://www.thehindu.com/news/national/sharad-pawar-discharged-from-mumbai-hospital/article71677827.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "cbb1ec99720e7841",
    "time": "2026-11-07T09:19:58+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry",
    "url": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "12226aaf8d2492c7",
-   "time": "2026-11-07T05:13:52+00:00",
-   "source": "The Hindu",
-   "title": "Delhi High Court grants 7-day custody parole to Al Falah University chairman to tend to ailing wife",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-7-day-custody-parole-to-al-falah-university-chairman-to-tend-to-ailing-wife/article71674472.ece",
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
@@ -271,5 +271,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T09:25:09.748608+00:00"
+ "updated": "2026-11-07T10:09:14.699456+00:00"
 }
