@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "9548e743f1e75428",
+   "time": "2026-11-07T13:07:23+00:00",
+   "source": "The Hindu",
+   "title": "BRICS Sustainable Lifestyle Week concludes at Kurnool GGH",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/brics-sustainable-lifestyle-week-concludes-at-kurnool-ggh/article71677992.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "5957c26d40da9429",
    "time": "2026-11-07T11:07:24+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "Ex-Keralam Excise Commissioner flags corruption, bribery in report to govt; CPI(M) alleges Minister’s involvement",
    "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "faaba106cfd35e84",
-   "time": "2026-11-07T06:17:08+00:00",
-   "source": "The Hindu",
-   "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
-   "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T12:36:40.117385+00:00"
+ "updated": "2026-11-07T13:31:27.597646+00:00"
 }
