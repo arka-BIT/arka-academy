@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "24918dce50f11259",
+   "time": "2026-11-07T01:16:06+00:00",
+   "source": "The Hindu",
+   "title": "At COP31, the ‘overshoot’ narrative cannot replace climate action",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/at-cop31-the-overshoot-narrative-cannot-replace-climate-action/article71677165.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "307a328fb0d84a7b",
    "time": "2026-11-06T23:56:30.272986+00:00",
    "source": "DD News",
@@ -91,6 +101,26 @@
    "exam": "Both"
   },
   {
+   "id": "ac762888cd85362b",
+   "time": "2026-11-06T20:13:05+00:00",
+   "source": "The Hindu",
+   "title": "Climate scientist P.V. Joseph passes away",
+   "url": "https://www.thehindu.com/news/national/kerala/climate-scientist-pv-joseph-passes-away/article71675962.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "decfe5b3f3c53c3e",
+   "time": "2026-11-06T20:11:50+00:00",
+   "source": "The Hindu",
+   "title": "Genuineness of Thachankary’s hospitalisation needs to be examined thorougly: Kerala High Court",
+   "url": "https://www.thehindu.com/news/national/kerala/genuineness-of-thachankarys-hospitalisation-needs-to-be-examined-thorougly-kerala-high-court/article71675182.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "a965294997899ebf",
    "time": "2026-11-06T20:00:58+00:00",
    "source": "The Hindu",
@@ -151,36 +181,6 @@
    "exam": "Both"
   },
   {
-   "id": "b1b4227d92549c5d",
-   "time": "2026-11-06T19:08:11+00:00",
-   "source": "The Hindu",
-   "title": "AIDSO protests in Kalaburagi and Ballari against proposed closure of 45,000 government schools",
-   "url": "https://www.thehindu.com/news/national/karnataka/aidso-protests-in-kalaburagi-and-ballari-against-proposed-closure-of-45000-government-schools/article71674372.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "b2e9d31fb38ffc07",
-   "time": "2026-11-06T19:01:26+00:00",
-   "source": "The Hindu",
-   "title": "Fire breaks out at high-rise building in Mumbai’s Ghatkopar East; three hospitalised",
-   "url": "https://www.thehindu.com/news/cities/mumbai/fire-breaks-out-at-high-rise-building-in-mumbai-ghatkopar-east/article71675897.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "5370f8c3ce0522c1",
-   "time": "2026-11-06T18:54:50+00:00",
-   "source": "The Hindu",
-   "title": "Students urged to explore opportunities beyond conventional career paths",
-   "url": "https://www.thehindu.com/news/cities/Vijayawada/students-urged-to-explore-opportunities-beyond-conventional-career-paths/article71674665.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
    "id": "44301e99ba178178",
    "time": "2026-11-06T15:05:59+00:00",
    "source": "Indian Express",
@@ -219,7 +219,17 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
+  },
+  {
+   "id": "c9e78cf39d762448",
+   "time": "2026-11-03T15:57:00+00:00",
+   "source": "Indian Express",
+   "title": "Global climate goals must respect national circumstances: India",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aee81cae99640a2b63dfd9fa6d96b75&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-06T23:56:30.272986+00:00"
+ "updated": "2026-11-07T01:40:14.448986+00:00"
 }
