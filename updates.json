@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "84c3b2cd32f006a9",
+   "time": "2026-11-07T04:37:05.078474+00:00",
+   "source": "DD News",
+   "title": "AI की मदद से बैंकों, एनबीएफसी और फिनटेक कंपनियों पर बढ़ रहे साइबर हमले, केंद्र सरकार ने जारी की चेतावनी",
+   "url": "https://ddnews.gov.in/cyberattacks-on-banks-nbfcs-and-fintech-companies-are-on-the-rise-with-the-help-of-ai-central-government-issues-a-warning/",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "94798cb8082d4cbb",
+   "time": "2026-11-07T04:37:05.078474+00:00",
+   "source": "DD News",
+   "title": "Cyclone ‘Murasu’: आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू ने चक्रवात प्रभावित जिलों का किया हवाई सर्वेक्षण",
+   "url": "https://ddnews.gov.in/cyclone-murasu-andhra-pradesh-chief-minister-chandrababu-naidu-conducts-an-aerial-survey-of-cyclone-affected-districts/",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "c1bd10b9d0edc4c3",
+   "time": "2026-11-07T03:45:36+00:00",
+   "source": "The Hindu",
+   "title": "Deepavali 2026: All you need to know about Supreme Court-permitted time slots, green crackers and other directives",
+   "url": "https://www.thehindu.com/news/national/diwali-2026-supreme-court-green-cracker-norms-permitted-time-slots-and-other-directions/article71669897.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "24918dce50f11259",
    "time": "2026-11-07T01:16:06+00:00",
    "source": "The Hindu",
@@ -171,16 +201,6 @@
    "exam": "Both"
   },
   {
-   "id": "d613fd085bc232af",
-   "time": "2026-11-06T19:16:00+00:00",
-   "source": "The Hindu",
-   "title": "Rajnath Singh to celebrate Deepavali with troops at India-China border in Sikkim",
-   "url": "https://www.thehindu.com/news/national/rajnath-singh-to-celebrate-deepavali-with-troops-at-india-china-border-in-sikkim/article71675923.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
    "id": "44301e99ba178178",
    "time": "2026-11-06T15:05:59+00:00",
    "source": "Indian Express",
@@ -229,7 +249,17 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
+  },
+  {
+   "id": "9eed5f23d4e45cca",
+   "time": "2026-11-03T15:57:00+00:00",
+   "source": "Indian Express",
+   "title": "Global climate goals must respect national circumstances: India",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeeab45fd314ca4875f05c3a8f471f3&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-cop31-electrification-target-climate-finance-bhupender-yadav-10949528%2f&c=15059686967838160311&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-07T01:40:14.448986+00:00"
+ "updated": "2026-11-07T04:37:05.078474+00:00"
 }
