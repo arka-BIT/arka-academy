@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "76759ebb424b26ac",
+   "time": "2026-11-07T19:14:19+00:00",
+   "source": "The Hindu",
+   "title": "ATMED, Anna University sign MoU to boost medical device industry-academia collaboration",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/atmed-anna-university-sign-mou-to-boost-medical-device-industry-academia-collaboration/article71678224.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "f68ebf259dc807a3",
    "time": "2026-11-07T18:33:53+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/supreme-court-on-stopping-vehicles-construction-to-prevent-pollution/article71674613.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "02bb2ff271e4477a",
-   "time": "2026-11-07T15:11:31+00:00",
-   "source": "The Hindu",
-   "title": "Vande Mataram resonates across key landmarks of Mysuru",
-   "url": "https://www.thehindu.com/news/national/karnataka/vande-mataram-resonates-across-key-landmarks-of-mysuru/article71678308.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T19:13:28.212525+00:00"
+ "updated": "2026-11-07T19:48:47.384885+00:00"
 }
