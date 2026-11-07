@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "b4a36cfc679a611d",
+   "time": "2026-11-07T05:33:25+00:00",
+   "source": "The Hindu",
+   "title": "Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "12226aaf8d2492c7",
    "time": "2026-11-07T05:13:52+00:00",
    "source": "The Hindu",
@@ -86,6 +96,16 @@
    "source": "The Hindu",
    "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
    "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "0c28a931d272ae8f",
+   "time": "2026-11-07T01:44:47+00:00",
+   "source": "The Hindu",
+   "title": "India, EU conclude multi-billion Euro global innovation programme",
+   "url": "https://www.thehindu.com/news/national/india-eu-conclude-multi-billion-euro-global-innovation-programme/article71677171.ece",
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
@@ -181,26 +201,6 @@
    "exam": "Both"
   },
   {
-   "id": "f92d54100b416ef3",
-   "time": "2026-11-06T20:17:51+00:00",
-   "source": "The Hindu",
-   "title": "Agasthyamalai conservation case: SC directs temporary and non-resident silk cotton cultivators not eligible for protection under FRA Act",
-   "url": "https://www.thehindu.com/news/national/agasthyamalai-conservation-case-sc-directs-temporary-and-non-resident-silk-cotton-cultivators-not-eligible-for-protection-under-fra-act/article71675811.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "ac762888cd85362b",
-   "time": "2026-11-06T20:13:05+00:00",
-   "source": "The Hindu",
-   "title": "Climate scientist P.V. Joseph passes away",
-   "url": "https://www.thehindu.com/news/national/kerala/climate-scientist-pv-joseph-passes-away/article71675962.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "44301e99ba178178",
    "time": "2026-11-06T15:05:59+00:00",
    "source": "Indian Express",
@@ -271,5 +271,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T05:26:38.170438+00:00"
+ "updated": "2026-11-07T06:10:15.952325+00:00"
 }
