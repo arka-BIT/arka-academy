@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "f68ebf259dc807a3",
+   "time": "2026-11-07T18:33:53+00:00",
+   "source": "The Hindu",
+   "title": "Bangalore University to establish placement cells in all affiliated colleges",
+   "url": "https://www.thehindu.com/news/national/karnataka/bangalore-university-to-establish-placement-cells-in-all-affiliated-colleges/article71678576.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
    "id": "48f791085cedd9eb",
    "time": "2026-11-07T18:10:32+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/vande-mataram-resonates-across-key-landmarks-of-mysuru/article71678308.ece",
    "paper": "GS-III",
    "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "41ee1b7e3badb6b9",
-   "time": "2026-11-07T14:54:25+00:00",
-   "source": "The Hindu",
-   "title": "Hundreds of devotees visit Deviramma Temple in Chikkamagaluru",
-   "url": "https://www.thehindu.com/news/national/karnataka/hundreds-of-devotees-visit-deviramma-temple-in-chikkamagaluru/article71678621.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T18:26:22.631287+00:00"
+ "updated": "2026-11-07T19:13:28.212525+00:00"
 }
