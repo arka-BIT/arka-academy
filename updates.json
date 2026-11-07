@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "400d53d1a402a4d3",
+   "time": "2026-11-07T16:50:53+00:00",
+   "source": "The Hindu",
+   "title": "Bihar’s Ranivas Mound declared monument of national importance",
+   "url": "https://www.thehindu.com/news/national/bihar/bihars-ranivas-mound-declared-monument-of-national-importance/article71679038.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "554a798da6c05ad1",
+   "time": "2026-11-07T16:42:41+00:00",
+   "source": "The Hindu",
+   "title": "Rajasthan bags national award for performance in renewable energy framework",
+   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-bags-national-award-for-performance-in-renewable-energy-framework/article71678610.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "5f0d0f215aea7196",
+   "time": "2026-11-07T16:24:17+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone Murasu: Andhra Pradesh CM orders swift power restoration, price control measures",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-andhra-pradesh-cm-orders-swift-power-restoration-price-control-measures/article71679137.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "39a38933e73083eb",
    "time": "2026-11-07T15:48:03+00:00",
    "source": "The Hindu",
@@ -51,6 +81,16 @@
    "exam": "Both"
   },
   {
+   "id": "02bb2ff271e4477a",
+   "time": "2026-11-07T15:11:31+00:00",
+   "source": "The Hindu",
+   "title": "Vande Mataram resonates across key landmarks of Mysuru",
+   "url": "https://www.thehindu.com/news/national/karnataka/vande-mataram-resonates-across-key-landmarks-of-mysuru/article71678308.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "41ee1b7e3badb6b9",
    "time": "2026-11-07T14:54:25+00:00",
    "source": "The Hindu",
@@ -78,46 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/health-officials-step-up-surveillance-as-shigella-cases-rise-in-malappuram/article71678304.ece",
    "paper": "GS-II",
    "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "e4b306f93ad461c7",
-   "time": "2026-11-07T14:11:03+00:00",
-   "source": "The Hindu",
-   "title": "Farmers demand water from Bhadra reservoir for plantations",
-   "url": "https://www.thehindu.com/news/national/karnataka/farmers-demand-water-from-bhadra-reservoir-for-plantations/article71678006.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "57a41c2c2bc19430",
-   "time": "2026-11-07T14:10:22+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka dairy farmers seek KMF reforms based on Amul model, more investment in milk procurement",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-dairy-farmers-seek-kmf-reforms-based-on-amul-model-more-investment-in-milk-procurement/article71678244.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "933583cf9d045846",
-   "time": "2026-11-07T14:06:49+00:00",
-   "source": "The Hindu",
-   "title": "Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support",
-   "url": "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "9548e743f1e75428",
-   "time": "2026-11-07T13:07:23+00:00",
-   "source": "The Hindu",
-   "title": "BRICS Sustainable Lifestyle Week concludes at Kurnool GGH",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/brics-sustainable-lifestyle-week-concludes-at-kurnool-ggh/article71677992.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T16:16:41.854855+00:00"
+ "updated": "2026-11-07T16:59:08.306597+00:00"
 }
