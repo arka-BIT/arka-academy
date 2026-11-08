@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "d6211c5802c06c01",
+   "time": "2026-11-08T08:38:18+00:00",
+   "source": "The Hindu",
+   "title": "Sanskrit University suspension row: Govindan backs stir, says it should go on till suspended students write exams",
+   "url": "https://www.thehindu.com/news/national/kerala/sanskrit-university-suspension-row-govindan-backs-stir-says-it-should-go-on-till-suspended-students-write-exams/article71680767.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
    "id": "9bd4d5cc1d6194da",
    "time": "2026-11-08T06:09:18+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/atmed-anna-university-sign-mou-to-boost-medical-device-industry-academia-collaboration/article71678224.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "1024c78662145c3a",
-   "time": "2026-11-07T18:42:52+00:00",
-   "source": "The Hindu",
-   "title": "Keralam measles outbreaks call for a relook at disease epidemiology",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -259,7 +259,17 @@
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
+  },
+  {
+   "id": "b84d7a8d11bedb03",
+   "time": "2026-11-05T05:18:00+00:00",
+   "source": "Indian Express",
+   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0390706a145d9bd978dbca8e83202&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-08T08:04:41.658939+00:00"
+ "updated": "2026-11-08T08:54:27.723359+00:00"
 }
