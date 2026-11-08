@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "57b8dbdd83d36371",
+   "time": "2026-11-08T13:55:14+00:00",
+   "source": "The Hindu",
+   "title": "Poland calls Krakow shooting rampage 'terrorist' attack",
+   "url": "https://www.thehindu.com/news/international/poland-calls-krakow-shooting-rampage-terrorist-attack/article71681007.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
    "id": "98219eb8efa34201",
    "time": "2026-11-08T13:09:19+00:00",
    "source": "The Hindu",
@@ -118,16 +128,6 @@
    "url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "d8d91c37264e5842",
-   "time": "2026-11-08T01:22:02+00:00",
-   "source": "The Hindu",
-   "title": "Paraguay's ousted President charged with crimes linked to collapse of major bank",
-   "url": "https://www.thehindu.com/news/international/paraguays-ousted-president-charged-with-crimes-linked-to-collapse-of-major-bank/article71680452.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T13:18:40.462980+00:00"
+ "updated": "2026-11-08T14:07:12.161305+00:00"
 }
