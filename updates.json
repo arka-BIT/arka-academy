@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "0488ad0dbc272f71",
+   "time": "2026-11-07T23:51:56+00:00",
+   "source": "The Hindu",
+   "title": "Explosions heard in areas in southern Iran, Iranian media report",
+   "url": "https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "66522a76edad1118",
    "time": "2026-11-07T21:25:09+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "A half-century of rhythm: T.R. Chandran from Thrissur, a constant at Chembai Sangeetholsavam",
    "url": "https://www.thehindu.com/news/national/kerala/a-half-century-of-rhythm-tr-chandran-from-thrissur-a-constant-at-chembai-sangeetholsavam/article71675096.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "553568e0ca15f434",
-   "time": "2026-11-07T15:31:24+00:00",
-   "source": "The Hindu",
-   "title": "KLDB to launch livestock research centre at Mattupetty",
-   "url": "https://www.thehindu.com/news/national/kerala/kldb-to-launch-livestock-research-centre-at-mattupetty/article71678675.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-07T23:42:29.132861+00:00"
+ "updated": "2026-11-08T00:13:43.745534+00:00"
 }
