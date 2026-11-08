@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "9bd4d5cc1d6194da",
+   "time": "2026-11-08T06:09:18+00:00",
+   "source": "The Hindu",
+   "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+   "url": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "f75b93d129f0ce2b",
+   "time": "2026-11-08T05:40:14+00:00",
+   "source": "The Hindu",
+   "title": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
+   "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "65471edba3cd4c82",
    "time": "2026-11-08T04:09:59+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/keralam-measles-outbreaks-call-for-a-relook-at-disease-epidemiology/article71678654.ece",
    "paper": "GS-II",
    "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "f68ebf259dc807a3",
-   "time": "2026-11-07T18:33:53+00:00",
-   "source": "The Hindu",
-   "title": "Bangalore University to establish placement cells in all affiliated colleges",
-   "url": "https://www.thehindu.com/news/national/karnataka/bangalore-university-to-establish-placement-cells-in-all-affiliated-colleges/article71678576.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "48f791085cedd9eb",
-   "time": "2026-11-07T18:10:32+00:00",
-   "source": "The Hindu",
-   "title": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T05:27:46.192113+00:00"
+ "updated": "2026-11-08T06:12:53.101849+00:00"
 }
