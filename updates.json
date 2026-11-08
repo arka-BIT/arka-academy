@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "6e615f7bd5f5213f",
+   "time": "2026-11-08T15:11:59+00:00",
+   "source": "The Hindu",
+   "title": "Train collision in Egypt's Giza kills four, injures 88 others: Health Ministry",
+   "url": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "3971d474080f5614",
    "time": "2026-11-08T14:38:45+00:00",
    "source": "The Hindu",
@@ -118,16 +128,6 @@
    "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "65471edba3cd4c82",
-   "time": "2026-11-08T04:09:59+00:00",
-   "source": "The Hindu",
-   "title": "Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt",
-   "url": "https://www.thehindu.com/news/national/punjab/deportation-of-wanted-punjab-gangster-afridi-secured-after-10-month-international-manhunt/article71680508.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T15:16:05.669239+00:00"
+ "updated": "2026-11-08T15:57:56.467091+00:00"
 }
