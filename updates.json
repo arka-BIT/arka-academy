@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "6d7bc3c9fcd1a7f1",
+   "time": "2026-11-08T22:33:09+00:00",
+   "source": "The Hindu",
+   "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
+   "url": "https://www.thehindu.com/news/international/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/article71681228.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "cfee062726c25e02",
    "time": "2026-11-08T19:31:12+00:00",
    "source": "The Hindu",
@@ -128,16 +138,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFV3Q1JIdGpwN1VCbGRIWFd5Q2lGOE9vc1Bra203R2ZJVWhhazN5RFEySEthZ1ZrSHVZb0ZhbGt4d1ZDQTkwWGo0djh4bzZvaUVXc1Z1VVROT0hGdzBqZHJyeFNmODNDMFRpUGhLeWdFbTdJa2RBWG11bVdpTXNWcjRjbE1Wd0J6NDRrNEYwRU1sM3diMDNIYy1uQmZPRDRnQXd0bk9n0gGsAUFVX3lxTE5wazdxU284Qy00d0VKN3dGNHpBWWNDVEtHYlF1c0dZNXRMRjZOLVVJOWpNZmNOaGFWLWJHV0tqWTFCM1NQQTJPTW5BeVI2QW9sUzdqZ3pSUFZNZ29TaEVPRHJ2QW9qOUF5dzE0eGx0dFNaajc3ODV3Yl9JWXpZc3dIYkZNM1ljTXF5RHhqd2s5RFJXZXc4eEJHZGlZTkVTV3dGT1lJeHNxOHFVTVE?oc=5",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "9bd4d5cc1d6194da",
-   "time": "2026-11-08T06:09:18+00:00",
-   "source": "The Hindu",
-   "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
-   "url": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T22:25:45.055959+00:00"
+ "updated": "2026-11-08T22:57:40.954662+00:00"
 }
