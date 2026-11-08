@@ -101,6 +101,16 @@
    "exam": "Both"
   },
   {
+   "id": "26a5e248491e8a4c",
+   "time": "2026-11-08T07:02:00+00:00",
+   "source": "Indian Express",
+   "title": "Anuj Shrivatri creates history, becomes India’s 100th Grandmaster",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ab278dd14daea84b6bf068050703&url=https%3a%2f%2findianexpress.com%2farticle%2fsports%2fchess%2fanuj-shrivatri-creates-history-becomes-india-100th-grandmaster-10955712%2f&c=15606170844199868649&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "8995e12f3193060b",
    "time": "2026-11-08T06:21:53+00:00",
    "source": "Indian Express",
@@ -309,17 +319,7 @@
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
-  },
-  {
-   "id": "c1c07e9534eb5dfa",
-   "time": "2026-11-05T05:18:00+00:00",
-   "source": "Indian Express",
-   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af068d46ded4098b24cef70608f0e64&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-08T16:26:43.233986+00:00"
+ "updated": "2026-11-08T17:01:22.170119+00:00"
 }
