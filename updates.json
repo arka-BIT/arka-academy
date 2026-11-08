@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "ba5fef4757ffe590",
+   "time": "2026-11-08T23:08:52+00:00",
+   "source": "The Hindu",
+   "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+   "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "6d7bc3c9fcd1a7f1",
    "time": "2026-11-08T22:33:09+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/international/crew-member-missing-as-indonesian-water-bombing-helicopter-crashes/article71680784.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "d6211c5802c06c01",
-   "time": "2026-11-08T08:38:18+00:00",
-   "source": "The Hindu",
-   "title": "Sanskrit University suspension row: Govindan backs stir, says it should go on till suspended students write exams",
-   "url": "https://www.thehindu.com/news/national/kerala/sanskrit-university-suspension-row-govindan-backs-stir-says-it-should-go-on-till-suspended-students-write-exams/article71680767.ece",
-   "paper": "GS-II",
-   "topic": "Education",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T22:57:40.954662+00:00"
+ "updated": "2026-11-08T23:25:14.459463+00:00"
 }
