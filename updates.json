@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "65471edba3cd4c82",
+   "time": "2026-11-08T04:09:59+00:00",
+   "source": "The Hindu",
+   "title": "Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt",
+   "url": "https://www.thehindu.com/news/national/punjab/deportation-of-wanted-punjab-gangster-afridi-secured-after-10-month-international-manhunt/article71680508.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "7618d5fe7f6063ce",
    "time": "2026-11-08T01:54:19+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "ea8f39de058c8e68",
-   "time": "2026-11-07T17:36:01+00:00",
-   "source": "The Hindu",
-   "title": "As COP31 comes to Turkiye, satellites reveal a landfill methane problem",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/as-cop31-comes-to-turkiye-satellites-reveal-a-landfill-methane-problem/article71679128.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-08T03:39:56.091432+00:00"
+ "updated": "2026-11-08T04:30:23.282382+00:00"
 }
