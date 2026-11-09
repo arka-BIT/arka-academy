@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "91881602e121f262",
+   "time": "2026-11-09T17:01:39+00:00",
+   "source": "The Hindu",
+   "title": "Bengaluru to host first meet of Commonwealth Women Parliamentarians‘ regional unit",
+   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "33555b0448a6c00c",
+   "time": "2026-11-09T16:52:54+00:00",
+   "source": "The Hindu",
+   "title": "Telangana High Court sentences Ranga Reddy Collector to six months’ imprisonment for wilful disobedience in a contempt case",
+   "url": "https://www.thehindu.com/news/national/telangana/hc-awards-six-month-imprisonment-to-ranga-reddy-district-collector/article71683763.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "7992f3cba461082d",
    "time": "2026-11-09T16:25:46+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/mahadevaswamy-is-new-v-c-of-gm-university-davangere/article71666138.ece",
    "paper": "GS-II",
    "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "bf2fabab1b6d0320",
-   "time": "2026-11-09T14:33:55+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka High Court issues guidelines to BMRCL for ensuring access to remaining portion of properties acquired for metro project",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "554d09909be13c8b",
-   "time": "2026-11-09T13:46:03+00:00",
-   "source": "The Hindu",
-   "title": "CM reviews progress of existing Central schemes",
-   "url": "https://www.thehindu.com/news/national/kerala/cm-reviews-progress-of-existing-central-schemes/article71682703.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T16:42:32.535916+00:00"
+ "updated": "2026-11-09T17:37:08.812524+00:00"
 }
