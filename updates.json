@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "85deb682b65bb951",
+   "time": "2026-11-09T12:17:28+00:00",
+   "source": "The Hindu",
+   "title": "At peak of air pollution on Deepavali night, data goes missing at several govt monitoring stations in Delhi",
+   "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "117b578973c074a6",
+   "time": "2026-11-09T12:09:22+00:00",
+   "source": "The Hindu",
+   "title": "Gaps in services at Telangana’s secondary healthcare facilities to be assessed",
+   "url": "https://www.thehindu.com/news/national/telangana/gaps-in-services-at-telanganas-secondary-healthcare-facilities-to-be-assessed/article71682175.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "e03860a5b4c392c2",
+   "time": "2026-11-09T12:02:42+00:00",
+   "source": "The Hindu",
+   "title": "Chennai sees dozens of cracker-related eye injuries; doctors call for caution",
+   "url": "https://www.thehindu.com/news/cities/chennai/chennai-sees-dozens-of-cracker-related-eye-injuries-doctors-call-for-caution/article71681956.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "e188e6606cf655e5",
+   "time": "2026-11-09T12:00:40+00:00",
+   "source": "The Hindu",
+   "title": "Mumbai records 137 firecracker-induced blazes on Deepavali, highest single-day tally in years",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-records-137-firecracker-induced-blazes-on-deepavali-highest-single-day-tally-in-years/article71682449.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "dedf770aa47cf8ae",
+   "time": "2026-11-09T11:45:46+00:00",
+   "source": "The Hindu",
+   "title": "Cyber bullying affects one in ten students worldwide; AI fuels new threat: UNESCO",
+   "url": "https://www.thehindu.com/sci-tech/health/cyber-bullying-affects-one-in-ten-students-worldwide-ai-fuels-new-threat-unesco/article71682385.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "ceda6b875c118f02",
+   "time": "2026-11-09T11:33:15+00:00",
+   "source": "The Hindu",
+   "title": "TASMAC liquor price hike: Association of recreation clubs, star hotels challenges empty bottle buyback scheme in Tamil Nadu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-liquor-price-hike-association-of-recreation-clubs-star-hotels-challenges-empty-bottle-buyback-scheme-in-tamil-nadu/article71681587.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
    "id": "13f07d63e6da7536",
    "time": "2026-11-09T11:13:20+00:00",
    "source": "The Hindu",
@@ -58,66 +118,6 @@
    "url": "https://www.thehindu.com/news/national/gujarat/amit-shah-sets-2028-deadline-for-drug-free-gujarat-urges-citizens-to-report-narcotics-sales/article71682050.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "f49053ea91ba2165",
-   "time": "2026-11-09T09:43:09+00:00",
-   "source": "The Hindu",
-   "title": "Delhi AQI: What is PM2.5 and the row over air pollution data post Deepavali?",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-aqi-today-air-pollution-what-is-pm-25-row-after-diwali-deepavali/article71681783.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "a182b1918289ae7e",
-   "time": "2026-11-09T09:06:13+00:00",
-   "source": "The Hindu",
-   "title": "Union Minister Rijiju attends Hajj Conference in Saudi Arabia, stresses pilgrims’ welfare",
-   "url": "https://www.thehindu.com/news/national/union-minister-rijiju-attends-hajj-conference-in-saudi-arabia-stresses-pilgrims-welfare/article71681860.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "006ee6f39f875842",
-   "time": "2026-11-09T08:50:29+00:00",
-   "source": "The Hindu",
-   "title": "India’s April-August oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
-   "url": "https://www.thehindu.com/news/national/indias-april-august-oilmeal-exports-fall-285-as-soymeal-loses-to-brazil-argentina/article71681830.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "dc6edb987b754115",
-   "time": "2026-11-09T08:39:17+00:00",
-   "source": "The Hindu",
-   "title": "How governmentality exacerbates the problem of farmers’ stubble burning",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-governmentality-exacerbates-the-problem-of-farmers-stubble-burning/article69449013.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "c61253b194b5e104",
-   "time": "2026-11-09T07:58:31+00:00",
-   "source": "The Hindu",
-   "title": "World entering ‘age of climate extremes’: UN chief",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-entering-age-of-climate-extremes-un-chief/article71681846.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "77d90f4e346d3fa3",
-   "time": "2026-11-09T07:29:05+00:00",
-   "source": "The Hindu",
-   "title": "Why can’t helicopters be used for sea drowning rescue operations, asks Madras High Court",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/why-cant-helicopters-be-used-for-sea-drowning-rescue-operations-asks-madras-high-court/article71681473.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T11:31:38.467826+00:00"
+ "updated": "2026-11-09T12:35:40.214155+00:00"
 }
