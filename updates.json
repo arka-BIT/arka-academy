@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "006ee6f39f875842",
+   "time": "2026-11-09T08:50:29+00:00",
+   "source": "The Hindu",
+   "title": "India’s April-August oilmeal exports fall 28.5% as soymeal loses to Brazil, Argentina",
+   "url": "https://www.thehindu.com/news/national/indias-april-august-oilmeal-exports-fall-285-as-soymeal-loses-to-brazil-argentina/article71681830.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "dc6edb987b754115",
+   "time": "2026-11-09T08:39:17+00:00",
+   "source": "The Hindu",
+   "title": "How governmentality exacerbates the problem of farmers’ stubble burning",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/how-governmentality-exacerbates-the-problem-of-farmers-stubble-burning/article69449013.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "c61253b194b5e104",
    "time": "2026-11-09T07:58:31+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece",
    "paper": "GS-III",
    "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "7fe1605623c2f004",
-   "time": "2026-11-09T03:31:40+00:00",
-   "source": "The Hindu",
-   "title": "Parliament’s Monsoon session remains unprorogued for record 88 days",
-   "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "efe2fc422a730002",
-   "time": "2026-11-09T01:48:22+00:00",
-   "source": "The Hindu",
-   "title": "COP31 opens as climate and geopolitical pressures mount",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T07:59:23.577257+00:00"
+ "updated": "2026-11-09T08:59:08.515875+00:00"
 }
