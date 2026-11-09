@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "24e017a44d8a4c6a",
+   "time": "2026-11-09T04:22:20+00:00",
+   "source": "The Hindu",
+   "title": "In Pictures: From homes to markets, India celebrates the festival of lights",
+   "url": "https://www.thehindu.com/news/national/in-pictures-celebration-of-deepavali/article71681165.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "d2c4a183ec500089",
+   "time": "2026-11-09T04:20:28+00:00",
+   "source": "The Hindu",
+   "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
+   "url": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "4c0f5721f2f94da4",
+   "time": "2026-11-09T04:07:44+00:00",
+   "source": "The Hindu",
+   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "e1881f6d6ed4b9e0",
+   "time": "2026-11-09T03:49:12+00:00",
+   "source": "The Hindu",
+   "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+   "url": "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "7fe1605623c2f004",
+   "time": "2026-11-09T03:31:40+00:00",
+   "source": "The Hindu",
+   "title": "Parliament’s Monsoon session remains unprorogued for record 88 days",
+   "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "efe2fc422a730002",
    "time": "2026-11-09T01:48:22+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/news/international/poland-calls-krakow-shooting-rampage-terrorist-attack/article71681007.ece",
    "paper": "GS-III",
    "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "98219eb8efa34201",
-   "time": "2026-11-08T13:09:19+00:00",
-   "source": "The Hindu",
-   "title": "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
-   "url": "https://www.thehindu.com/news/national/maharashtra/portion-of-false-ceiling-collapses-outside-mumbai-airport-terminal-one-hurt/article71680978.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "6213f206a35e85fc",
-   "time": "2026-11-08T13:00:39+00:00",
-   "source": "The Hindu",
-   "title": "Israel Defence Minister says 'mission not complete' on Iran",
-   "url": "https://www.thehindu.com/news/international/israel-defence-minister-says-mission-not-complete-on-iran/article71680896.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "dd380d3c1da75db9",
-   "time": "2026-11-08T11:05:22+00:00",
-   "source": "The Hindu",
-   "title": "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/banner-seeking-info-on-four-wanted-terrorists-surfaces-in-srinagars-lal-chowk/article71680859.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "da850801db90a62b",
-   "time": "2026-11-08T10:39:52+00:00",
-   "source": "The Hindu",
-   "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
-   "url": "https://www.thehindu.com/news/international/poland-mourns-victims-of-krakow-mass-shooting-as-security-fears-grow/article71680839.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "d0be5339928c1bbc",
-   "time": "2026-11-08T10:15:47+00:00",
-   "source": "The Hindu",
-   "title": "Telangana celebrates Deepavali with traditional fervour; Guv visits Bhagya Lakshmi temple",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-celebrates-deepavali-with-traditional-fervour-guv-visits-bhagya-lakshmi-temple/article71680833.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T02:40:21.355087+00:00"
+ "updated": "2026-11-09T04:32:19.942222+00:00"
 }
