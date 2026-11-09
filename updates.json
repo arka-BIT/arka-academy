@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "94859fab289cc338",
+   "time": "2026-11-09T18:50:46+00:00",
+   "source": "The Hindu",
+   "title": "Five persons, including four girls, drown in irrigation tank in Tiruvannamalai",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-including-four-girls-drown-in-irrigation-tank-in-tiruvannamalai/article71682584.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "c061dca61ac14b7f",
+   "time": "2026-11-09T18:50:20+00:00",
+   "source": "The Hindu",
+   "title": "APSDRF rescues eight, evacuates 341 during Cyclone Arnab relief efforts",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsdrf-rescues-eight-evacuates-341-during-cyclone-arnab-relief-efforts/article71683550.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "fb8d6fbb041490d6",
+   "time": "2026-11-09T18:17:49+00:00",
+   "source": "The Hindu",
+   "title": "Raptadu chainsaw attack victim’s condition improving, says A.P. Health Minister",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-chainsaw-attack-victims-condition-improving-says-ap-health-minister/article71683834.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "91881602e121f262",
    "time": "2026-11-09T17:01:39+00:00",
    "source": "The Hindu",
@@ -51,6 +81,26 @@
    "exam": "Both"
   },
   {
+   "id": "10d03d69440defe6",
+   "time": "2026-11-09T16:02:00+00:00",
+   "source": "The Hindu",
+   "title": "Andhra Pradesh govt. offers one-time option to CPS employees to shift to Old Pension Scheme",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "024cf0590d73da67",
+   "time": "2026-11-09T15:58:19+00:00",
+   "source": "The Hindu",
+   "title": "Human-wildlife conflict in Keralam: order for removal of encroachments in catchment areas of Anayirankal dam",
+   "url": "https://www.thehindu.com/news/national/kerala/human-wildlife-conflict-in-keralam-ordrer-for-removal-of-encroachments-in-catchment-areas-of-anayirankal-dam/article71683384.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "6f1b733c25415a2c",
    "time": "2026-11-09T15:34:23+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/applications-invited-for-research-capacity-building-programme/article71683101.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "30484448dd2d12ae",
-   "time": "2026-11-09T15:27:51+00:00",
-   "source": "The Hindu",
-   "title": "₹250-crore master plan ready for Dattatreya temple in Ganagapur",
-   "url": "https://www.thehindu.com/news/national/karnataka/250-crore-master-plan-ready-for-dattatreya-temple-in-ganagapur/article71682657.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "ce1a8314bbea83e7",
-   "time": "2026-11-09T14:40:16+00:00",
-   "source": "The Hindu",
-   "title": "Commercial cultivation within forest land not protected under FRA, 2006: Supreme Court",
-   "url": "https://www.thehindu.com/news/national/commercial-cultivation-within-forest-land-not-protected-under-fra-2006-supreme-court/article71682866.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "f1251cdd5d3221df",
-   "time": "2026-11-09T14:39:19+00:00",
-   "source": "The Hindu",
-   "title": "Palnadu district tops healthcare services ranking in Andhra Pradesh",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/palnadu-district-tops-healthcare-services-ranking-in-andhra-pradesh/article71683104.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "6264787f4ad24e16",
-   "time": "2026-11-09T14:39:14+00:00",
-   "source": "The Hindu",
-   "title": "Keralam child rights’ commission website hacked",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-child-rights-commission-website-hacked/article71682846.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "e8874ce1e5a8fd5a",
-   "time": "2026-11-09T14:34:37+00:00",
-   "source": "The Hindu",
-   "title": "Mahadevaswamy is new V-C of GM University Davangere",
-   "url": "https://www.thehindu.com/news/national/karnataka/mahadevaswamy-is-new-v-c-of-gm-university-davangere/article71666138.ece",
-   "paper": "GS-II",
-   "topic": "Education",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T17:37:08.812524+00:00"
+ "updated": "2026-11-09T19:24:54.602409+00:00"
 }
