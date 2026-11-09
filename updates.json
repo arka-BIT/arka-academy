@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "7992f3cba461082d",
+   "time": "2026-11-09T16:25:46+00:00",
+   "source": "The Hindu",
+   "title": "Gadag woman gets house under Pradhan Mantri Awas Yojana",
+   "url": "https://www.thehindu.com/news/national/karnataka/gadag-woman-gets-house-under-pradhan-mantri-awas-yojana/article71682695.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "7362c2056de44d96",
+   "time": "2026-11-09T16:22:15+00:00",
+   "source": "The Hindu",
+   "title": "Suvendu says only Communists, non-Sanatanis complaining about firecrackers amid severe Kolkata air pollution",
+   "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-says-only-communists-non-sanatanis-complaining-about-firecrackers-amid-severe-kolkata-air-pollution/article71683179.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "a79c9bd874072022",
+   "time": "2026-11-09T16:05:05+00:00",
+   "source": "The Hindu",
+   "title": "RBI extends Abhyudaya Bank supersession by another year",
+   "url": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "6f1b733c25415a2c",
    "time": "2026-11-09T15:34:23+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/cm-reviews-progress-of-existing-central-schemes/article71682703.ece",
    "paper": "GS-II",
    "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "2cc2a4125e73a24c",
-   "time": "2026-11-09T13:43:38+00:00",
-   "source": "The Hindu",
-   "title": "Two special discourses at Viveka Smaraka on Nov. 19 and 20",
-   "url": "https://www.thehindu.com/news/national/karnataka/two-special-discourses-at-viveka-smaraka-on-nov-19-and-20/article71682947.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "85deb682b65bb951",
-   "time": "2026-11-09T12:17:28+00:00",
-   "source": "The Hindu",
-   "title": "At peak of air pollution on Deepavali night, data goes missing at several govt monitoring stations in Delhi",
-   "url": "https://www.thehindu.com/news/cities/Delhi/at-peak-of-air-pollution-on-deepavali-night-data-goes-missing-at-several-govt-monitoring-stations-in-delhi/article71682391.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "117b578973c074a6",
-   "time": "2026-11-09T12:09:22+00:00",
-   "source": "The Hindu",
-   "title": "Gaps in services at Telangana’s secondary healthcare facilities to be assessed",
-   "url": "https://www.thehindu.com/news/national/telangana/gaps-in-services-at-telanganas-secondary-healthcare-facilities-to-be-assessed/article71682175.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T15:37:52.619546+00:00"
+ "updated": "2026-11-09T16:42:32.535916+00:00"
 }
