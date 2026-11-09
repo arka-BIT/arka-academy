@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "efe2fc422a730002",
+   "time": "2026-11-09T01:48:22+00:00",
+   "source": "The Hindu",
+   "title": "COP31 opens as climate and geopolitical pressures mount",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-in-turkiye-climate-and-geopolitical-pressures-mount/article71681273.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "ba5fef4757ffe590",
    "time": "2026-11-08T23:08:52+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/telangana/telangana-celebrates-deepavali-with-traditional-fervour-guv-visits-bhagya-lakshmi-temple/article71680833.ece",
    "paper": "GS-I",
    "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "70252f17da50ad86",
-   "time": "2026-11-08T09:53:21+00:00",
-   "source": "The Hindu",
-   "title": "Crew member missing as Indonesian water-bombing helicopter crashes",
-   "url": "https://www.thehindu.com/news/international/crew-member-missing-as-indonesian-water-bombing-helicopter-crashes/article71680784.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -321,5 +321,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T00:32:19.030939+00:00"
+ "updated": "2026-11-09T01:49:45.037334+00:00"
 }
