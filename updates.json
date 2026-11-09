@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "700d38212f937235",
+   "time": "2026-11-09T09:46:55+00:00",
+   "source": "The Hindu",
+   "title": "Hyderabad: Retired banker’s sketch puts Ladki-Ka-Pul’s one-way traffic plan in motion",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-retired-bankers-sketch-puts-ladki-ka-puls-one-way-traffic-plan-in-motion/article71678714.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "cfafad1e1f5ec05e",
+   "time": "2026-11-09T09:43:44+00:00",
+   "source": "The Hindu",
+   "title": "Amit Shah sets 2028 deadline for drug-free Gujarat, urges citizens to report narcotics sales",
+   "url": "https://www.thehindu.com/news/national/gujarat/amit-shah-sets-2028-deadline-for-drug-free-gujarat-urges-citizens-to-report-narcotics-sales/article71682050.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "f49053ea91ba2165",
+   "time": "2026-11-09T09:43:09+00:00",
+   "source": "The Hindu",
+   "title": "Delhi AQI: What is PM2.5 and the row over air pollution data post Deepavali?",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-aqi-today-air-pollution-what-is-pm-25-row-after-diwali-deepavali/article71681783.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "a182b1918289ae7e",
+   "time": "2026-11-09T09:06:13+00:00",
+   "source": "The Hindu",
+   "title": "Union Minister Rijiju attends Hajj Conference in Saudi Arabia, stresses pilgrims’ welfare",
+   "url": "https://www.thehindu.com/news/national/union-minister-rijiju-attends-hajj-conference-in-saudi-arabia-stresses-pilgrims-welfare/article71681860.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "006ee6f39f875842",
    "time": "2026-11-09T08:50:29+00:00",
    "source": "The Hindu",
@@ -78,46 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/Hyderabad/children-make-up-nearly-half-of-deepavali-eye-injury-cases-at-hyderabad-hospital/article71681416.ece",
    "paper": "GS-II",
    "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "24e017a44d8a4c6a",
-   "time": "2026-11-09T04:22:20+00:00",
-   "source": "The Hindu",
-   "title": "In Pictures: From homes to markets, India celebrates the festival of lights",
-   "url": "https://www.thehindu.com/news/national/in-pictures-celebration-of-deepavali/article71681165.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "d2c4a183ec500089",
-   "time": "2026-11-09T04:20:28+00:00",
-   "source": "The Hindu",
-   "title": "AQI slips to 'severe' in Delhi; Mumbai, Chennai wake up to smog morning after Deepavali",
-   "url": "https://www.thehindu.com/news/national/post-diwali-air-pollution-delhi-hits-severe-as-air-quality-index-aqi-soars-across-major-indian-cities/article71681352.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "4c0f5721f2f94da4",
-   "time": "2026-11-09T04:07:44+00:00",
-   "source": "The Hindu",
-   "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "e1881f6d6ed4b9e0",
-   "time": "2026-11-09T03:49:12+00:00",
-   "source": "The Hindu",
-   "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
-   "url": "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T08:59:08.515875+00:00"
+ "updated": "2026-11-09T09:51:45.328340+00:00"
 }
