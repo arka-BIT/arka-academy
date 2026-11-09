@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "0367c8c01f79984c",
+   "time": "2026-11-09T05:01:00+00:00",
+   "source": "The Hindu",
+   "title": "Children make up nearly half of Deepavali eye-injury cases at Hyderabad hospital",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/children-make-up-nearly-half-of-deepavali-eye-injury-cases-at-hyderabad-hospital/article71681416.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "24e017a44d8a4c6a",
    "time": "2026-11-09T04:22:20+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "57b8dbdd83d36371",
-   "time": "2026-11-08T13:55:14+00:00",
-   "source": "The Hindu",
-   "title": "Poland calls Krakow shooting rampage 'terrorist' attack",
-   "url": "https://www.thehindu.com/news/international/poland-calls-krakow-shooting-rampage-terrorist-attack/article71681007.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
    "exam": "Both"
   },
   {
@@ -279,47 +279,7 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
-  },
-  {
-   "id": "6c5de22f8be2184e",
-   "time": "2026-11-05T05:18:00+00:00",
-   "source": "Indian Express",
-   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af02d5ebde34a65a964d0b9e0d4ecd1&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "b84d7a8d11bedb03",
-   "time": "2026-11-05T05:18:00+00:00",
-   "source": "Indian Express",
-   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0390706a145d9bd978dbca8e83202&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "aeb5b6793d221a37",
-   "time": "2026-11-05T05:18:00+00:00",
-   "source": "Indian Express",
-   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0417c4e47465c94b21f621bd8fa49&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "28642cbbfe44046f",
-   "time": "2026-11-05T05:18:00+00:00",
-   "source": "Indian Express",
-   "title": "Explained: Why India’s rejection of a TB drug patent matters for patients",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af057cbcfef49b09b2c14a487bf0f85&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2ftb-drug-patent-rejection-india-treatment-costs-10943445%2f&c=4953700710401647709&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-09T04:32:19.942222+00:00"
+ "updated": "2026-11-09T05:38:26.630153+00:00"
 }
