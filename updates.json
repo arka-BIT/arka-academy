@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "a9dfdc31871d0293",
+   "time": "2026-11-09T22:57:23+00:00",
+   "source": "The Hindu",
+   "title": "Outcry as J&K Bank implements reservation policy pushed by ex-chairman and VHP trustee R.K. Chhibber",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/outcry-as-jk-bank-implements-reservation-policy-pushed-by-ex-chairman-and-vhp-trustee-rk-chhibber/article71683483.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "e1af2be876854179",
    "time": "2026-11-09T22:08:12+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "10d03d69440defe6",
-   "time": "2026-11-09T16:02:00+00:00",
-   "source": "The Hindu",
-   "title": "Andhra Pradesh govt. offers one-time option to CPS employees to shift to Old Pension Scheme",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T22:32:22.203247+00:00"
+ "updated": "2026-11-09T23:20:33.168440+00:00"
 }
