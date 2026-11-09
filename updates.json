@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "13f07d63e6da7536",
+   "time": "2026-11-09T11:13:20+00:00",
+   "source": "The Hindu",
+   "title": "UDF govt’s move to ease norms for self-financing courses, seat expansion in autonomous colleges sparks row in Keralam",
+   "url": "https://www.thehindu.com/news/national/kerala/udf-govts-move-to-ease-norms-for-self-financing-courses-seat-expansion-in-autonomous-colleges-sparks-row-in-keralam/article71682274.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "bfa8dfbe1bd076eb",
    "time": "2026-11-09T10:35:02+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/why-cant-helicopters-be-used-for-sea-drowning-rescue-operations-asks-madras-high-court/article71681473.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "5f14458832accd6f",
-   "time": "2026-11-09T06:34:25+00:00",
-   "source": "The Hindu",
-   "title": "No major fire incidents reported in Delhi on Deepavali as city sees dip in fire-related calls",
-   "url": "https://www.thehindu.com/news/cities/Delhi/no-major-fire-incidents-reported-in-delhi-on-deepavali-as-city-sees-dip-in-fire-related-calls/article71681609.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T10:41:54.521818+00:00"
+ "updated": "2026-11-09T11:31:38.467826+00:00"
 }
