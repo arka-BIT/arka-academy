@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "565ca50b81a1a44b",
+   "time": "2026-11-09T20:26:18+00:00",
+   "source": "The Hindu",
+   "title": "A case for Nepal: suing major carbon emitters for floods",
+   "url": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "d8d05ff1c6689d63",
    "time": "2026-11-09T19:47:32+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/human-wildlife-conflict-in-keralam-ordrer-for-removal-of-encroachments-in-catchment-areas-of-anayirankal-dam/article71683384.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "6f1b733c25415a2c",
-   "time": "2026-11-09T15:34:23+00:00",
-   "source": "The Hindu",
-   "title": "U.S. healthcare tech firm opens AI engineering centre, to hire 1,000",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/us-healthcare-tech-firm-opens-ai-engineering-centre-to-hire-1000/article71683360.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T20:14:59.132934+00:00"
+ "updated": "2026-11-09T21:00:36.158967+00:00"
 }
