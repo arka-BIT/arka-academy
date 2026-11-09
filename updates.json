@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "5f14458832accd6f",
+   "time": "2026-11-09T06:34:25+00:00",
+   "source": "The Hindu",
+   "title": "No major fire incidents reported in Delhi on Deepavali as city sees dip in fire-related calls",
+   "url": "https://www.thehindu.com/news/cities/Delhi/no-major-fire-incidents-reported-in-delhi-on-deepavali-as-city-sees-dip-in-fire-related-calls/article71681609.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "fc536d5f80d1cfe8",
+   "time": "2026-11-09T06:22:36+00:00",
+   "source": "The Hindu",
+   "title": "Google says new Australian internet safety bill could cut off under-18s from Gmail",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-from-gmail/article71681584.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "66ef73298de78e18",
+   "time": "2026-11-09T05:48:51+00:00",
+   "source": "The Hindu",
+   "title": "Maharashtra relaxes borewell restrictions till December 15 to help farmers save trees amid drought",
+   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-relaxes-borewell-restrictions-till-december-15-to-help-farmers-save-trees-amid-drought/article71681480.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "0367c8c01f79984c",
    "time": "2026-11-09T05:01:00+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/international/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/article71681228.ece",
    "paper": "GS-III",
    "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "cfee062726c25e02",
-   "time": "2026-11-08T19:31:12+00:00",
-   "source": "The Hindu",
-   "title": "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
-   "url": "https://www.thehindu.com/news/cities/Delhi/air-pollution-over-50-times-who-limit-in-parts-of-delhi-as-people-defy-ban-on-firecrackers-on-deepavali/article71681210.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "6e615f7bd5f5213f",
-   "time": "2026-11-08T15:11:59+00:00",
-   "source": "The Hindu",
-   "title": "Train collision in Egypt's Giza kills four, injures 88 others: Health Ministry",
-   "url": "https://www.thehindu.com/news/international/egypt-train-collision-giza-to-fayoum-crash-updates-november-8-2026/article71681077.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "3971d474080f5614",
-   "time": "2026-11-08T14:38:45+00:00",
-   "source": "The Hindu",
-   "title": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T05:38:26.630153+00:00"
+ "updated": "2026-11-09T06:40:51.216141+00:00"
 }
