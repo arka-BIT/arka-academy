@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "d8d05ff1c6689d63",
+   "time": "2026-11-09T19:47:32+00:00",
+   "source": "The Hindu",
+   "title": "The next test for renewable energy",
+   "url": "https://www.thehindu.com/opinion/op-ed/the-next-test-for-renewable-energy/article71682397.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "94859fab289cc338",
    "time": "2026-11-09T18:50:46+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "U.S. healthcare tech firm opens AI engineering centre, to hire 1,000",
    "url": "https://www.thehindu.com/news/cities/Hyderabad/us-healthcare-tech-firm-opens-ai-engineering-centre-to-hire-1000/article71683360.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "e464de89c469ed1a",
-   "time": "2026-11-09T15:28:16+00:00",
-   "source": "The Hindu",
-   "title": "Applications invited for Research Capacity Building Programme",
-   "url": "https://www.thehindu.com/news/national/kerala/applications-invited-for-research-capacity-building-programme/article71683101.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-09T19:24:54.602409+00:00"
+ "updated": "2026-11-09T20:14:59.132934+00:00"
 }
