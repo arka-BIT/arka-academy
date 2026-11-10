@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "d1c9b066dc5233f6",
+   "time": "2026-11-10T22:24:48+00:00",
+   "source": "The Hindu",
+   "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
+   "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "529f2258df2db2f7",
    "time": "2026-11-10T21:19:51+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "6aa11c24d5f81250",
-   "time": "2026-11-10T15:54:18+00:00",
-   "source": "The Hindu",
-   "title": "EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit",
-   "url": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -219,17 +219,7 @@
    "paper": "GS-III",
    "topic": "Disaster Management",
    "exam": "Both"
-  },
-  {
-   "id": "c6081aacbaeba155",
-   "time": "2026-11-06T22:44:28.210551+00:00",
-   "source": "DD News",
-   "title": "AI रेगुलेशन के डर से वैश्विक बाजारों में तबाही, एशियाई शेयर बाजारों में भारी गिरावट",
-   "url": "https://ddnews.gov.in/global-markets-in-turmoil-over-ai-regulation-fears/",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-10T22:27:05.326172+00:00"
+ "updated": "2026-11-10T23:04:58.076383+00:00"
 }
