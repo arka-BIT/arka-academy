@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "103eec6814f4ab1d",
+   "time": "2026-11-10T10:18:00+00:00",
+   "source": "The Hindu",
+   "title": "Modern Vachana Mantapa planned near Kalaburagi; Museum, research and experience centres to be part of the proposed facility at Kapnoor",
+   "url": "https://www.thehindu.com/news/national/karnataka/modern-vachana-mantapa-planned-near-kalaburagi-museum-research-and-experience-centres-to-be-part-of-the-proposed-facility-at-kapnoor/article71685520.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "aff8814d69373aee",
+   "time": "2026-11-10T10:17:37+00:00",
+   "source": "The Hindu",
+   "title": "Deepavali pollution renews debate over green crackers and air quality | The Hindu Editorial",
+   "url": "https://www.thehindu.com/videos/deepavali-pollution-renews-debate-over-green-crackers-and-air-quality-the-hindu-editorial/article71685693.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "899fb200118cdd9b",
+   "time": "2026-11-10T10:16:19+00:00",
+   "source": "The Hindu",
+   "title": "Mumbai AQI rises from 131 to 278 on Diwali",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-aqi-rises-from-131-to-278-on-diwali/article71683687.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "70a27d49870797b2",
+   "time": "2026-11-10T10:00:42+00:00",
+   "source": "The Hindu",
+   "title": "Iraq reopens border crossing with Iran",
+   "url": "https://www.thehindu.com/news/international/iraq-reopens-border-crossing-with-iran/article71685697.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "b5caeee6f4231206",
+   "time": "2026-11-10T09:58:13+00:00",
+   "source": "The Hindu",
+   "title": "COP31: Can negotiators finally deliver results? | The Hindu explains",
+   "url": "https://www.thehindu.com/videos/cop31-can-negotiators-finally-deliver-results-the-hindu-explains/article71685611.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "e621b544687af81d",
    "time": "2026-11-10T09:24:41+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/sci-tech/technology/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount/article71684865.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "7515eed64c48197b",
-   "time": "2026-11-10T06:08:41+00:00",
-   "source": "The Hindu",
-   "title": "Three-year-old girl sexually assaulted in Goa, hospitalised; minister blames outsiders for 90% of such crimes",
-   "url": "https://www.thehindu.com/news/national/goa/three-year-old-girl-sexually-assaulted-in-goa-hospitalised-minister-blames-outsiders-for-90-of-such-crimes/article71685104.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "baad506d35a4ab6f",
-   "time": "2026-11-10T05:59:59+00:00",
-   "source": "The Hindu",
-   "title": "New Vice-Chancellor appointed for Indian Maritime University",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/new-vice-chancellor-appointed-for-indian-maritime-university/article71682788.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "512639500a1ea12a",
-   "time": "2026-11-10T05:11:59+00:00",
-   "source": "The Hindu",
-   "title": "Delhi HC directs constitution of committee on demolition of dangerous buildings",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-directs-constitution-of-committee-on-demolition-of-dangerous-buildings/article71682781.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "3fec476db315b250",
-   "time": "2026-11-10T05:00:27+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Murasu: Heavy rain and power cuts dampen spirit of Deepavali",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "f3352a9861f16f1a",
-   "time": "2026-11-10T04:51:43+00:00",
-   "source": "The Hindu",
-   "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
-   "url": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T09:29:57.344560+00:00"
+ "updated": "2026-11-10T10:23:51.902441+00:00"
 }
