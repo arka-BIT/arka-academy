@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "512639500a1ea12a",
+   "time": "2026-11-10T05:11:59+00:00",
+   "source": "The Hindu",
+   "title": "Delhi HC directs constitution of committee on demolition of dangerous buildings",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-directs-constitution-of-committee-on-demolition-of-dangerous-buildings/article71682781.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "3fec476db315b250",
+   "time": "2026-11-10T05:00:27+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone Murasu: Heavy rain and power cuts dampen spirit of Deepavali",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-heavy-rainand-power-cutsdampen-spirit-of-deepavali/article71683598.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "f3352a9861f16f1a",
+   "time": "2026-11-10T04:51:43+00:00",
+   "source": "The Hindu",
+   "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
+   "url": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "e50e3ebcd5c1af03",
+   "time": "2026-11-10T04:43:07+00:00",
+   "source": "The Hindu",
+   "title": "Nine Shigella cases confirmed in Malappuram; Health dept. steps up preventive measures",
+   "url": "https://www.thehindu.com/news/national/kerala/nine-shigella-cases-confirmed-in-malappuram-health-dept-steps-up-preventive-measures/article71682966.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "8301ce36481fdc21",
    "time": "2026-11-10T03:31:36+00:00",
    "source": "The Hindu",
@@ -78,46 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/rights-panel-seeks-report-from-lsgd-on-linking-chilavannur-bund-road-with-vyttila-aroor-bypass/article71683245.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "1792fa58d7dac5ed",
-   "time": "2026-11-09T19:13:41+00:00",
-   "source": "The Hindu",
-   "title": "Fisherfolk seek higher compensation for men who died in Murasu cyclone",
-   "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-seek-higher-compensation-for-men-who-died-in-murasu-cyclone/article71683325.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "94859fab289cc338",
-   "time": "2026-11-09T18:50:46+00:00",
-   "source": "The Hindu",
-   "title": "Five persons, including four girls, drown in irrigation tank in Tiruvannamalai",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-including-four-girls-drown-in-irrigation-tank-in-tiruvannamalai/article71682584.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "c061dca61ac14b7f",
-   "time": "2026-11-09T18:50:20+00:00",
-   "source": "The Hindu",
-   "title": "APSDRF rescues eight, evacuates 341 during Cyclone Arnab relief efforts",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsdrf-rescues-eight-evacuates-341-during-cyclone-arnab-relief-efforts/article71683550.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "fb8d6fbb041490d6",
-   "time": "2026-11-09T18:17:49+00:00",
-   "source": "The Hindu",
-   "title": "Raptadu chainsaw attack victim’s condition improving, says A.P. Health Minister",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/raptadu-chainsaw-attack-victims-condition-improving-says-ap-health-minister/article71683834.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T04:18:20.759320+00:00"
+ "updated": "2026-11-10T05:18:20.911655+00:00"
 }
