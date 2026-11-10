@@ -41,6 +41,26 @@
    "exam": "Both"
   },
   {
+   "id": "8af9968d2847a213",
+   "time": "2026-11-09T19:39:32+00:00",
+   "source": "The Hindu",
+   "title": "Rights panel seeks report from LSGD on linking Chilavannur Bund Road with Vyttila-Aroor bypass",
+   "url": "https://www.thehindu.com/news/national/kerala/rights-panel-seeks-report-from-lsgd-on-linking-chilavannur-bund-road-with-vyttila-aroor-bypass/article71683245.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "1792fa58d7dac5ed",
+   "time": "2026-11-09T19:13:41+00:00",
+   "source": "The Hindu",
+   "title": "Fisherfolk seek higher compensation for men who died in Murasu cyclone",
+   "url": "https://www.thehindu.com/news/cities/chennai/fisherfolk-seek-higher-compensation-for-men-who-died-in-murasu-cyclone/article71683325.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "94859fab289cc338",
    "time": "2026-11-09T18:50:46+00:00",
    "source": "The Hindu",
@@ -71,6 +91,16 @@
    "exam": "Both"
   },
   {
+   "id": "e1dbb7be906ea870",
+   "time": "2026-11-09T17:25:06+00:00",
+   "source": "The Hindu",
+   "title": "How AI is reshaping China’s universities",
+   "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "91881602e121f262",
    "time": "2026-11-09T17:01:39+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/national/telangana/hc-awards-six-month-imprisonment-to-ranga-reddy-district-collector/article71683763.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7992f3cba461082d",
-   "time": "2026-11-09T16:25:46+00:00",
-   "source": "The Hindu",
-   "title": "Gadag woman gets house under Pradhan Mantri Awas Yojana",
-   "url": "https://www.thehindu.com/news/national/karnataka/gadag-woman-gets-house-under-pradhan-mantri-awas-yojana/article71682695.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "7362c2056de44d96",
-   "time": "2026-11-09T16:22:15+00:00",
-   "source": "The Hindu",
-   "title": "Suvendu says only Communists, non-Sanatanis complaining about firecrackers amid severe Kolkata air pollution",
-   "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-says-only-communists-non-sanatanis-complaining-about-firecrackers-amid-severe-kolkata-air-pollution/article71683179.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "a79c9bd874072022",
-   "time": "2026-11-09T16:05:05+00:00",
-   "source": "The Hindu",
-   "title": "RBI extends Abhyudaya Bank supersession by another year",
-   "url": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T00:34:51.676787+00:00"
+ "updated": "2026-11-10T01:44:39.618428+00:00"
 }
