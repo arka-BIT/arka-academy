@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "e621b544687af81d",
+   "time": "2026-11-10T09:24:41+00:00",
+   "source": "The Hindu",
+   "title": "Does the Temple wearable reveal useful information about brain health?",
+   "url": "https://www.thehindu.com/sci-tech/health/does-the-temple-wearable-reveal-useful-information-about-brain-health/article71678659.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "1b5aa6c47dda9718",
+   "time": "2026-11-10T09:18:34+00:00",
+   "source": "The Hindu",
+   "title": "Farmers demand uniform ₹4,200 sugarcane rate across Maharashtra",
+   "url": "https://www.thehindu.com/news/national/maharashtra/farmers-demand-uniform-4200-sugarcane-rate-across-maharashtra/article71685497.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "3aba54088f9a7e8b",
+   "time": "2026-11-10T08:01:43+00:00",
+   "source": "The Hindu",
+   "title": "331 tonnes of garbage removed from Madurai city after Deepavali",
+   "url": "https://www.thehindu.com/news/cities/Madurai/331-tonnes-of-garbage-removed-from-madurai-city-after-deepavali-2026/article71683721.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "116a0a0d7e9bd362",
    "time": "2026-11-10T07:56:58+00:00",
    "source": "The Hindu",
@@ -86,36 +116,6 @@
    "source": "The Hindu",
    "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
    "url": "https://www.thehindu.com/sci-tech/technology/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-website/article71684880.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "e50e3ebcd5c1af03",
-   "time": "2026-11-10T04:43:07+00:00",
-   "source": "The Hindu",
-   "title": "Nine Shigella cases confirmed in Malappuram; Health dept. steps up preventive measures",
-   "url": "https://www.thehindu.com/news/national/kerala/nine-shigella-cases-confirmed-in-malappuram-health-dept-steps-up-preventive-measures/article71682966.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "8301ce36481fdc21",
-   "time": "2026-11-10T03:31:36+00:00",
-   "source": "The Hindu",
-   "title": "France blames Iran for cyberattack on supermarket fridges",
-   "url": "https://www.thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "bcf304f688e3ce08",
-   "time": "2026-11-10T02:56:27+00:00",
-   "source": "The Hindu",
-   "title": "Google’s controversial Search and AI policy for schools | Explained",
-   "url": "https://www.thehindu.com/sci-tech/technology/googles-controversial-search-and-ai-policy-for-schools-explained/article71681878.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
@@ -259,17 +259,7 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
-  },
-  {
-   "id": "69f3f39091d02d19",
-   "time": "2026-11-06T09:06:00+00:00",
-   "source": "Indian Express",
-   "title": "Khalid Jamil names India squad for New Zealand friendlies, Gurpreet dropped",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef0a1c5f6c447f8dd6d1584247c31c&url=https%3a%2f%2findianexpress.com%2farticle%2fsports%2ffootball%2fkhalid-jamil-india-squad-upcoming-new-zealand-friendlies-10953882%2f&c=3677796469604539465&mkt=en-ca",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-10T08:34:49.092641+00:00"
+ "updated": "2026-11-10T09:29:57.344560+00:00"
 }
