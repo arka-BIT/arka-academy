@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "745f030d76101536",
+   "time": "2026-11-10T19:12:33+00:00",
+   "source": "The Hindu",
+   "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "8664d2d6b12a828e",
    "time": "2026-11-10T17:47:11+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "A.P. High Court to hear batch of contempt cases on senior IAS officers on November 13",
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-to-hear-batch-of-contempt-cases-on-senior-ias-officers-on-november-13/article71686491.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "1bd38dcffacbb1a5",
-   "time": "2026-11-10T15:41:55+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court restrains thermal power plant workers from going on strike",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-restrains-thermal-power-plant-workers-from-going-on-strike/article71686540.ece",
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
@@ -241,5 +241,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T18:30:17.826757+00:00"
+ "updated": "2026-11-10T19:32:17.774614+00:00"
 }
