@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "7515eed64c48197b",
+   "time": "2026-11-10T06:08:41+00:00",
+   "source": "The Hindu",
+   "title": "Three-year-old girl sexually assaulted in Goa, hospitalised; minister blames outsiders for 90% of such crimes",
+   "url": "https://www.thehindu.com/news/national/goa/three-year-old-girl-sexually-assaulted-in-goa-hospitalised-minister-blames-outsiders-for-90-of-such-crimes/article71685104.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "baad506d35a4ab6f",
+   "time": "2026-11-10T05:59:59+00:00",
+   "source": "The Hindu",
+   "title": "New Vice-Chancellor appointed for Indian Maritime University",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/new-vice-chancellor-appointed-for-indian-maritime-university/article71682788.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
    "id": "512639500a1ea12a",
    "time": "2026-11-10T05:11:59+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/opinion/op-ed/a-case-for-nepal-suing-major-carbon-emitters-for-floods/article71683852.ece",
    "paper": "GS-III",
    "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "d8d05ff1c6689d63",
-   "time": "2026-11-09T19:47:32+00:00",
-   "source": "The Hindu",
-   "title": "The next test for renewable energy",
-   "url": "https://www.thehindu.com/opinion/op-ed/the-next-test-for-renewable-energy/article71682397.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "8af9968d2847a213",
-   "time": "2026-11-09T19:39:32+00:00",
-   "source": "The Hindu",
-   "title": "Rights panel seeks report from LSGD on linking Chilavannur Bund Road with Vyttila-Aroor bypass",
-   "url": "https://www.thehindu.com/news/national/kerala/rights-panel-seeks-report-from-lsgd-on-linking-chilavannur-bund-road-with-vyttila-aroor-bypass/article71683245.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T05:18:20.911655+00:00"
+ "updated": "2026-11-10T06:16:43.257347+00:00"
 }
