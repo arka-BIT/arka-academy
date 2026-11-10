@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "5d994edef1eb4274",
+   "time": "2026-11-10T13:44:49+00:00",
+   "source": "The Hindu",
+   "title": "Health department to probe allegations of medical negligence at North Paravur Government Taluk Hospital",
+   "url": "https://www.thehindu.com/news/national/kerala/health-department-to-probe-allegations-of-medical-negligence-at-north-paravur-government-taluk-hospital/article71685593.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "efbef5e574059b43",
+   "time": "2026-11-10T13:43:25+00:00",
+   "source": "The Hindu",
+   "title": "Cyclones Arnab, Murasu damage 13.21% of Krishna district’s paddy area",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-murasu-damage-1321-of-krishna-districts-paddy-area/article71686116.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "08a017fe8228ad34",
+   "time": "2026-11-10T13:42:08+00:00",
+   "source": "The Hindu",
+   "title": "Chola-era Leiden Copper Plates may return to Tamil Nadu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/chola-era-leiden-copper-plates-may-return-to-tamil-nadu/article71685797.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "15b6547857445687",
+   "time": "2026-11-10T13:38:28+00:00",
+   "source": "The Hindu",
+   "title": "Domestic rooftop solar installations in T.N. remain low due to policy challenges, say consumers",
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/domestic-rooftop-solar-installations-in-tn-remain-low-due-to-policy-challenges-say-consumers/article71686375.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "047da69a54a2f7d8",
+   "time": "2026-11-10T13:35:57+00:00",
+   "source": "The Hindu",
+   "title": "JNTUA to host ‘Viksit Bharat Youth Parliament’ on November 12",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/jntua-to-host-viksit-bharat-youth-parliament-on-november-12/article71686192.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "c3c83919fd84b854",
    "time": "2026-11-10T12:38:24+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/chennai/women-engineers-take-the-helm-at-chennai-metrowater/article71670343.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "0a55ab958a9a3c7a",
-   "time": "2026-11-10T10:50:52+00:00",
-   "source": "The Hindu",
-   "title": "Explained | What did the Supreme Court clarify on the OBC creamy layer?",
-   "url": "https://www.thehindu.com/news/national/explained-what-did-the-supreme-court-clarify-on-the-obc-creamy-layer/article71685709.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "103eec6814f4ab1d",
-   "time": "2026-11-10T10:18:00+00:00",
-   "source": "The Hindu",
-   "title": "Modern Vachana Mantapa planned near Kalaburagi; Museum, research and experience centres to be part of the proposed facility at Kapnoor",
-   "url": "https://www.thehindu.com/news/national/karnataka/modern-vachana-mantapa-planned-near-kalaburagi-museum-research-and-experience-centres-to-be-part-of-the-proposed-facility-at-kapnoor/article71685520.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "aff8814d69373aee",
-   "time": "2026-11-10T10:17:37+00:00",
-   "source": "The Hindu",
-   "title": "Deepavali pollution renews debate over green crackers and air quality | The Hindu Editorial",
-   "url": "https://www.thehindu.com/videos/deepavali-pollution-renews-debate-over-green-crackers-and-air-quality-the-hindu-editorial/article71685693.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "899fb200118cdd9b",
-   "time": "2026-11-10T10:16:19+00:00",
-   "source": "The Hindu",
-   "title": "Mumbai AQI rises from 131 to 278 on Diwali",
-   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-aqi-rises-from-131-to-278-on-diwali/article71683687.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "70a27d49870797b2",
-   "time": "2026-11-10T10:00:42+00:00",
-   "source": "The Hindu",
-   "title": "Iraq reopens border crossing with Iran",
-   "url": "https://www.thehindu.com/news/international/iraq-reopens-border-crossing-with-iran/article71685697.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T12:43:56.338537+00:00"
+ "updated": "2026-11-10T13:51:10.315608+00:00"
 }
