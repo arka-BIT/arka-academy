@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "7cb5e32f267fd8e6",
+   "time": "2026-11-10T20:34:46+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
+   "url": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "fb307da07d3a068e",
    "time": "2026-11-10T19:56:07+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/telangana/sugarcane-farmers-urge-industries-for-at-least-5000-per-tonne/article71686896.ece",
    "paper": "GS-III",
    "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "b95b5607ccfb412b",
-   "time": "2026-11-10T15:44:36+00:00",
-   "source": "The Hindu",
-   "title": "Housing assistance instalments for 32,000 families this fiscal: Minister",
-   "url": "https://www.thehindu.com/news/national/kerala/housing-assistance-instalments-for-32000-families-this-fiscal-minister/article71686792.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -241,5 +241,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T20:25:29.928143+00:00"
+ "updated": "2026-11-10T21:10:20.849826+00:00"
 }
