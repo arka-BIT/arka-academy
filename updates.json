@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "8664d2d6b12a828e",
+   "time": "2026-11-10T17:47:11+00:00",
+   "source": "The Hindu",
+   "title": "NMDC said to be in talks with Russia’s Rosatom over lithium investments",
+   "url": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "151d044590787369",
    "time": "2026-11-10T17:04:30+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-restrains-thermal-power-plant-workers-from-going-on-strike/article71686540.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "8a99bfe1e65ef0c5",
-   "time": "2026-11-10T15:41:51+00:00",
-   "source": "The Hindu",
-   "title": "Banks in Telangana achieved 74% of Kharif loan targets in H1",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/banks-in-telangana-achieved-74-of-kharif-loan-targets-in-h1/article71686919.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T17:14:58.678129+00:00"
+ "updated": "2026-11-10T17:55:43.652759+00:00"
 }
