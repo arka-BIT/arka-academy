@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "151d044590787369",
+   "time": "2026-11-10T17:04:30+00:00",
+   "source": "The Hindu",
+   "title": "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
+   "url": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "49389892a52a38da",
+   "time": "2026-11-10T17:02:34+00:00",
+   "source": "The Hindu",
+   "title": "Telangana to host Bharat Summit on November 13 and 14",
+   "url": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "61cf848aba7e58de",
+   "time": "2026-11-10T16:45:17+00:00",
+   "source": "The Hindu",
+   "title": "Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials",
+   "url": "https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "8c8a2773b5814ec2",
+   "time": "2026-11-10T16:14:01+00:00",
+   "source": "The Hindu",
+   "title": "New Israeli parliament to take aim at Netanyahu as Eisenkot seeks government",
+   "url": "https://www.thehindu.com/news/international/new-israeli-parliament-to-take-aim-at-netanyahu-as-eisenkot-seeks-government/article71687117.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "2aaa51d54a9b93ac",
    "time": "2026-11-10T16:08:30+00:00",
    "source": "The Hindu",
@@ -78,46 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/Hyderabad/banks-in-telangana-achieved-74-of-kharif-loan-targets-in-h1/article71686919.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "93548feee197a1f0",
-   "time": "2026-11-10T15:40:59+00:00",
-   "source": "The Hindu",
-   "title": "APCRDA, IOCL sign MoU to develop green energy infrastructure in Amaravati",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apcrda-iocl-sign-mou-to-develop-green-energy-infrastructure-in-amaravati/article71686826.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "74b6932016a92374",
-   "time": "2026-11-10T15:16:16+00:00",
-   "source": "The Hindu",
-   "title": "Hospitals, medical shops not implementing reduced cancer drug prices to face action",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/hospitals-medical-shops-not-implementing-reduced-cancer-drug-prices-to-face-action/article71686703.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "c5d012e81271c1de",
-   "time": "2026-11-10T15:10:44+00:00",
-   "source": "The Hindu",
-   "title": "Twin cyclones damage houses, crops across West Godavari",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/twin-cyclones-damage-houses-crops-across-west-godavari/article71686535.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "9841da69f76ae84b",
-   "time": "2026-11-10T14:58:32+00:00",
-   "source": "The Hindu",
-   "title": "Iran rejects France’s ‘baseless accusations’ on cyberattack",
-   "url": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T16:15:47.172415+00:00"
+ "updated": "2026-11-10T17:14:58.678129+00:00"
 }
