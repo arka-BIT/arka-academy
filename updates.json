@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "id": "2aaa51d54a9b93ac",
+   "time": "2026-11-10T16:08:30+00:00",
+   "source": "The Hindu",
+   "title": "‘Integrity is paramount, don’t forget your roots’: Revanth tells new DSPs",
+   "url": "https://www.thehindu.com/news/national/telangana/integrity-is-paramount-dont-forget-your-roots-revanth-tells-new-dsps/article71686953.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "1ee2de346743ee21",
+   "time": "2026-11-10T15:57:27+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone-hit villages in Prakasam district remain without electricity",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "6aa11c24d5f81250",
+   "time": "2026-11-10T15:54:18+00:00",
+   "source": "The Hindu",
+   "title": "EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit",
+   "url": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "8ff10b4841855651",
+   "time": "2026-11-10T15:47:42+00:00",
+   "source": "The Hindu",
+   "title": "Sugarcane farmers urge industries for at least ₹5,000 per tonne",
+   "url": "https://www.thehindu.com/news/national/telangana/sugarcane-farmers-urge-industries-for-at-least-5000-per-tonne/article71686896.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "b95b5607ccfb412b",
+   "time": "2026-11-10T15:44:36+00:00",
+   "source": "The Hindu",
+   "title": "Housing assistance instalments for 32,000 families this fiscal: Minister",
+   "url": "https://www.thehindu.com/news/national/kerala/housing-assistance-instalments-for-32000-families-this-fiscal-minister/article71686792.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "82ecffc1a9d715bc",
+   "time": "2026-11-10T15:42:33+00:00",
+   "source": "The Hindu",
+   "title": "A.P. High Court to hear batch of contempt cases on senior IAS officers on November 13",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-to-hear-batch-of-contempt-cases-on-senior-ias-officers-on-november-13/article71686491.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "1bd38dcffacbb1a5",
+   "time": "2026-11-10T15:41:55+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court restrains thermal power plant workers from going on strike",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-restrains-thermal-power-plant-workers-from-going-on-strike/article71686540.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "8a99bfe1e65ef0c5",
+   "time": "2026-11-10T15:41:51+00:00",
+   "source": "The Hindu",
+   "title": "Banks in Telangana achieved 74% of Kharif loan targets in H1",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/banks-in-telangana-achieved-74-of-kharif-loan-targets-in-h1/article71686919.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "93548feee197a1f0",
+   "time": "2026-11-10T15:40:59+00:00",
+   "source": "The Hindu",
+   "title": "APCRDA, IOCL sign MoU to develop green energy infrastructure in Amaravati",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/apcrda-iocl-sign-mou-to-develop-green-energy-infrastructure-in-amaravati/article71686826.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "74b6932016a92374",
    "time": "2026-11-10T15:16:16+00:00",
    "source": "The Hindu",
@@ -28,96 +118,6 @@
    "url": "https://www.thehindu.com/news/international/iran-rejects-frances-baseless-accusations-on-cyberattack/article71686751.ece",
    "paper": "GS-III",
    "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "8bb3a50f6c3b8c6d",
-   "time": "2026-11-10T14:33:30+00:00",
-   "source": "The Hindu",
-   "title": "Devotees throng Shiva temples on first day of Karthika Masam",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/devotees-throng-shiva-temples-on-first-day-of-karthika-masam/article71685021.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "fe9ad2f378d7892b",
-   "time": "2026-11-10T14:30:52+00:00",
-   "source": "The Hindu",
-   "title": "Sonia Gandhi’s memoir ‘Belonging’ takes off with bibliophiles snapping up copies",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/sonia-gandhis-belonging-takes-off-with-bibliophiles-snapping-up-copies/article71686266.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "c9a08b6dc9ecd8e5",
-   "time": "2026-11-10T14:28:24+00:00",
-   "source": "The Hindu",
-   "title": "Railway officials celebrate ‘Janjatiya Gaurav Divas’ to honour tribal heritage, valour",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/railway-officials-celebrate-janjatiya-gaurav-divas-to-honour-tribal-heritage-valour/article71685999.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "3a0a1614fe0fa893",
-   "time": "2026-11-10T14:24:44+00:00",
-   "source": "The Hindu",
-   "title": "Railway equipment suppliers in Coimbatore face delays in bank loans due to online registration of MoDs",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/railway-equipment-suppliers-in-coimbatore-face-delays-in-bank-loans-due-to-online-registration-of-mods/article71686454.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "9303671648d3c815",
-   "time": "2026-11-10T14:21:14+00:00",
-   "source": "The Hindu",
-   "title": "Deputy CM urges banks to stand by El Nino-hit farmers",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/deputy-cm-urges-banks-to-stand-by-el-nino-hit-farmers/article71686435.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "5d994edef1eb4274",
-   "time": "2026-11-10T13:44:49+00:00",
-   "source": "The Hindu",
-   "title": "Health department to probe allegations of medical negligence at North Paravur Government Taluk Hospital",
-   "url": "https://www.thehindu.com/news/national/kerala/health-department-to-probe-allegations-of-medical-negligence-at-north-paravur-government-taluk-hospital/article71685593.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "efbef5e574059b43",
-   "time": "2026-11-10T13:43:25+00:00",
-   "source": "The Hindu",
-   "title": "Cyclones Arnab, Murasu damage 13.21% of Krishna district’s paddy area",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-murasu-damage-1321-of-krishna-districts-paddy-area/article71686116.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "08a017fe8228ad34",
-   "time": "2026-11-10T13:42:08+00:00",
-   "source": "The Hindu",
-   "title": "Chola-era Leiden Copper Plates may return to Tamil Nadu",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/chola-era-leiden-copper-plates-may-return-to-tamil-nadu/article71685797.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "15b6547857445687",
-   "time": "2026-11-10T13:38:28+00:00",
-   "source": "The Hindu",
-   "title": "Domestic rooftop solar installations in T.N. remain low due to policy challenges, say consumers",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/domestic-rooftop-solar-installations-in-tn-remain-low-due-to-policy-challenges-say-consumers/article71686375.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T15:23:34.399395+00:00"
+ "updated": "2026-11-10T16:15:47.172415+00:00"
 }
