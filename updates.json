@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "bcf304f688e3ce08",
+   "time": "2026-11-10T02:56:27+00:00",
+   "source": "The Hindu",
+   "title": "Google’s controversial Search and AI policy for schools | Explained",
+   "url": "https://www.thehindu.com/sci-tech/technology/googles-controversial-search-and-ai-policy-for-schools-explained/article71681878.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "1902c81446f8f95a",
+   "time": "2026-11-10T02:16:59+00:00",
+   "source": "The Hindu",
+   "title": "Heat-trapping carbon pollution drops, but scientists cite Iran war rather than energy progress",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/heat-trapping-carbon-pollution-drops-but-scientists-cite-iran-war-rather-than-energy-progress/article71684827.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "a9dfdc31871d0293",
    "time": "2026-11-09T22:57:23+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "91881602e121f262",
-   "time": "2026-11-09T17:01:39+00:00",
-   "source": "The Hindu",
-   "title": "Bengaluru to host first meet of Commonwealth Women Parliamentarians‘ regional unit",
-   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "33555b0448a6c00c",
-   "time": "2026-11-09T16:52:54+00:00",
-   "source": "The Hindu",
-   "title": "Telangana High Court sentences Ranga Reddy Collector to six months’ imprisonment for wilful disobedience in a contempt case",
-   "url": "https://www.thehindu.com/news/national/telangana/hc-awards-six-month-imprisonment-to-ranga-reddy-district-collector/article71683763.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -281,5 +281,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T01:44:39.618428+00:00"
+ "updated": "2026-11-10T03:26:24.594985+00:00"
 }
