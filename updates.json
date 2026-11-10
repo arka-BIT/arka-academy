@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "529f2258df2db2f7",
+   "time": "2026-11-10T21:19:51+00:00",
+   "source": "The Hindu",
+   "title": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "7cb5e32f267fd8e6",
    "time": "2026-11-10T20:34:46+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "8ff10b4841855651",
-   "time": "2026-11-10T15:47:42+00:00",
-   "source": "The Hindu",
-   "title": "Sugarcane farmers urge industries for at least ₹5,000 per tonne",
-   "url": "https://www.thehindu.com/news/national/telangana/sugarcane-farmers-urge-industries-for-at-least-5000-per-tonne/article71686896.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -229,17 +229,7 @@
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
-  },
-  {
-   "id": "191cb168728a672f",
-   "time": "2026-11-06T22:15:45.486609+00:00",
-   "source": "DD News",
-   "title": "भारत बनेगा दुनिया की ‘AI एप्लिकेशन राजधानी’: अश्विनी वैष्णव",
-   "url": "https://ddnews.gov.in/ashwini-vaishnaw-says-india-focused-on-becoming-ai-application-capital-of-the-world/",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-10T21:45:09.128002+00:00"
+ "updated": "2026-11-10T22:27:05.326172+00:00"
 }
