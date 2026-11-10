@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "8bb3a50f6c3b8c6d",
+   "time": "2026-11-10T14:33:30+00:00",
+   "source": "The Hindu",
+   "title": "Devotees throng Shiva temples on first day of Karthika Masam",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/devotees-throng-shiva-temples-on-first-day-of-karthika-masam/article71685021.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "fe9ad2f378d7892b",
+   "time": "2026-11-10T14:30:52+00:00",
+   "source": "The Hindu",
+   "title": "Sonia Gandhi’s memoir ‘Belonging’ takes off with bibliophiles snapping up copies",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/sonia-gandhis-belonging-takes-off-with-bibliophiles-snapping-up-copies/article71686266.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "c9a08b6dc9ecd8e5",
+   "time": "2026-11-10T14:28:24+00:00",
+   "source": "The Hindu",
+   "title": "Railway officials celebrate ‘Janjatiya Gaurav Divas’ to honour tribal heritage, valour",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/railway-officials-celebrate-janjatiya-gaurav-divas-to-honour-tribal-heritage-valour/article71685999.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "3a0a1614fe0fa893",
+   "time": "2026-11-10T14:24:44+00:00",
+   "source": "The Hindu",
+   "title": "Railway equipment suppliers in Coimbatore face delays in bank loans due to online registration of MoDs",
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/railway-equipment-suppliers-in-coimbatore-face-delays-in-bank-loans-due-to-online-registration-of-mods/article71686454.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "9303671648d3c815",
+   "time": "2026-11-10T14:21:14+00:00",
+   "source": "The Hindu",
+   "title": "Deputy CM urges banks to stand by El Nino-hit farmers",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/deputy-cm-urges-banks-to-stand-by-el-nino-hit-farmers/article71686435.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "5d994edef1eb4274",
    "time": "2026-11-10T13:44:49+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/news/national/nagaland/oxford-university-returns-remains-of-39-naga-people-after-more-than-a-century/article71686009.ece",
    "paper": "GS-II",
    "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "e0ca89106362325a",
-   "time": "2026-11-10T12:11:03+00:00",
-   "source": "The Hindu",
-   "title": "Supreme Court goes beyond Deepavali AQI, flags vehicular emissions polluting Delhi air",
-   "url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "0bf2927793072378",
-   "time": "2026-11-10T12:07:26+00:00",
-   "source": "The Hindu",
-   "title": "Keralam CPI(M) awaits ICC report on complaint against former Palakkad secretary",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-cpim-awaits-icc-report-on-complaint-against-former-palakkad-secretary/article71686015.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "f1ba9bd51e64494c",
-   "time": "2026-11-10T11:46:43+00:00",
-   "source": "The Hindu",
-   "title": "Telangana directs Gram Panchayats to open separate bank accounts for own revenue",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-directs-gram-panchayats-to-open-separate-bank-accounts-for-own-revenue/article71685533.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "48d6796e26e54494",
-   "time": "2026-11-10T11:39:29+00:00",
-   "source": "The Hindu",
-   "title": "Why has Tamil Nadu opted for an expensive electricity purchase agreement? | Explained",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/why-has-tamil-nadu-gone-for-expensive-power-purchase-agreements-explained/article71579306.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "3f3146ed41af66b4",
-   "time": "2026-11-10T11:15:21+00:00",
-   "source": "The Hindu",
-   "title": "Women engineers take the helm at Chennai Metrowater",
-   "url": "https://www.thehindu.com/news/cities/chennai/women-engineers-take-the-helm-at-chennai-metrowater/article71670343.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T13:51:10.315608+00:00"
+ "updated": "2026-11-10T14:39:40.312712+00:00"
 }
