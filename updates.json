@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "f1ba9bd51e64494c",
+   "time": "2026-11-10T11:46:43+00:00",
+   "source": "The Hindu",
+   "title": "Telangana directs Gram Panchayats to open separate bank accounts for own revenue",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-directs-gram-panchayats-to-open-separate-bank-accounts-for-own-revenue/article71685533.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "48d6796e26e54494",
+   "time": "2026-11-10T11:39:29+00:00",
+   "source": "The Hindu",
+   "title": "Why has Tamil Nadu opted for an expensive electricity purchase agreement? | Explained",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/why-has-tamil-nadu-gone-for-expensive-power-purchase-agreements-explained/article71579306.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "3f3146ed41af66b4",
+   "time": "2026-11-10T11:15:21+00:00",
+   "source": "The Hindu",
+   "title": "Women engineers take the helm at Chennai Metrowater",
+   "url": "https://www.thehindu.com/news/cities/chennai/women-engineers-take-the-helm-at-chennai-metrowater/article71670343.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "0a55ab958a9a3c7a",
    "time": "2026-11-10T10:50:52+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/cities/Madurai/331-tonnes-of-garbage-removed-from-madurai-city-after-deepavali-2026/article71683721.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "116a0a0d7e9bd362",
-   "time": "2026-11-10T07:56:58+00:00",
-   "source": "The Hindu",
-   "title": "Cyclones Arnab and Murasu damaged crops on 4.61 lakh hectares in Andhra, say officials",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "420a2945cc0f55f3",
-   "time": "2026-11-10T07:24:55+00:00",
-   "source": "The Hindu",
-   "title": "How China gets the Nvidia chips it needs to develop AI",
-   "url": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "6b736c8ca3e236ac",
-   "time": "2026-11-10T07:06:15+00:00",
-   "source": "The Hindu",
-   "title": "WHO’s ‘Together for Science and Health’ movement finds strong support in Tamil Nadu",
-   "url": "https://www.thehindu.com/sci-tech/health/whos-together-for-science-and-health-movement-finds-strong-support-in-tamil-nadu/article71685076.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T11:12:39.971591+00:00"
+ "updated": "2026-11-10T11:55:52.994496+00:00"
 }
