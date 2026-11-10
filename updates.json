@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "fb307da07d3a068e",
+   "time": "2026-11-10T19:56:07+00:00",
+   "source": "The Hindu",
+   "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "745f030d76101536",
    "time": "2026-11-10T19:12:33+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/housing-assistance-instalments-for-32000-families-this-fiscal-minister/article71686792.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "82ecffc1a9d715bc",
-   "time": "2026-11-10T15:42:33+00:00",
-   "source": "The Hindu",
-   "title": "A.P. High Court to hear batch of contempt cases on senior IAS officers on November 13",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-high-court-to-hear-batch-of-contempt-cases-on-senior-ias-officers-on-november-13/article71686491.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -241,5 +241,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-10T19:32:17.774614+00:00"
+ "updated": "2026-11-10T20:25:29.928143+00:00"
 }
