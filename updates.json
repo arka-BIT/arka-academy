@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "9e14b9a8c19003a9",
+   "time": "2026-11-11T18:28:21+00:00",
+   "source": "The Hindu",
+   "title": "Farmer found dead in Ranipet",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/farmer-found-dead-in-ranipet/article71689434.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "c4fcebfae7a90084",
+   "time": "2026-11-11T18:24:47+00:00",
+   "source": "The Hindu",
+   "title": "Navi Mumbai recognised as India’s cleanest city in latest Swachh Survekshan",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "8ab507388bebe192",
+   "time": "2026-11-11T18:13:30+00:00",
+   "source": "The Hindu",
+   "title": "Gold ornament presented for deity in Parthasarathi temple",
+   "url": "https://www.thehindu.com/news/cities/chennai/gold-ornament-presented-for-deity-in-parthasarathi-temple/article71690548.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
    "id": "37c014c4ba9c73f5",
    "time": "2026-11-11T18:03:46+00:00",
    "source": "The Hindu",
@@ -91,36 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "13b3bfd82e5192a5",
-   "time": "2026-11-11T16:58:11+00:00",
-   "source": "The Hindu",
-   "title": "India, France hold dialogues on economic security, space, technology",
-   "url": "https://www.thehindu.com/news/national/india-france-hold-dialogues-on-economic-security-space-technology/article71690750.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "19d8f8a7d5be6de5",
-   "time": "2026-11-11T16:52:33+00:00",
-   "source": "The Hindu",
-   "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland",
-   "url": "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "725c64c9dd9fc786",
-   "time": "2026-11-11T16:45:32+00:00",
-   "source": "The Hindu",
-   "title": "Ideation completed for ₹100-crore private research park in Perundurai",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/ideation-completed-for-100-crore-private-research-park-in-perundurai/article71690668.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T18:12:58.845645+00:00"
+ "updated": "2026-11-11T19:03:21.445803+00:00"
 }
