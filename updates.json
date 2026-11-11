@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "3643d14562d6401b",
+   "time": "2026-11-11T14:31:20+00:00",
+   "source": "The Hindu",
+   "title": "Bengaluru fintech firm reports ₹31.43-crore cyber fraud involving 301 unauthorised transactions",
+   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-fintech-firm-reports-3143-crore-cyber-fraud-involving-301-unauthorised-transactions/article71689306.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "e3271bf08144fa5d",
+   "time": "2026-11-11T14:29:43+00:00",
+   "source": "The Hindu",
+   "title": "Saudi Arabia-flagged tanker hit in Strait of Hormuz, 3 Indian seafarers aboard: Sonowal",
+   "url": "https://www.thehindu.com/news/national/saudi-arabia-flagged-tanker-hit-in-strait-of-hormuz-3-indian-seafarers-aboard-sonowal/article71690021.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "7e63188520a31bd2",
+   "time": "2026-11-11T14:29:22+00:00",
+   "source": "The Hindu",
+   "title": "Amid reports of Korean firms shifting to A.P., Hwashin and Seoyon commit ₹1,370-crore investments in T.N.",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/amid-reports-of-korean-firms-shifting-to-ap-hwashin-and-seoyon-commit-1370-crore-investments-in-tn/article71690137.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "c6f0f2605eb73e34",
+   "time": "2026-11-11T14:26:46+00:00",
+   "source": "The Hindu",
+   "title": "Bharat Summit to discuss alternatives to divisive policies of right-wing forces",
+   "url": "https://www.thehindu.com/news/national/telangana/bharat-summit-to-discuss-alternatives-to-divisive-policies-of-right-wing-forces/article71689864.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "d4599f25f66e69f5",
    "time": "2026-11-11T13:49:31+00:00",
    "source": "The Hindu",
@@ -81,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "8a731091a3107320",
-   "time": "2026-11-11T09:52:49+00:00",
-   "source": "The Hindu",
-   "title": "Tamil Nadu may approach Supreme Court seeking greater powers for Cauvery Water Management Authority",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-may-approach-supreme-court-seeking-greater-powers-for-cauvery-water-management-authority/article71688924.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -101,33 +131,13 @@
    "exam": "Both"
   },
   {
-   "id": "7eab275317fdac2c",
-   "time": "2026-11-11T09:25:41+00:00",
-   "source": "The Hindu",
-   "title": "Andhra Pradesh to spend Rs.632 crore on restoration of 789 lift irrigation schemes",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-spend-rs632-crore-on-restoration-of-789-lift-irrigation-schemes/article71688914.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "aa9e61aed6167638",
-   "time": "2026-11-11T09:11:53+00:00",
-   "source": "The Hindu",
-   "title": "Fadnavis proposes phased redevelopment of Mumbai airport’s T1 to avoid disruption of flights",
-   "url": "https://www.thehindu.com/news/cities/mumbai/fadnavis-proposes-phased-redevelopment-of-mumbai-airports-t1-to-avoid-disruption-of-flights/article71688854.ece",
+   "id": "ebb7fd5e0e90e5b2",
+   "time": "2026-11-11T06:16:00+00:00",
+   "source": "Indian Express",
+   "title": "Navi Mumbai named India’s cleanest city in Swachh Survekshan Awards 2025-26",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af47e9eed874ef280e164e3c0a27c7d&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2fnavi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238%2f&c=2745469103089585664&mkt=en-us",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "603c8614563cccb3",
-   "time": "2026-11-11T08:53:03+00:00",
-   "source": "The Hindu",
-   "title": "Alice Huang, who reportedly had affair with Nvidia CEO, is Chinese banker turned tech exec",
-   "url": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -151,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T13:52:27.143195+00:00"
+ "updated": "2026-11-11T14:40:22.591299+00:00"
 }
