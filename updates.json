@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "d4599f25f66e69f5",
+   "time": "2026-11-11T13:49:31+00:00",
+   "source": "The Hindu",
+   "title": "Navi Mumbai emerges as cleanest city; Surat, Vijayawada runners-up in cleanliness survey",
+   "url": "https://www.thehindu.com/news/national/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "3b3f0f8a2fca34b9",
+   "time": "2026-11-11T13:37:28+00:00",
+   "source": "The Hindu",
+   "title": "Sugarcane farmers continue protest in Bagalkot",
+   "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-farmers-continue-protest-in-bagalkot/article71685994.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "e51e0fce04f7d897",
+   "time": "2026-11-11T13:23:35+00:00",
+   "source": "The Hindu",
+   "title": "New registration framework proposed to strengthen allied and healthcare professions in India",
+   "url": "https://www.thehindu.com/sci-tech/health/new-registration-framework-proposed-to-strengthen-allied-and-healthcare-professions-in-india/article71689527.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "c74b5b2098f701aa",
    "time": "2026-11-11T11:59:52+00:00",
    "source": "The Hindu",
@@ -101,36 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "41024188b361e75d",
-   "time": "2026-11-11T08:22:50+00:00",
-   "source": "The Hindu",
-   "title": "Government bars export of lithium-ion battery waste and scrap containing black mass",
-   "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "e2275d50e264e87b",
-   "time": "2026-11-11T07:50:57+00:00",
-   "source": "The Hindu",
-   "title": "Retired judge Justice M.V. Muralidharan appointed chairperson of Tamil Nadu SC/ST Commission",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "05abc8ef997b8f39",
-   "time": "2026-11-11T07:50:54+00:00",
-   "source": "The Hindu",
-   "title": "Vijayasai Reddy launches Parivartana Rajaneethi Party, vows to end ‘two-family’ politics in Andhra",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayasai-reddy-launches-parivartana-rajaneethi-party-vows-to-end-two-family-politics-in-andhra/article71688719.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -151,5 +151,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T12:35:29.536708+00:00"
+ "updated": "2026-11-11T13:52:27.143195+00:00"
 }
