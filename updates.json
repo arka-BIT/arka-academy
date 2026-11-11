@@ -1,6 +1,116 @@
 {
  "items": [
   {
+   "id": "e2275d50e264e87b",
+   "time": "2026-11-11T07:50:57+00:00",
+   "source": "The Hindu",
+   "title": "Retired judge Justice M.V. Muralidharan appointed chairperson of Tamil Nadu SC/ST Commission",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "05abc8ef997b8f39",
+   "time": "2026-11-11T07:50:54+00:00",
+   "source": "The Hindu",
+   "title": "Vijayasai Reddy launches Parivartana Rajaneethi Party, vows to end ‘two-family’ politics in Andhra",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayasai-reddy-launches-parivartana-rajaneethi-party-vows-to-end-two-family-politics-in-andhra/article71688719.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "db29abd013b80e33",
+   "time": "2026-11-11T07:43:30+00:00",
+   "source": "The Hindu",
+   "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
+   "url": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "ef05a0b0808efcb1",
+   "time": "2026-11-11T07:40:25+00:00",
+   "source": "The Hindu",
+   "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+   "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "ce5b063015de8b3b",
+   "time": "2026-11-11T07:33:39+00:00",
+   "source": "The Hindu",
+   "title": "Former top Maoist leaders console ex-Naxalite leader over mother’s death",
+   "url": "https://www.thehindu.com/news/national/telangana/former-top-maoist-leaders-console-ex-naxalite-leader-over-mothers-death/article71686550.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "26afa8150aea0fc0",
+   "time": "2026-11-11T07:32:49+00:00",
+   "source": "The Hindu",
+   "title": "No discrepancy in votes polled and counted in Mumbai North LS polls: EC officials",
+   "url": "https://www.thehindu.com/news/cities/mumbai/no-discrepancy-in-votes-polled-and-counted-in-mumbai-north-ls-polls-ec-officials/article71688757.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "3efa6e41816528f8",
+   "time": "2026-11-11T07:32:45+00:00",
+   "source": "The Hindu",
+   "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
+   "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/article71688652.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "6f37ed79b978586d",
+   "time": "2026-11-11T07:27:46+00:00",
+   "source": "The Hindu",
+   "title": "Gang robs bank agent of ₹1.50 crore collected from Tasmac outlets in Kancheepuram",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/gang-robs-bank-agent-of-150-crore-collected-from-tasmac-outlets-in-kancheepuram/article71688496.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "5b8eaf4262c1a4f4",
+   "time": "2026-11-11T07:24:14+00:00",
+   "source": "The Hindu",
+   "title": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "cbe3fceafb0dace2",
+   "time": "2026-11-11T07:22:24+00:00",
+   "source": "The Hindu",
+   "title": "Illegal oocyte collection racket: 27 ART centres inspected across Telangana, notices issued to seven hospitals",
+   "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "ea1c077875267b8d",
+   "time": "2026-11-11T07:04:57+00:00",
+   "source": "The Hindu",
+   "title": "Himalayas agenda left off COP31 formal list as major blocs withhold support: Nepal Foreign Minister",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "d9a80db45f264f37",
    "time": "2026-11-11T06:22:11+00:00",
    "source": "The Hindu",
@@ -8,116 +118,6 @@
    "url": "https://www.thehindu.com/news/national/rahul-gandhi-to-discuss-global-student-movements-at-columbia-university-geopolitics-at-chicago-university/article71688553.ece",
    "paper": "GS-II",
    "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "f8b17ac889e09e2f",
-   "time": "2026-11-11T06:20:43+00:00",
-   "source": "The Hindu",
-   "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
-   "url": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "2bb2496f12b8d14c",
-   "time": "2026-11-11T04:10:17+00:00",
-   "source": "The Hindu",
-   "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion: Report",
-   "url": "https://www.thehindu.com/sci-tech/technology/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-report/article71688191.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "d6727a8a39d282e8",
-   "time": "2026-11-11T02:45:22+00:00",
-   "source": "The Hindu",
-   "title": "U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent",
-   "url": "https://www.thehindu.com/news/international/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-says-scott-bessent/article71688169.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "2272b76aae71bc41",
-   "time": "2026-11-11T02:15:22+00:00",
-   "source": "The Hindu",
-   "title": "World leaders take stage at COP31 but big names missing",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "b0b2188c9461a808",
-   "time": "2026-11-11T01:18:03+00:00",
-   "source": "The Hindu",
-   "title": "U.S. Treasury chief Bessent moved to military base after Iranian threats, reports say",
-   "url": "https://www.thehindu.com/news/international/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-reports-say/article71688103.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "ffb32996a6bbb6f4",
-   "time": "2026-11-11T00:36:19+00:00",
-   "source": "The Hindu",
-   "title": "U.S. judge says Trump’s $10 billion BBC defamation case can proceed",
-   "url": "https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "d1c9b066dc5233f6",
-   "time": "2026-11-10T22:24:48+00:00",
-   "source": "The Hindu",
-   "title": "Bombay High Court declines request for hearing each day in quota petitions for Maratha reservation",
-   "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-declines-request-for-hearing-each-day-in-quota-petitions-for-maratha-reservation/article71687008.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "529f2258df2db2f7",
-   "time": "2026-11-10T21:19:51+00:00",
-   "source": "The Hindu",
-   "title": "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "7cb5e32f267fd8e6",
-   "time": "2026-11-10T20:34:46+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka-registered doctors may be allowed to practise in Kasaragod: Keralam Health Minister",
-   "url": "https://www.thehindu.com/news/national/kerala/karnataka-registered-doctors-may-be-allowed-to-practise-in-kasaragod-keralam-health-minister/article71686180.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "fb307da07d3a068e",
-   "time": "2026-11-10T19:56:07+00:00",
-   "source": "The Hindu",
-   "title": "Vaiko releases 34-year crime report; rebukes allies for criticising T.N. government",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/vaiko-releases-34-year-crime-report-rebukes-allies-for-criticising-tn-government/article71686350.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "745f030d76101536",
-   "time": "2026-11-10T19:12:33+00:00",
-   "source": "The Hindu",
-   "title": "Gem Granites Veeramani’s daughter Archana moves Madras High Court alleging human rights violations by SIT",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramanis-daughter-archana-moves-madras-high-court-alleging-human-rights-violations-by-sit/article71686923.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -141,5 +141,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T06:35:05.847278+00:00"
+ "updated": "2026-11-11T07:54:10.646511+00:00"
 }
