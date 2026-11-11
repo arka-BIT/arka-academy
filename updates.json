@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "b3295ca5a682b757",
+   "time": "2026-11-11T20:46:19+00:00",
+   "source": "The Hindu",
+   "title": "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-government-to-ready-adequate-medicines-vehicles-at-mental-health-centres-by-november-24/article71690314.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "5fe73e354794cf22",
+   "time": "2026-11-11T20:30:56+00:00",
+   "source": "The Hindu",
+   "title": "Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/consultations-with-governor-ongoing-to-arrive-at-agreement-over-v-c-appointment-higher-education-minister/article71690509.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "7c5704908901a889",
+   "time": "2026-11-11T20:29:12+00:00",
+   "source": "The Hindu",
+   "title": "Cusat Syndicate member approaches Kerala High Court against employees’ strike",
+   "url": "https://www.thehindu.com/news/national/kerala/cusat-syndicate-member-approaches-kerala-high-court-against-employees-strike/article71690657.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "52f95260568a8eaa",
+   "time": "2026-11-11T20:11:31+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court reserves orders in cases challenging NGT’s construction ban on 1 km radius around Pallikaranai marshland",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-in-cases-challenging-ngts-construction-ban-on-1-km-radius-around-pallikaranai-marshland/article71690916.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "a24e7170797677a3",
    "time": "2026-11-11T19:55:39+00:00",
    "source": "The Hindu",
@@ -81,46 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "ab7e166fbcd4a4d1",
-   "time": "2026-11-11T17:19:55+00:00",
-   "source": "The Hindu",
-   "title": "Mamata skips Bhai Phonta celebrations; her brother joins rebel camp, praises Suvendu",
-   "url": "https://www.thehindu.com/news/cities/kolkata/mamata-skips-bhai-phonta-celebrations-her-brother-joins-rebel-camp-praises-suvendu/article71690662.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "dd0a47d3ea49c561",
-   "time": "2026-11-11T17:15:57+00:00",
-   "source": "The Hindu",
-   "title": "COP31 leaders urge focus on climate action despite global conflicts",
-   "url": "https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "e24e1504b3e8f6b3",
-   "time": "2026-11-11T17:11:54+00:00",
-   "source": "The Hindu",
-   "title": "Festival of lights turns grim for many as firecracker injuries surge across Bengaluru hospitals",
-   "url": "https://www.thehindu.com/news/national/karnataka/festival-of-lights-turns-grim-for-many-as-firecracker-injuries-surge-across-bengaluru-hospitals/article71690432.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "9a2eae23a1a0a736",
-   "time": "2026-11-11T17:11:46+00:00",
-   "source": "The Hindu",
-   "title": "GBA Chief Commissioner directs officials to expedite pothole-filling work",
-   "url": "https://www.thehindu.com/news/cities/bangalore/gba-chief-commissioner-directs-officials-to-expedite-pothole-filling-work/article71690506.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T20:02:14.911890+00:00"
+ "updated": "2026-11-11T21:39:43.287826+00:00"
 }
