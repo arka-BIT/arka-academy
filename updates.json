@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "a24e7170797677a3",
+   "time": "2026-11-11T19:55:39+00:00",
+   "source": "The Hindu",
+   "title": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
+   "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "46672b88d13b01f8",
+   "time": "2026-11-11T19:01:31+00:00",
+   "source": "The Hindu",
+   "title": "VS Hospitals introduces digital mammography system for breast cancer detection",
+   "url": "https://www.thehindu.com/sci-tech/health/vs-hospitals-introduces-digital-mammography-system-for-breast-cancer-detection/article71689362.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "9e14b9a8c19003a9",
    "time": "2026-11-11T18:28:21+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "ddf921fda8a4d18f",
-   "time": "2026-11-11T17:04:33+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Murasu damages over 274 hectares of crop area in Prakasam district",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-damages-over-274hectares-of-crop-area-in-prakasam-district/article71690245.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "200c2749c5496d86",
-   "time": "2026-11-11T17:02:38+00:00",
-   "source": "The Hindu",
-   "title": "Government extends micro credit guarantee scheme for five years",
-   "url": "https://www.thehindu.com/news/national/government-extends-micro-credit-guarantee-scheme-for-five-years/article71690888.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T19:03:21.445803+00:00"
+ "updated": "2026-11-11T20:02:14.911890+00:00"
 }
