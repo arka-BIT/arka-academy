@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "ddf1c8831990824c",
+   "time": "2026-11-11T11:25:22+00:00",
+   "source": "The Hindu",
+   "title": "Cabinet approves ₹62,370 cr. subsidy for P&K fertilisers in rabi season",
+   "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "ee8589727f8b66ff",
+   "time": "2026-11-11T11:13:46+00:00",
+   "source": "The Hindu",
+   "title": "Andhra aims to secure ₹10 lakh crore at CII Partnership Summit, says TDP MP Chintakayala Vijay",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-aims-to-secure-10-lakh-crore-at-cii-partnership-summit-says-tdp-mp-chintakayala-vijay/article71688977.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "1eaa9ccc6e53f768",
    "time": "2026-11-11T10:12:21+00:00",
    "source": "The Hindu",
@@ -111,26 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "ef05a0b0808efcb1",
-   "time": "2026-11-11T07:40:25+00:00",
-   "source": "The Hindu",
-   "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
-   "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "ce5b063015de8b3b",
-   "time": "2026-11-11T07:33:39+00:00",
-   "source": "The Hindu",
-   "title": "Former top Maoist leaders console ex-Naxalite leader over mother’s death",
-   "url": "https://www.thehindu.com/news/national/telangana/former-top-maoist-leaders-console-ex-naxalite-leader-over-mothers-death/article71686550.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -151,5 +151,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T10:38:02.813644+00:00"
+ "updated": "2026-11-11T11:31:59.004881+00:00"
 }
