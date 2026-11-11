@@ -1,6 +1,76 @@
 {
  "items": [
   {
+   "id": "ab7e166fbcd4a4d1",
+   "time": "2026-11-11T17:19:55+00:00",
+   "source": "The Hindu",
+   "title": "Mamata skips Bhai Phonta celebrations; her brother joins rebel camp, praises Suvendu",
+   "url": "https://www.thehindu.com/news/cities/kolkata/mamata-skips-bhai-phonta-celebrations-her-brother-joins-rebel-camp-praises-suvendu/article71690662.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "dd0a47d3ea49c561",
+   "time": "2026-11-11T17:15:57+00:00",
+   "source": "The Hindu",
+   "title": "COP31 leaders urge focus on climate action despite global conflicts",
+   "url": "https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "e24e1504b3e8f6b3",
+   "time": "2026-11-11T17:11:54+00:00",
+   "source": "The Hindu",
+   "title": "Festival of lights turns grim for many as firecracker injuries surge across Bengaluru hospitals",
+   "url": "https://www.thehindu.com/news/national/karnataka/festival-of-lights-turns-grim-for-many-as-firecracker-injuries-surge-across-bengaluru-hospitals/article71690432.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "9a2eae23a1a0a736",
+   "time": "2026-11-11T17:11:46+00:00",
+   "source": "The Hindu",
+   "title": "GBA Chief Commissioner directs officials to expedite pothole-filling work",
+   "url": "https://www.thehindu.com/news/cities/bangalore/gba-chief-commissioner-directs-officials-to-expedite-pothole-filling-work/article71690506.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "ddf921fda8a4d18f",
+   "time": "2026-11-11T17:04:33+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone Murasu damages over 274 hectares of crop area in Prakasam district",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-damages-over-274hectares-of-crop-area-in-prakasam-district/article71690245.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "200c2749c5496d86",
+   "time": "2026-11-11T17:02:38+00:00",
+   "source": "The Hindu",
+   "title": "Government extends micro credit guarantee scheme for five years",
+   "url": "https://www.thehindu.com/news/national/government-extends-micro-credit-guarantee-scheme-for-five-years/article71690888.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "19d8f8a7d5be6de5",
+   "time": "2026-11-11T16:52:33+00:00",
+   "source": "The Hindu",
+   "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland",
+   "url": "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "c1e9dabe6a558f81",
    "time": "2026-11-11T16:04:45+00:00",
    "source": "The Hindu",
@@ -51,76 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "2b39037e3f93bb52",
-   "time": "2026-11-11T14:54:52+00:00",
-   "source": "The Hindu",
-   "title": "Prix Pascal: If AI writes your book, are you still a writer?",
-   "url": "https://www.thehindu.com/books/prix-pascal-ai-writing-creativity-literature/article71690192.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "3643d14562d6401b",
-   "time": "2026-11-11T14:31:20+00:00",
-   "source": "The Hindu",
-   "title": "Bengaluru fintech firm reports ₹31.43-crore cyber fraud involving 301 unauthorised transactions",
-   "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-fintech-firm-reports-3143-crore-cyber-fraud-involving-301-unauthorised-transactions/article71689306.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "e3271bf08144fa5d",
-   "time": "2026-11-11T14:29:43+00:00",
-   "source": "The Hindu",
-   "title": "Saudi Arabia-flagged tanker hit in Strait of Hormuz, 3 Indian seafarers aboard: Sonowal",
-   "url": "https://www.thehindu.com/news/national/saudi-arabia-flagged-tanker-hit-in-strait-of-hormuz-3-indian-seafarers-aboard-sonowal/article71690021.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "7e63188520a31bd2",
-   "time": "2026-11-11T14:29:22+00:00",
-   "source": "The Hindu",
-   "title": "Amid reports of Korean firms shifting to A.P., Hwashin and Seoyon commit ₹1,370-crore investments in T.N.",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/amid-reports-of-korean-firms-shifting-to-ap-hwashin-and-seoyon-commit-1370-crore-investments-in-tn/article71690137.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "c6f0f2605eb73e34",
-   "time": "2026-11-11T14:26:46+00:00",
-   "source": "The Hindu",
-   "title": "Bharat Summit to discuss alternatives to divisive policies of right-wing forces",
-   "url": "https://www.thehindu.com/news/national/telangana/bharat-summit-to-discuss-alternatives-to-divisive-policies-of-right-wing-forces/article71689864.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "d4599f25f66e69f5",
-   "time": "2026-11-11T13:49:31+00:00",
-   "source": "The Hindu",
-   "title": "Navi Mumbai emerges as cleanest city; Surat, Vijayawada runners-up in cleanliness survey",
-   "url": "https://www.thehindu.com/news/national/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "3b3f0f8a2fca34b9",
-   "time": "2026-11-11T13:37:28+00:00",
-   "source": "The Hindu",
-   "title": "Sugarcane farmers continue protest in Bagalkot",
-   "url": "https://www.thehindu.com/news/national/karnataka/sugarcane-farmers-continue-protest-in-bagalkot/article71685994.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T16:18:17.353747+00:00"
+ "updated": "2026-11-11T17:23:04.824463+00:00"
 }
