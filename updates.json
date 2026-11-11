@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "2bb2496f12b8d14c",
+   "time": "2026-11-11T04:10:17+00:00",
+   "source": "The Hindu",
+   "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion: Report",
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-report/article71688191.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "d6727a8a39d282e8",
    "time": "2026-11-11T02:45:22+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "151d044590787369",
-   "time": "2026-11-10T17:04:30+00:00",
-   "source": "The Hindu",
-   "title": "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
-   "url": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T02:54:25.245720+00:00"
+ "updated": "2026-11-11T04:35:39.644990+00:00"
 }
