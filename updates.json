@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "41024188b361e75d",
+   "time": "2026-11-11T08:22:50+00:00",
+   "source": "The Hindu",
+   "title": "Government bars export of lithium-ion battery waste and scrap containing black mass",
+   "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "e2275d50e264e87b",
    "time": "2026-11-11T07:50:57+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "d9a80db45f264f37",
-   "time": "2026-11-11T06:22:11+00:00",
-   "source": "The Hindu",
-   "title": "Rahul Gandhi to discuss global student movements at Columbia University; geopolitics at Chicago University",
-   "url": "https://www.thehindu.com/news/national/rahul-gandhi-to-discuss-global-student-movements-at-columbia-university-geopolitics-at-chicago-university/article71688553.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -141,5 +141,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T07:54:10.646511+00:00"
+ "updated": "2026-11-11T08:43:19.208399+00:00"
 }
