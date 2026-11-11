@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "37c014c4ba9c73f5",
+   "time": "2026-11-11T18:03:46+00:00",
+   "source": "The Hindu",
+   "title": "Drone industry needs deeper localisation as import dependence poses risks: DFI",
+   "url": "https://www.thehindu.com/news/national/karnataka/drone-industry-needs-deeper-localisation-as-import-dependence-poses-risks-dfi/article71689910.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "dae832c01eb35b1e",
+   "time": "2026-11-11T17:51:27+00:00",
+   "source": "The Hindu",
+   "title": "Lam Research conducts finale of nationwide semiconductor challenge at PES college",
+   "url": "https://www.thehindu.com/news/national/karnataka/lam-research-conducts-finale-of-nationwide-semiconductor-challenge-at-pes-college/article71690523.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "d8c72001d26d781f",
+   "time": "2026-11-11T17:21:48+00:00",
+   "source": "The Hindu",
+   "title": "Stop penalising farmers for stubble burning, says RSS body",
+   "url": "https://www.thehindu.com/news/national/stop-penalising-farmers-for-stubble-burning-says-rss-body/article71690596.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "ab7e166fbcd4a4d1",
    "time": "2026-11-11T17:19:55+00:00",
    "source": "The Hindu",
@@ -61,6 +91,16 @@
    "exam": "Both"
   },
   {
+   "id": "13b3bfd82e5192a5",
+   "time": "2026-11-11T16:58:11+00:00",
+   "source": "The Hindu",
+   "title": "India, France hold dialogues on economic security, space, technology",
+   "url": "https://www.thehindu.com/news/national/india-france-hold-dialogues-on-economic-security-space-technology/article71690750.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "19d8f8a7d5be6de5",
    "time": "2026-11-11T16:52:33+00:00",
    "source": "The Hindu",
@@ -71,53 +111,13 @@
    "exam": "Both"
   },
   {
-   "id": "c1e9dabe6a558f81",
-   "time": "2026-11-11T16:04:45+00:00",
+   "id": "725c64c9dd9fc786",
+   "time": "2026-11-11T16:45:32+00:00",
    "source": "The Hindu",
-   "title": "State spends Rs 1.85 lakh crore on guarantee schemes: H.M. Revanna",
-   "url": "https://www.thehindu.com/news/national/karnataka/state-spends-rs-185-lakh-crore-on-guarantee-schemes-hm-revanna/article71690218.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "adcf0f7390881af4",
-   "time": "2026-11-11T16:01:42+00:00",
-   "source": "The Hindu",
-   "title": "MLC credits Shakti scheme for increase in devotees visiting Hasanamba Temple in Hassan",
-   "url": "https://www.thehindu.com/news/national/karnataka/mlc-credits-shakti-scheme-for-increase-in-devotees-visiting-hasanamba-temple-in-hassan/article71690414.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "4dea5b08839e41e5",
-   "time": "2026-11-11T15:57:38+00:00",
-   "source": "The Hindu",
-   "title": "Farmer climbs tree on Shivamogga DC office premises, alleges corruption against Revenue Dept. officials",
-   "url": "https://www.thehindu.com/news/national/karnataka/farmer-climbs-tree-on-shivamogga-dc-office-premises-alleges-corruption-against-revenue-dept-officials/article71689670.ece",
+   "title": "Ideation completed for ₹100-crore private research park in Perundurai",
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/ideation-completed-for-100-crore-private-research-park-in-perundurai/article71690668.ece",
    "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "5a9dbee44676cd2e",
-   "time": "2026-11-11T15:57:10+00:00",
-   "source": "The Hindu",
-   "title": "Mudhol farmers demand ₹5,500 for a tonne of sugarcane",
-   "url": "https://www.thehindu.com/news/national/karnataka/mudhol-farmers-demand-5500-for-a-tonne-of-sugarcane/article71690673.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "28bd772ca263f39c",
-   "time": "2026-11-11T15:18:02+00:00",
-   "source": "The Hindu",
-   "title": "CM to inaugurate centenary celebrations of Dhanlaxmi Bank on Nov 14",
-   "url": "https://www.thehindu.com/news/national/kerala/cm-to-inaugurate-centenary-celebrations-of-dhanlaxmi-bank-on-nov-14/article71690464.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
+   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T17:23:04.824463+00:00"
+ "updated": "2026-11-11T18:12:58.845645+00:00"
 }
