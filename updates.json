@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "1eaa9ccc6e53f768",
+   "time": "2026-11-11T10:12:21+00:00",
+   "source": "The Hindu",
+   "title": "Tamil Nadu CM Vijay virtually inaugurates Raptee.HV’s flagship experience centre in Chennai",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-virtually-inaugurates-rapteehvs-flagship-experience-centre-in-chennai/article71689068.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "9743b443732b76fb",
+   "time": "2026-11-11T09:59:31+00:00",
+   "source": "The Hindu",
+   "title": "Telangana seeks World Bank assistance for urban mission programme in PURE and RARE regions",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-seeks-world-bank-assistance-for-urban-mission-programme-in-pure-and-rare-regions/article71688892.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "8a731091a3107320",
+   "time": "2026-11-11T09:52:49+00:00",
+   "source": "The Hindu",
+   "title": "Tamil Nadu may approach Supreme Court seeking greater powers for Cauvery Water Management Authority",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-may-approach-supreme-court-seeking-greater-powers-for-cauvery-water-management-authority/article71688924.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -101,36 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "26afa8150aea0fc0",
-   "time": "2026-11-11T07:32:49+00:00",
-   "source": "The Hindu",
-   "title": "No discrepancy in votes polled and counted in Mumbai North LS polls: EC officials",
-   "url": "https://www.thehindu.com/news/cities/mumbai/no-discrepancy-in-votes-polled-and-counted-in-mumbai-north-ls-polls-ec-officials/article71688757.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "3efa6e41816528f8",
-   "time": "2026-11-11T07:32:45+00:00",
-   "source": "The Hindu",
-   "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
-   "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/article71688652.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "6f37ed79b978586d",
-   "time": "2026-11-11T07:27:46+00:00",
-   "source": "The Hindu",
-   "title": "Gang robs bank agent of ₹1.50 crore collected from Tasmac outlets in Kancheepuram",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/gang-robs-bank-agent-of-150-crore-collected-from-tasmac-outlets-in-kancheepuram/article71688496.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -151,5 +151,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T09:38:16.346812+00:00"
+ "updated": "2026-11-11T10:38:02.813644+00:00"
 }
