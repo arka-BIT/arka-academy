@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "c74b5b2098f701aa",
+   "time": "2026-11-11T11:59:52+00:00",
+   "source": "The Hindu",
+   "title": "Kedarnath temple portals closed for winter; deity's palanquin begins journey to Ukhimath",
+   "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-temple-portals-closed-for-winter-deitys-palanquin-begins-journey-to-ukhimath/article71689485.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
    "id": "ddf1c8831990824c",
    "time": "2026-11-11T11:25:22+00:00",
    "source": "The Hindu",
@@ -121,16 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "db29abd013b80e33",
-   "time": "2026-11-11T07:43:30+00:00",
-   "source": "The Hindu",
-   "title": "Yogi Adityanath dismisses Deepavali pollution concerns, says it will subside",
-   "url": "https://www.thehindu.com/news/national/cm-yogi-adityanath-dismisses-diwali-pollution-concerns-says-it-will-subside/article71688638.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -151,5 +151,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T11:31:59.004881+00:00"
+ "updated": "2026-11-11T12:35:29.536708+00:00"
 }
