@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "c1e9dabe6a558f81",
+   "time": "2026-11-11T16:04:45+00:00",
+   "source": "The Hindu",
+   "title": "State spends Rs 1.85 lakh crore on guarantee schemes: H.M. Revanna",
+   "url": "https://www.thehindu.com/news/national/karnataka/state-spends-rs-185-lakh-crore-on-guarantee-schemes-hm-revanna/article71690218.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "adcf0f7390881af4",
+   "time": "2026-11-11T16:01:42+00:00",
+   "source": "The Hindu",
+   "title": "MLC credits Shakti scheme for increase in devotees visiting Hasanamba Temple in Hassan",
+   "url": "https://www.thehindu.com/news/national/karnataka/mlc-credits-shakti-scheme-for-increase-in-devotees-visiting-hasanamba-temple-in-hassan/article71690414.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "4dea5b08839e41e5",
+   "time": "2026-11-11T15:57:38+00:00",
+   "source": "The Hindu",
+   "title": "Farmer climbs tree on Shivamogga DC office premises, alleges corruption against Revenue Dept. officials",
+   "url": "https://www.thehindu.com/news/national/karnataka/farmer-climbs-tree-on-shivamogga-dc-office-premises-alleges-corruption-against-revenue-dept-officials/article71689670.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "5a9dbee44676cd2e",
+   "time": "2026-11-11T15:57:10+00:00",
+   "source": "The Hindu",
+   "title": "Mudhol farmers demand ₹5,500 for a tonne of sugarcane",
+   "url": "https://www.thehindu.com/news/national/karnataka/mudhol-farmers-demand-5500-for-a-tonne-of-sugarcane/article71690673.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "28bd772ca263f39c",
    "time": "2026-11-11T15:18:02+00:00",
    "source": "The Hindu",
@@ -81,46 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "e51e0fce04f7d897",
-   "time": "2026-11-11T13:23:35+00:00",
-   "source": "The Hindu",
-   "title": "New registration framework proposed to strengthen allied and healthcare professions in India",
-   "url": "https://www.thehindu.com/sci-tech/health/new-registration-framework-proposed-to-strengthen-allied-and-healthcare-professions-in-india/article71689527.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "c74b5b2098f701aa",
-   "time": "2026-11-11T11:59:52+00:00",
-   "source": "The Hindu",
-   "title": "Kedarnath temple portals closed for winter; deity's palanquin begins journey to Ukhimath",
-   "url": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-temple-portals-closed-for-winter-deitys-palanquin-begins-journey-to-ukhimath/article71689485.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "ddf1c8831990824c",
-   "time": "2026-11-11T11:25:22+00:00",
-   "source": "The Hindu",
-   "title": "Cabinet approves ₹62,370 cr. subsidy for P&K fertilisers in rabi season",
-   "url": "https://www.thehindu.com/news/national/cabinet-approves-62370-cr-subsidy-for-pk-fertilisers-in-rabi-season/article71689318.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "ee8589727f8b66ff",
-   "time": "2026-11-11T11:13:46+00:00",
-   "source": "The Hindu",
-   "title": "Andhra aims to secure ₹10 lakh crore at CII Partnership Summit, says TDP MP Chintakayala Vijay",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-aims-to-secure-10-lakh-crore-at-cii-partnership-summit-says-tdp-mp-chintakayala-vijay/article71688977.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T15:25:26.061053+00:00"
+ "updated": "2026-11-11T16:18:17.353747+00:00"
 }
