@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "76475701a6db58e1",
+   "time": "2026-11-11T09:38:16.346812+00:00",
+   "source": "DD News",
+   "title": "मूडीज ने बढ़ाया भारत की GDP ग्रोथ का अनुमान, वित्त वर्ष 2026-27 में 6.5% से बढ़ाकर 7% विकास दर की उम्मीद",
+   "url": "https://ddnews.gov.in/moodys-has-raised-its-gdp-growth-forecast-for-india-now-projecting-a-growth-rate-of-7-for-the-2026-27-fiscal-year-up-from-the-previous-estimate-of-6-5/",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "7eab275317fdac2c",
+   "time": "2026-11-11T09:25:41+00:00",
+   "source": "The Hindu",
+   "title": "Andhra Pradesh to spend Rs.632 crore on restoration of 789 lift irrigation schemes",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-spend-rs632-crore-on-restoration-of-789-lift-irrigation-schemes/article71688914.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "aa9e61aed6167638",
+   "time": "2026-11-11T09:11:53+00:00",
+   "source": "The Hindu",
+   "title": "Fadnavis proposes phased redevelopment of Mumbai airport’s T1 to avoid disruption of flights",
+   "url": "https://www.thehindu.com/news/cities/mumbai/fadnavis-proposes-phased-redevelopment-of-mumbai-airports-t1-to-avoid-disruption-of-flights/article71688854.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "603c8614563cccb3",
+   "time": "2026-11-11T08:53:03+00:00",
+   "source": "The Hindu",
+   "title": "Alice Huang, who reportedly had affair with Nvidia CEO, is Chinese banker turned tech exec",
+   "url": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "41024188b361e75d",
    "time": "2026-11-11T08:22:50+00:00",
    "source": "The Hindu",
@@ -91,36 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "5b8eaf4262c1a4f4",
-   "time": "2026-11-11T07:24:14+00:00",
-   "source": "The Hindu",
-   "title": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "cbe3fceafb0dace2",
-   "time": "2026-11-11T07:22:24+00:00",
-   "source": "The Hindu",
-   "title": "Illegal oocyte collection racket: 27 ART centres inspected across Telangana, notices issued to seven hospitals",
-   "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "ea1c077875267b8d",
-   "time": "2026-11-11T07:04:57+00:00",
-   "source": "The Hindu",
-   "title": "Himalayas agenda left off COP31 formal list as major blocs withhold support: Nepal Foreign Minister",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/himalayas-agenda-left-off-cop31-formal-list-as-major-blocs-withhold-support-nepal-foreign-minister/article71688621.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "26a5e248491e8a4c",
    "time": "2026-11-08T07:02:00+00:00",
    "source": "Indian Express",
@@ -141,5 +151,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T08:43:19.208399+00:00"
+ "updated": "2026-11-11T09:38:16.346812+00:00"
 }
