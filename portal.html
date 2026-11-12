@@ -172,4 +172,4 @@ if($("bO"))$("bO").onclick=function(){if(!$("oS").value)return msg("mm","Choose 
 if($("bE"))$("bE").onclick=function(){var b=this,f=$("eF").files[0]?$("eF").files:null;b.disabled=true;msg("mm",f?"Compressing and uploading…":"",true);(f?upCopy(sid,tid,"evaluated",f):Promise.resolve(null)).then(function(path){var x={eval_at:new Date().toISOString(),eval_marks:$("eM").value.trim()||null,eval_remarks:$("eR").value.trim()||null};if(path)x.eval_path=path;return save(x,b)}).catch(function(e){b.disabled=false;msg("mm",e.message)})};
 if($("bI"))$("bI").onclick=function(){save({improve_at:new Date().toISOString(),improve_notes:$("iN").value.trim()||null},this)};
 if($("vA"))$("vA").onclick=function(e){e.preventDefault();openFile(p.answer_path)};if($("vE"))$("vE").onclick=function(e){e.preventDefault();openFile(p.eval_path)}}
-</script></body></html>
+</script><script src="portal-multibatch.js"></script></body></html>
