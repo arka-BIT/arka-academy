@@ -61,6 +61,26 @@
    "exam": "Both"
   },
   {
+   "id": "124405a12f9e35a8",
+   "time": "2026-11-11T19:04:29+00:00",
+   "source": "The Hindu",
+   "title": "CII Partnership Summit: CM Naidu seeks WIPO’s support to boost innovation ecosystem in A.P.",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-cm-naidu-seeks-wipos-support-to-boost-innovation-ecosystem-in-ap/article71689762.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "5dcea2549a1df1c6",
+   "time": "2026-11-11T19:02:34+00:00",
+   "source": "The Hindu",
+   "title": "CII Partnership Summit: Andhra CM Naidu makes investment pitch before UAE, Japanese delegations",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-andhra-cm-naidu-makes-investment-pitch-before-uae-japanese-delegations/article71690390.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "46672b88d13b01f8",
    "time": "2026-11-11T19:01:31+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "8ab507388bebe192",
-   "time": "2026-11-11T18:13:30+00:00",
-   "source": "The Hindu",
-   "title": "Gold ornament presented for deity in Parthasarathi temple",
-   "url": "https://www.thehindu.com/news/cities/chennai/gold-ornament-presented-for-deity-in-parthasarathi-temple/article71690548.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "37c014c4ba9c73f5",
-   "time": "2026-11-11T18:03:46+00:00",
-   "source": "The Hindu",
-   "title": "Drone industry needs deeper localisation as import dependence poses risks: DFI",
-   "url": "https://www.thehindu.com/news/national/karnataka/drone-industry-needs-deeper-localisation-as-import-dependence-poses-risks-dfi/article71689910.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T00:11:53.442612+00:00"
+ "updated": "2026-11-12T01:17:40.677638+00:00"
 }
