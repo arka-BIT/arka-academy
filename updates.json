@@ -1,6 +1,86 @@
 {
  "items": [
   {
+   "id": "ced8db3f153b9c3c",
+   "time": "2026-11-12T13:43:51+00:00",
+   "source": "The Hindu",
+   "title": "Union Minister Kishan Reddy questions “anti-India” Bharat Summit",
+   "url": "https://www.thehindu.com/news/national/telangana/union-minister-kishan-reddy-questions-anti-india-bharat-summit/article71693765.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "13bc71d59fa564c8",
+   "time": "2026-11-12T13:41:54+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka to host national conferences of health, food safety officials on November 25, 26",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-host-national-conferences-of-health-food-safety-officials-on-november-25-26/article71693110.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "e8f360de4e8274c3",
+   "time": "2026-11-12T13:40:08+00:00",
+   "source": "The Hindu",
+   "title": "Now, MeeSeva doorstep delivery of govt. services in Cyberabad",
+   "url": "https://www.thehindu.com/news/national/telangana/now-meeseva-doorstep-delivery-of-govt-services-in-cyberabad/article71693914.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "d1e6c9298369a3ab",
+   "time": "2026-11-12T13:30:39+00:00",
+   "source": "The Hindu",
+   "title": "Study suggests not all obesity means ill-health",
+   "url": "https://www.thehindu.com/sci-tech/health/study-suggests-not-all-obesity-means-ill-health/article71693668.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "f8c656d28eef39a9",
+   "time": "2026-11-12T13:23:32+00:00",
+   "source": "The Hindu",
+   "title": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
+   "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "3ecc6beec0a53e05",
+   "time": "2026-11-12T12:41:09+00:00",
+   "source": "The Hindu",
+   "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
+   "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "bc6db4d4a68b20f8",
+   "time": "2026-11-12T12:05:03+00:00",
+   "source": "The Hindu",
+   "title": "On COP31 and Indonesia’s forest fires | Green Humour by Rohan Chakravarty",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-cop31-and-indonesias-forest-fires-green-humour-by-rohan-chakravarty/article71685473.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "3e1ed3d96c0ff172",
+   "time": "2026-11-12T11:39:35+00:00",
+   "source": "The Hindu",
+   "title": "Venezuela tells COP31 it has sovereign right to pump more oil",
+   "url": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "88277014e5bc6dde",
    "time": "2026-11-12T10:31:57+00:00",
    "source": "The Hindu",
@@ -51,83 +131,13 @@
    "exam": "Both"
   },
   {
-   "id": "c965ac8c5b7783d1",
-   "time": "2026-11-12T09:32:03+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court suspends IAS officer Anshul Mishra’s one-month sentence in contempt plea",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-suspends-ias-officer-anshul-mishras-one-month-sentence-in-contempt-plea/article69685687.ece",
+   "id": "86e088ab674b9144",
+   "time": "2026-11-12T05:49:00+00:00",
+   "source": "Indian Express",
+   "title": "India’s Russian fossil fuel imports at record high of €6.4 billion in October amid elevated prices",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5c4fe3682444282bb88d2f1d4232a&url=https%3a%2f%2findianexpress.com%2farticle%2fbusiness%2findias-russian-fossil-fuel-imports-at-record-high-of-e6-4-billion-in-october-amid-elevated-prices-10960615%2f&c=2460795268784000548&mkt=en-us",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "f9345f35c6262ed3",
-   "time": "2026-11-12T09:30:23+00:00",
-   "source": "The Hindu",
-   "title": "‘Gem Granites’ Veeramani POCSO case: First charge sheet filed, State Public Prosecutor tells Madras High Court told",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-first-charge-sheet-filed-state-public-prosecutor-tells-madras-high-court-told/article71692753.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "25b3b93c9a97d705",
-   "time": "2026-11-12T09:29:59+00:00",
-   "source": "The Hindu",
-   "title": "OpenAI now allows enterprises to process AI requests within India",
-   "url": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "9368d75d2eee19f0",
-   "time": "2026-11-12T09:29:40+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court sentences senior IAS officer to one-month simple imprisonment in contempt case",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sentences-ias-officer-to-one-month-simple-imprisonment-in-contempt-case/article69609381.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "91bc41348dd7e811",
-   "time": "2026-11-12T09:29:14+00:00",
-   "source": "The Hindu",
-   "title": "Telangana ACB searches at properties linked to Irrigation Dept Engineer in DA case",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-acb-conducts-searches-at-properties-linked-with-irrigation-dept-engineer-in-da-case/article71692940.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "543c6b6e877b5671",
-   "time": "2026-11-12T09:22:01+00:00",
-   "source": "The Hindu",
-   "title": "Six researchers win Infosys Science Foundation prizes for 2026",
-   "url": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "ab7c08a75bb8c1cc",
-   "time": "2026-11-12T09:17:18+00:00",
-   "source": "The Hindu",
-   "title": "Complete Koheda Fruit Market works by June 2, 2028; first phase by March, 2027: Telangana Agriculture Minister",
-   "url": "https://www.thehindu.com/news/national/telangana/complete-koheda-fruit-market-works-by-june-2-2028-first-phase-by-march-2027-telangana-agriculture-minister/article71692925.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "743de36aaa0d363f",
-   "time": "2026-11-12T09:16:50+00:00",
-   "source": "The Hindu",
-   "title": "Why the Gokul Dairy election is sparking political outrage | The Hindu Editorial",
-   "url": "https://www.thehindu.com/videos/why-the-gokul-dairy-election-is-sparking-political-outrage-the-hindu-editorial/article71693020.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -161,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T10:39:04.062959+00:00"
+ "updated": "2026-11-12T13:52:57.287659+00:00"
 }
