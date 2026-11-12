@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "88277014e5bc6dde",
+   "time": "2026-11-12T10:31:57+00:00",
+   "source": "The Hindu",
+   "title": "Major gold heist at jewellery showroom in Madurai",
+   "url": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "cecc69e099642b71",
+   "time": "2026-11-12T10:28:01+00:00",
+   "source": "The Hindu",
+   "title": "Chennai draft electoral roll records 29.14 lakh voters",
+   "url": "https://www.thehindu.com/news/cities/chennai/chennai-draft-electoral-roll-records-2914-lakh-voters/article71692763.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "815bc5817dfec6b7",
+   "time": "2026-11-12T10:27:18+00:00",
+   "source": "The Hindu",
+   "title": "Minor fire at Srikalahasti temple kitchen contained, no major damage",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/minor-fire-at-srikalahasti-temple-kitchen-contained-no-major-damage/article71692901.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "d82feb4f0ee81385",
+   "time": "2026-11-12T10:20:03+00:00",
+   "source": "The Hindu",
+   "title": "IAF helicopter lands in Haveri village, turns into centre of attraction",
+   "url": "https://www.thehindu.com/news/national/karnataka/iaf-helicopter-lands-in-haveri-village-turns-into-centre-of-attraction/article71693201.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -8,6 +48,16 @@
    "url": "https://ddnews.gov.in/indian-economy-to-maintain-strong-momentum-gdp-growth-projected-at-7-5-in-fy28-bank-of-america/",
    "paper": "GS-III",
    "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "c965ac8c5b7783d1",
+   "time": "2026-11-12T09:32:03+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court suspends IAS officer Anshul Mishra’s one-month sentence in contempt plea",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-suspends-ias-officer-anshul-mishras-one-month-sentence-in-contempt-plea/article69685687.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -81,56 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "9f122988f16fbc30",
-   "time": "2026-11-12T09:02:59+00:00",
-   "source": "The Hindu",
-   "title": "NIA to probe online radicalisation of Indian youths by Pakistan-based gangster Shahzad Bhatti",
-   "url": "https://www.thehindu.com/news/national/nia-to-probe-online-radicalisation-of-indian-youths-by-pakistan-based-gangster-shahzad-bhatti/article71692918.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "c0480851e4ad6357",
-   "time": "2026-11-12T07:15:48+00:00",
-   "source": "The Hindu",
-   "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "0465b18765b23653",
-   "time": "2026-11-12T06:51:20+00:00",
-   "source": "The Hindu",
-   "title": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/piyush-goyal-naidu-pawan-kalyan-tour-andhra-pradesh-pavilion-at-cii-partnership-summit-in-visakhapatnam/article71692472.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "65a8b35cbf188ee7",
-   "time": "2026-11-12T06:51:06+00:00",
-   "source": "The Hindu",
-   "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of U.S. curbs",
-   "url": "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "33eee33d468e298e",
-   "time": "2026-11-12T06:41:47+00:00",
-   "source": "The Hindu",
-   "title": "Passenger held over hijack threat to Kolkata-Mumbai Air India flight",
-   "url": "https://www.thehindu.com/news/national/passenger-held-over-hijack-threat-to-kolkata-mumbai-air-india-flight/article71692545.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
    "id": "27a923386912d0b8",
    "time": "2026-11-11T20:44:00+00:00",
    "source": "Indian Express",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T09:34:16.581782+00:00"
+ "updated": "2026-11-12T10:39:04.062959+00:00"
 }
