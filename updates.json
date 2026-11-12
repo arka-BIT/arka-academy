@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "bb4d78cd7fbaf93c",
+   "time": "2026-11-12T02:42:40+00:00",
+   "source": "The Hindu",
+   "title": "Israeli strike on southern Gaza hospital kills five, Gaza civil defence says",
+   "url": "https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "c7cd58bc09a6e4ec",
    "time": "2026-11-12T02:13:18+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "46672b88d13b01f8",
-   "time": "2026-11-11T19:01:31+00:00",
-   "source": "The Hindu",
-   "title": "VS Hospitals introduces digital mammography system for breast cancer detection",
-   "url": "https://www.thehindu.com/sci-tech/health/vs-hospitals-introduces-digital-mammography-system-for-breast-cancer-detection/article71689362.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T02:24:07.001844+00:00"
+ "updated": "2026-11-12T03:14:23.234983+00:00"
 }
