@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "id": "220ac05c031a3302",
+   "time": "2026-11-12T09:34:16.581782+00:00",
+   "source": "DD News",
+   "title": "भारतीय अर्थव्यवस्था की रफ्तार रहेगी मजबूत, FY28 में 7.5% GDP ग्रोथ का अनुमान: बैंक ऑफ अमेरिका",
+   "url": "https://ddnews.gov.in/indian-economy-to-maintain-strong-momentum-gdp-growth-projected-at-7-5-in-fy28-bank-of-america/",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "f9345f35c6262ed3",
+   "time": "2026-11-12T09:30:23+00:00",
+   "source": "The Hindu",
+   "title": "‘Gem Granites’ Veeramani POCSO case: First charge sheet filed, State Public Prosecutor tells Madras High Court told",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/gem-granites-veeramani-pocso-case-first-charge-sheet-filed-state-public-prosecutor-tells-madras-high-court-told/article71692753.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "25b3b93c9a97d705",
+   "time": "2026-11-12T09:29:59+00:00",
+   "source": "The Hindu",
+   "title": "OpenAI now allows enterprises to process AI requests within India",
+   "url": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "9368d75d2eee19f0",
+   "time": "2026-11-12T09:29:40+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court sentences senior IAS officer to one-month simple imprisonment in contempt case",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sentences-ias-officer-to-one-month-simple-imprisonment-in-contempt-case/article69609381.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "91bc41348dd7e811",
+   "time": "2026-11-12T09:29:14+00:00",
+   "source": "The Hindu",
+   "title": "Telangana ACB searches at properties linked to Irrigation Dept Engineer in DA case",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-acb-conducts-searches-at-properties-linked-with-irrigation-dept-engineer-in-da-case/article71692940.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "543c6b6e877b5671",
+   "time": "2026-11-12T09:22:01+00:00",
+   "source": "The Hindu",
+   "title": "Six researchers win Infosys Science Foundation prizes for 2026",
+   "url": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "ab7c08a75bb8c1cc",
+   "time": "2026-11-12T09:17:18+00:00",
+   "source": "The Hindu",
+   "title": "Complete Koheda Fruit Market works by June 2, 2028; first phase by March, 2027: Telangana Agriculture Minister",
+   "url": "https://www.thehindu.com/news/national/telangana/complete-koheda-fruit-market-works-by-june-2-2028-first-phase-by-march-2027-telangana-agriculture-minister/article71692925.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "743de36aaa0d363f",
+   "time": "2026-11-12T09:16:50+00:00",
+   "source": "The Hindu",
+   "title": "Why the Gokul Dairy election is sparking political outrage | The Hindu Editorial",
+   "url": "https://www.thehindu.com/videos/why-the-gokul-dairy-election-is-sparking-political-outrage-the-hindu-editorial/article71693020.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "9f122988f16fbc30",
+   "time": "2026-11-12T09:02:59+00:00",
+   "source": "The Hindu",
+   "title": "NIA to probe online radicalisation of Indian youths by Pakistan-based gangster Shahzad Bhatti",
+   "url": "https://www.thehindu.com/news/national/nia-to-probe-online-radicalisation-of-indian-youths-by-pakistan-based-gangster-shahzad-bhatti/article71692918.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "c0480851e4ad6357",
    "time": "2026-11-12T07:15:48+00:00",
    "source": "The Hindu",
@@ -41,86 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "a7acc4b5cbb8bd96",
-   "time": "2026-11-12T06:20:30+00:00",
-   "source": "The Hindu",
-   "title": "Indoor air pollution poses critical, year-round health threat",
-   "url": "https://www.thehindu.com/sci-tech/technology/indoor-air-pollution-poses-critical-year-round-health-threat/article71692541.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "962f11f7d4c04897",
-   "time": "2026-11-12T05:50:17+00:00",
-   "source": "The Hindu",
-   "title": "Belagavi artist exhibits work in Mumbai",
-   "url": "https://www.thehindu.com/news/national/karnataka/belagavi-artist-exhibits-work-in-mumbai/article71689886.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "12900a0dbd5872b5",
-   "time": "2026-11-12T05:47:44+00:00",
-   "source": "The Hindu",
-   "title": "Former BRS MP questions omission of Telangana Statehood stir in Sonia Gandhi’s memoir",
-   "url": "https://www.thehindu.com/news/national/telangana/former-brs-mp-questions-omission-of-telangana-statehood-stir-in-sonia-gandhis-memoir/article71690311.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "eee5e2684c4770a6",
-   "time": "2026-11-12T05:46:15+00:00",
-   "source": "The Hindu",
-   "title": "4.9-magnitude moderate earthquake hits West Sikkim, mild tremors felt in Gangtok",
-   "url": "https://www.thehindu.com/news/national/sikkim/49-magnitude-moderate-earthquake-hits-west-sikkim-mild-tremors-felt-in-gangtok/article71692438.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "f7a2229c7fdfde66",
-   "time": "2026-11-12T04:56:38+00:00",
-   "source": "The Hindu",
-   "title": "Why are fertility centres in Hyderabad in crosshairs over human egg harvesting? Explained",
-   "url": "https://www.thehindu.com/news/national/telangana/why-are-fertility-centres-in-hyderabad-in-crosshairs-over-human-egg-harvesting-explained/article71692345.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "329da77ea3248a48",
-   "time": "2026-11-12T04:31:48+00:00",
-   "source": "The Hindu",
-   "title": "₹50-crore bio-economy mission proposed for Kalyana Karnataka",
-   "url": "https://www.thehindu.com/news/national/karnataka/50-crore-bio-economy-mission-proposed-for-kalyana-karnataka/article71690149.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "263e65c9294024cb",
-   "time": "2026-11-12T04:29:36+00:00",
-   "source": "The Hindu",
-   "title": "What the Punjab and Haryana High Court said about protecting LGBTQIA+ students in schools? | Explained",
-   "url": "https://www.thehindu.com/news/national/what-the-punjab-and-haryana-hc-said-about-protecting-lgbtqia-students-in-schools-explained/article71689539.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "928156a4205c7d59",
-   "time": "2026-11-12T04:22:52+00:00",
-   "source": "The Hindu",
-   "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-   "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
    "id": "27a923386912d0b8",
    "time": "2026-11-11T20:44:00+00:00",
    "source": "Indian Express",
@@ -151,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T07:22:17.907973+00:00"
+ "updated": "2026-11-12T09:34:16.581782+00:00"
 }
