@@ -51,6 +51,16 @@
    "exam": "Both"
   },
   {
+   "id": "d33f75a9e4788776",
+   "time": "2026-11-11T19:09:01+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court sets aside one-month simple imprisonment imposed on IAS officer Anshul Mishra in contempt proceedings",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sets-aside-one-month-simple-imprisonment-imposed-on-ias-officer-anshul-mishra-in-contempt-proceedings/article71688901.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "46672b88d13b01f8",
    "time": "2026-11-11T19:01:31+00:00",
    "source": "The Hindu",
@@ -58,6 +68,16 @@
    "url": "https://www.thehindu.com/sci-tech/health/vs-hospitals-introduces-digital-mammography-system-for-breast-cancer-detection/article71689362.ece",
    "paper": "GS-II",
    "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "82d3ed08cdc2fd84",
+   "time": "2026-11-11T18:38:32+00:00",
+   "source": "The Hindu",
+   "title": "State Highways to open FOB to connect railway station and bus terminus in Tiruvannamalai",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/state-highways-to-open-fob-to-connect-railway-station-and-bus-terminus-in-tiruvannamalai/article71689427.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "dae832c01eb35b1e",
-   "time": "2026-11-11T17:51:27+00:00",
-   "source": "The Hindu",
-   "title": "Lam Research conducts finale of nationwide semiconductor challenge at PES college",
-   "url": "https://www.thehindu.com/news/national/karnataka/lam-research-conducts-finale-of-nationwide-semiconductor-challenge-at-pes-college/article71690523.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "d8c72001d26d781f",
-   "time": "2026-11-11T17:21:48+00:00",
-   "source": "The Hindu",
-   "title": "Stop penalising farmers for stubble burning, says RSS body",
-   "url": "https://www.thehindu.com/news/national/stop-penalising-farmers-for-stubble-burning-says-rss-body/article71690596.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-11T23:28:24.121737+00:00"
+ "updated": "2026-11-12T00:11:53.442612+00:00"
 }
