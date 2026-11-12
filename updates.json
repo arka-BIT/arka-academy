@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "a4efeb19bb8d778d",
+   "time": "2026-11-12T18:15:01+00:00",
+   "source": "The Hindu",
+   "title": "Military helicopter crashes in southern Turkey, killing 4",
+   "url": "https://www.thehindu.com/news/international/turkiye-samankoy-army-helicopter-crash-personnel-killed/article71695300.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "d4bc1c8ae0cba8af",
+   "time": "2026-11-12T18:11:46+00:00",
+   "source": "The Hindu",
+   "title": "Central team to visit districts affected by Murasu cyclone",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/central-team-to-visit-districts-affected-by-murasu-cyclone/article71693913.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "d4ef09043267ae92",
+   "time": "2026-11-12T18:09:57+00:00",
+   "source": "The Hindu",
+   "title": "DRDL Director highlights importance of indigenous research",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/drdl-director-highlights-importance-of-indigenous-research/article71694291.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "4ebc6b3434a74876",
+   "time": "2026-11-12T18:03:01+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka targets 24 GW power capacity in five years; plans over ₹3 lakh crore investment",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-targets-24-gw-power-capacity-in-five-years-plans-over-3-lakh-crore-investment/article71695182.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "9d710a5145d9e0da",
+   "time": "2026-11-12T18:00:03+00:00",
+   "source": "The Hindu",
+   "title": "Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "207f2278da1176cb",
+   "time": "2026-11-12T17:45:57+00:00",
+   "source": "The Hindu",
+   "title": "CPI(M) seeks withdrawal of proposed Water Regulatory Commission",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-withdrawal-of-proposed-water-regulatory-commission/article71693756.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
    "id": "ee1b7e690eff43c4",
    "time": "2026-11-12T17:26:35+00:00",
    "source": "The Hindu",
@@ -61,66 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "619a925e10acab3c",
-   "time": "2026-11-12T16:58:09+00:00",
-   "source": "The Hindu",
-   "title": "India records 38% drop in TB mortality since 2015: WHO report",
-   "url": "https://www.thehindu.com/news/national/india-records-38-drop-in-tb-mortality-since-2015-who-report/article71695039.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "7e6704655f4594e7",
-   "time": "2026-11-12T16:54:22+00:00",
-   "source": "The Hindu",
-   "title": "Centre sanctions new roads, infrastructure along China’s border",
-   "url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "33243f61b2d34f09",
-   "time": "2026-11-12T15:18:03+00:00",
-   "source": "The Hindu",
-   "title": "A disease rooted in social and economic vulnerability can only be eliminated as underlying systems become stronger: Dhun Davar",
-   "url": "https://www.thehindu.com/sci-tech/health/a-disease-rooted-in-social-and-economic-vulnerability-can-only-be-eliminated-as-underlying-systems-become-stronger-dhun-davar/article71677607.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "ced8db3f153b9c3c",
-   "time": "2026-11-12T13:43:51+00:00",
-   "source": "The Hindu",
-   "title": "Union Minister Kishan Reddy questions “anti-India” Bharat Summit",
-   "url": "https://www.thehindu.com/news/national/telangana/union-minister-kishan-reddy-questions-anti-india-bharat-summit/article71693765.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "13bc71d59fa564c8",
-   "time": "2026-11-12T13:41:54+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka to host national conferences of health, food safety officials on November 25, 26",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-host-national-conferences-of-health-food-safety-officials-on-november-25-26/article71693110.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "e8f360de4e8274c3",
-   "time": "2026-11-12T13:40:08+00:00",
-   "source": "The Hindu",
-   "title": "Now, MeeSeva doorstep delivery of govt. services in Cyberabad",
-   "url": "https://www.thehindu.com/news/national/telangana/now-meeseva-doorstep-delivery-of-govt-services-in-cyberabad/article71693914.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T17:29:53.231880+00:00"
+ "updated": "2026-11-12T18:17:05.714730+00:00"
 }
