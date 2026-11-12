@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "f7a2229c7fdfde66",
+   "time": "2026-11-12T04:56:38+00:00",
+   "source": "The Hindu",
+   "title": "Why are fertility centres in Hyderabad in crosshairs over human egg harvesting? Explained",
+   "url": "https://www.thehindu.com/news/national/telangana/why-are-fertility-centres-in-hyderabad-in-crosshairs-over-human-egg-harvesting-explained/article71692345.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "329da77ea3248a48",
+   "time": "2026-11-12T04:31:48+00:00",
+   "source": "The Hindu",
+   "title": "₹50-crore bio-economy mission proposed for Kalyana Karnataka",
+   "url": "https://www.thehindu.com/news/national/karnataka/50-crore-bio-economy-mission-proposed-for-kalyana-karnataka/article71690149.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "263e65c9294024cb",
+   "time": "2026-11-12T04:29:36+00:00",
+   "source": "The Hindu",
+   "title": "What the Punjab and Haryana High Court said about protecting LGBTQIA+ students in schools? | Explained",
+   "url": "https://www.thehindu.com/news/national/what-the-punjab-and-haryana-hc-said-about-protecting-lgbtqia-students-in-schools-explained/article71689539.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "928156a4205c7d59",
+   "time": "2026-11-12T04:22:52+00:00",
+   "source": "The Hindu",
+   "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+   "url": "https://www.thehindu.com/sci-tech/technology/military-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/article71692215.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "c28caac0985c7d62",
+   "time": "2026-11-12T04:08:26+00:00",
+   "source": "The Hindu",
+   "title": "MLA, farmers protest Centre’s ‘failure to release drought relief’ in Karnataka",
+   "url": "https://www.thehindu.com/news/national/karnataka/mla-farmers-protest-centres-failure-to-release-drought-relief-in-karnataka/article71690011.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "1062db8539aaf361",
    "time": "2026-11-12T03:55:48+00:00",
    "source": "The Hindu",
@@ -71,53 +121,13 @@
    "exam": "Both"
   },
   {
-   "id": "5fe73e354794cf22",
-   "time": "2026-11-11T20:30:56+00:00",
-   "source": "The Hindu",
-   "title": "Consultations with Governor ongoing to arrive at agreement over V-C appointment: Higher Education Minister",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/consultations-with-governor-ongoing-to-arrive-at-agreement-over-v-c-appointment-higher-education-minister/article71690509.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7c5704908901a889",
-   "time": "2026-11-11T20:29:12+00:00",
-   "source": "The Hindu",
-   "title": "Cusat Syndicate member approaches Kerala High Court against employees’ strike",
-   "url": "https://www.thehindu.com/news/national/kerala/cusat-syndicate-member-approaches-kerala-high-court-against-employees-strike/article71690657.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "52f95260568a8eaa",
-   "time": "2026-11-11T20:11:31+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court reserves orders in cases challenging NGT’s construction ban on 1 km radius around Pallikaranai marshland",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-reserves-orders-in-cases-challenging-ngts-construction-ban-on-1-km-radius-around-pallikaranai-marshland/article71690916.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "a24e7170797677a3",
-   "time": "2026-11-11T19:55:39+00:00",
-   "source": "The Hindu",
-   "title": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
-   "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "d33f75a9e4788776",
-   "time": "2026-11-11T19:09:01+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court sets aside one-month simple imprisonment imposed on IAS officer Anshul Mishra in contempt proceedings",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-sets-aside-one-month-simple-imprisonment-imposed-on-ias-officer-anshul-mishra-in-contempt-proceedings/article71688901.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
+   "id": "27a923386912d0b8",
+   "time": "2026-11-11T20:44:00+00:00",
+   "source": "Indian Express",
+   "title": "India News Live Updates, 12 November 2026: Jaipur gangster hacked to death with axe after pickup rams his car",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af548fb15124cca9b9aeeb651324d8e&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2fbreaking-news-live-updates-12-november-2026-delhi-aqi-india-weather-today-kimberly-powell-nvidia-train-accident-10959719%2f&c=12342301204253659878&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -161,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T04:03:57.023608+00:00"
+ "updated": "2026-11-12T05:03:39.809836+00:00"
 }
