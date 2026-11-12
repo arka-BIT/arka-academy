@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "id": "ee1b7e690eff43c4",
+   "time": "2026-11-12T17:26:35+00:00",
+   "source": "The Hindu",
+   "title": "ISRO successfully carries out ground static test of PSLV third stage",
+   "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "82bce42b542ff728",
+   "time": "2026-11-12T17:17:47+00:00",
+   "source": "The Hindu",
+   "title": "TIMS hospitals will be fully operational by June 2, says Chief Minister",
+   "url": "https://www.thehindu.com/news/national/telangana/tims-hospitals-will-be-fully-operational-by-june-2-says-chief-minister/article71695185.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "8d6d517daef37fbd",
+   "time": "2026-11-12T17:15:59+00:00",
+   "source": "The Hindu",
+   "title": "Kerala High Court says it may order medical board examination to verify Tomin Thachankary’s illnesses",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-says-it-may-order-medical-board-examination-to-verify-tomin-thachankarys-illnesses/article71694780.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "35f7a3bcf98ccd33",
+   "time": "2026-11-12T17:14:40+00:00",
+   "source": "The Hindu",
+   "title": "India undergoing massive transformation in renewable energy: Earthshot Prize CEO",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "d24bae63f2c487d8",
+   "time": "2026-11-12T17:08:43+00:00",
+   "source": "The Hindu",
+   "title": "Siddhasiri cooperative society urges people not to panic following reports over its financial health",
+   "url": "https://www.thehindu.com/news/national/karnataka/siddhasiri-cooperative-society-urges-people-not-to-panic-following-reports-over-its-financial-health/article71695013.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "745778e3bf181dbf",
+   "time": "2026-11-12T17:08:11+00:00",
+   "source": "The Hindu",
+   "title": "CAG widens purview of power sector audit, starting with DISCOMs; consumer satisfaction in focus",
+   "url": "https://www.thehindu.com/business/Industry/cag-widens-purview-of-power-sector-audit-starting-with-discoms-consumer-satisfaction-in-focus/article71694907.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "619a925e10acab3c",
+   "time": "2026-11-12T16:58:09+00:00",
+   "source": "The Hindu",
+   "title": "India records 38% drop in TB mortality since 2015: WHO report",
+   "url": "https://www.thehindu.com/news/national/india-records-38-drop-in-tb-mortality-since-2015-who-report/article71695039.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "7e6704655f4594e7",
+   "time": "2026-11-12T16:54:22+00:00",
+   "source": "The Hindu",
+   "title": "Centre sanctions new roads, infrastructure along China’s border",
+   "url": "https://www.thehindu.com/news/national/centre-sanctions-new-roads-infrastructure-along-chinas-border/article71694100.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "33243f61b2d34f09",
+   "time": "2026-11-12T15:18:03+00:00",
+   "source": "The Hindu",
+   "title": "A disease rooted in social and economic vulnerability can only be eliminated as underlying systems become stronger: Dhun Davar",
+   "url": "https://www.thehindu.com/sci-tech/health/a-disease-rooted-in-social-and-economic-vulnerability-can-only-be-eliminated-as-underlying-systems-become-stronger-dhun-davar/article71677607.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "ced8db3f153b9c3c",
    "time": "2026-11-12T13:43:51+00:00",
    "source": "The Hindu",
@@ -28,96 +118,6 @@
    "url": "https://www.thehindu.com/news/national/telangana/now-meeseva-doorstep-delivery-of-govt-services-in-cyberabad/article71693914.ece",
    "paper": "GS-III",
    "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "d1e6c9298369a3ab",
-   "time": "2026-11-12T13:30:39+00:00",
-   "source": "The Hindu",
-   "title": "Study suggests not all obesity means ill-health",
-   "url": "https://www.thehindu.com/sci-tech/health/study-suggests-not-all-obesity-means-ill-health/article71693668.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "f8c656d28eef39a9",
-   "time": "2026-11-12T13:23:32+00:00",
-   "source": "The Hindu",
-   "title": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
-   "url": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "3ecc6beec0a53e05",
-   "time": "2026-11-12T12:41:09+00:00",
-   "source": "The Hindu",
-   "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-   "url": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "bc6db4d4a68b20f8",
-   "time": "2026-11-12T12:05:03+00:00",
-   "source": "The Hindu",
-   "title": "On COP31 and Indonesia’s forest fires | Green Humour by Rohan Chakravarty",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-cop31-and-indonesias-forest-fires-green-humour-by-rohan-chakravarty/article71685473.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "3e1ed3d96c0ff172",
-   "time": "2026-11-12T11:39:35+00:00",
-   "source": "The Hindu",
-   "title": "Venezuela tells COP31 it has sovereign right to pump more oil",
-   "url": "https://www.thehindu.com/news/international/venezuela-tells-cop31-it-has-sovereign-right-to-pump-more-oil/article71693316.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "88277014e5bc6dde",
-   "time": "2026-11-12T10:31:57+00:00",
-   "source": "The Hindu",
-   "title": "Major gold heist at jewellery showroom in Madurai",
-   "url": "https://www.thehindu.com/news/cities/Madurai/major-gold-heist-at-tanishq-jewellery-showroom-in-madurai/article71692891.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "cecc69e099642b71",
-   "time": "2026-11-12T10:28:01+00:00",
-   "source": "The Hindu",
-   "title": "Chennai draft electoral roll records 29.14 lakh voters",
-   "url": "https://www.thehindu.com/news/cities/chennai/chennai-draft-electoral-roll-records-2914-lakh-voters/article71692763.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "815bc5817dfec6b7",
-   "time": "2026-11-12T10:27:18+00:00",
-   "source": "The Hindu",
-   "title": "Minor fire at Srikalahasti temple kitchen contained, no major damage",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/minor-fire-at-srikalahasti-temple-kitchen-contained-no-major-damage/article71692901.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "d82feb4f0ee81385",
-   "time": "2026-11-12T10:20:03+00:00",
-   "source": "The Hindu",
-   "title": "IAF helicopter lands in Haveri village, turns into centre of attraction",
-   "url": "https://www.thehindu.com/news/national/karnataka/iaf-helicopter-lands-in-haveri-village-turns-into-centre-of-attraction/article71693201.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T13:52:57.287659+00:00"
+ "updated": "2026-11-12T17:29:53.231880+00:00"
 }
