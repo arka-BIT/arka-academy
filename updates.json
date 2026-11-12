@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "1062db8539aaf361",
+   "time": "2026-11-12T03:55:48+00:00",
+   "source": "The Hindu",
+   "title": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple",
+   "url": "https://www.thehindu.com/sci-tech/technology/indian-billionaire-doctors-spar-over-900-brain-blood-flow-tracker-temple/article71692251.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "8b0980e1caf323b1",
+   "time": "2026-11-12T03:13:57+00:00",
+   "source": "The Hindu",
+   "title": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
+   "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "bb4d78cd7fbaf93c",
    "time": "2026-11-12T02:42:40+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "124405a12f9e35a8",
-   "time": "2026-11-11T19:04:29+00:00",
-   "source": "The Hindu",
-   "title": "CII Partnership Summit: CM Naidu seeks WIPO’s support to boost innovation ecosystem in A.P.",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-cm-naidu-seeks-wipos-support-to-boost-innovation-ecosystem-in-ap/article71689762.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "5dcea2549a1df1c6",
-   "time": "2026-11-11T19:02:34+00:00",
-   "source": "The Hindu",
-   "title": "CII Partnership Summit: Andhra CM Naidu makes investment pitch before UAE, Japanese delegations",
-   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-andhra-cm-naidu-makes-investment-pitch-before-uae-japanese-delegations/article71690390.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "76475701a6db58e1",
    "time": "2026-11-11T09:38:16.346812+00:00",
    "source": "DD News",
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T03:14:23.234983+00:00"
+ "updated": "2026-11-12T04:03:57.023608+00:00"
 }
