@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "367b651378e1ccc6",
+   "time": "2026-11-12T20:44:11+00:00",
+   "source": "The Hindu",
+   "title": "India and U.K. are turning climate ambition into action",
+   "url": "https://www.thehindu.com/opinion/op-ed/india-and-uk-are-turning-climate-ambition-into-action/article71695180.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "280882929582bf9e",
+   "time": "2026-11-12T20:22:43+00:00",
+   "source": "The Hindu",
+   "title": "New deal: On COP31 and lofty climate goals",
+   "url": "https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "e2143e6e3e20b1d9",
    "time": "2026-11-12T19:46:14+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "207f2278da1176cb",
-   "time": "2026-11-12T17:45:57+00:00",
-   "source": "The Hindu",
-   "title": "CPI(M) seeks withdrawal of proposed Water Regulatory Commission",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cpim-seeks-withdrawal-of-proposed-water-regulatory-commission/article71693756.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "ee1b7e690eff43c4",
-   "time": "2026-11-12T17:26:35+00:00",
-   "source": "The Hindu",
-   "title": "ISRO successfully carries out ground static test of PSLV third stage",
-   "url": "https://www.thehindu.com/sci-tech/science/isro-successfully-carries-out-ground-static-test-of-pslv-third-stage/article71694068.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T20:13:53.547355+00:00"
+ "updated": "2026-11-12T20:57:46.870517+00:00"
 }
