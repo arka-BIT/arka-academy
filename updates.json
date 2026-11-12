@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "962f11f7d4c04897",
+   "time": "2026-11-12T05:50:17+00:00",
+   "source": "The Hindu",
+   "title": "Belagavi artist exhibits work in Mumbai",
+   "url": "https://www.thehindu.com/news/national/karnataka/belagavi-artist-exhibits-work-in-mumbai/article71689886.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "12900a0dbd5872b5",
+   "time": "2026-11-12T05:47:44+00:00",
+   "source": "The Hindu",
+   "title": "Former BRS MP questions omission of Telangana Statehood stir in Sonia Gandhi’s memoir",
+   "url": "https://www.thehindu.com/news/national/telangana/former-brs-mp-questions-omission-of-telangana-statehood-stir-in-sonia-gandhis-memoir/article71690311.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "eee5e2684c4770a6",
+   "time": "2026-11-12T05:46:15+00:00",
+   "source": "The Hindu",
+   "title": "4.9-magnitude moderate earthquake hits West Sikkim, mild tremors felt in Gangtok",
+   "url": "https://www.thehindu.com/news/national/sikkim/49-magnitude-moderate-earthquake-hits-west-sikkim-mild-tremors-felt-in-gangtok/article71692438.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "f7a2229c7fdfde66",
    "time": "2026-11-12T04:56:38+00:00",
    "source": "The Hindu",
@@ -91,36 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "7663ecbc3a07f910",
-   "time": "2026-11-12T01:47:50+00:00",
-   "source": "The Hindu",
-   "title": "Mississippi elects Democrat Scott Colom as state's first Black U.S. senator since Reconstruction",
-   "url": "https://www.thehindu.com/news/international/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article71692151.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "668a9038a0148402",
-   "time": "2026-11-12T01:23:15+00:00",
-   "source": "The Hindu",
-   "title": "Rights panel steps in to address alleged contamination of well water near temple",
-   "url": "https://www.thehindu.com/news/national/kerala/rights-panel-steps-in-to-address-alleged-contamination-of-well-water-near-temple/article69787014.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "b3295ca5a682b757",
-   "time": "2026-11-11T20:46:19+00:00",
-   "source": "The Hindu",
-   "title": "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-orders-government-to-ready-adequate-medicines-vehicles-at-mental-health-centres-by-november-24/article71690314.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
    "id": "27a923386912d0b8",
    "time": "2026-11-11T20:44:00+00:00",
    "source": "Indian Express",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T05:03:39.809836+00:00"
+ "updated": "2026-11-12T06:06:33.411351+00:00"
 }
