@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "e2143e6e3e20b1d9",
+   "time": "2026-11-12T19:46:14+00:00",
+   "source": "The Hindu",
+   "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+   "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "914d60579c1f727b",
+   "time": "2026-11-12T19:32:42+00:00",
+   "source": "The Hindu",
+   "title": "Five e-scooters catch fire in Ranipet",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/five-e-scooters-catch-fire-in-ranipet/article71693876.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "128e4f5e447aa49e",
    "time": "2026-11-12T18:57:34+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "82bce42b542ff728",
-   "time": "2026-11-12T17:17:47+00:00",
-   "source": "The Hindu",
-   "title": "TIMS hospitals will be fully operational by June 2, says Chief Minister",
-   "url": "https://www.thehindu.com/news/national/telangana/tims-hospitals-will-be-fully-operational-by-june-2-says-chief-minister/article71695185.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "8d6d517daef37fbd",
-   "time": "2026-11-12T17:15:59+00:00",
-   "source": "The Hindu",
-   "title": "Kerala High Court says it may order medical board examination to verify Tomin Thachankary’s illnesses",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-says-it-may-order-medical-board-examination-to-verify-tomin-thachankarys-illnesses/article71694780.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T19:22:31.297423+00:00"
+ "updated": "2026-11-12T20:13:53.547355+00:00"
 }
