@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "c0480851e4ad6357",
+   "time": "2026-11-12T07:15:48+00:00",
+   "source": "The Hindu",
+   "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
+   "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "0465b18765b23653",
+   "time": "2026-11-12T06:51:20+00:00",
+   "source": "The Hindu",
+   "title": "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/piyush-goyal-naidu-pawan-kalyan-tour-andhra-pradesh-pavilion-at-cii-partnership-summit-in-visakhapatnam/article71692472.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "65a8b35cbf188ee7",
+   "time": "2026-11-12T06:51:06+00:00",
+   "source": "The Hindu",
+   "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of U.S. curbs",
+   "url": "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "33eee33d468e298e",
+   "time": "2026-11-12T06:41:47+00:00",
+   "source": "The Hindu",
+   "title": "Passenger held over hijack threat to Kolkata-Mumbai Air India flight",
+   "url": "https://www.thehindu.com/news/national/passenger-held-over-hijack-threat-to-kolkata-mumbai-air-india-flight/article71692545.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "a7acc4b5cbb8bd96",
+   "time": "2026-11-12T06:20:30+00:00",
+   "source": "The Hindu",
+   "title": "Indoor air pollution poses critical, year-round health threat",
+   "url": "https://www.thehindu.com/sci-tech/technology/indoor-air-pollution-poses-critical-year-round-health-threat/article71692541.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "962f11f7d4c04897",
    "time": "2026-11-12T05:50:17+00:00",
    "source": "The Hindu",
@@ -71,56 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "c28caac0985c7d62",
-   "time": "2026-11-12T04:08:26+00:00",
-   "source": "The Hindu",
-   "title": "MLA, farmers protest Centre’s ‘failure to release drought relief’ in Karnataka",
-   "url": "https://www.thehindu.com/news/national/karnataka/mla-farmers-protest-centres-failure-to-release-drought-relief-in-karnataka/article71690011.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "1062db8539aaf361",
-   "time": "2026-11-12T03:55:48+00:00",
-   "source": "The Hindu",
-   "title": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple",
-   "url": "https://www.thehindu.com/sci-tech/technology/indian-billionaire-doctors-spar-over-900-brain-blood-flow-tracker-temple/article71692251.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "8b0980e1caf323b1",
-   "time": "2026-11-12T03:13:57+00:00",
-   "source": "The Hindu",
-   "title": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
-   "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "bb4d78cd7fbaf93c",
-   "time": "2026-11-12T02:42:40+00:00",
-   "source": "The Hindu",
-   "title": "Israeli strike on southern Gaza hospital kills five, Gaza civil defence says",
-   "url": "https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "c7cd58bc09a6e4ec",
-   "time": "2026-11-12T02:13:18+00:00",
-   "source": "The Hindu",
-   "title": "NTR Health University scrutinises 1,622 applications for UG research programme",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ntr-health-university-scrutinises-1622-applications-for-ug-research-programme/article71689876.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
    "id": "27a923386912d0b8",
    "time": "2026-11-11T20:44:00+00:00",
    "source": "Indian Express",
@@ -149,27 +149,7 @@
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
-  },
-  {
-   "id": "26a5e248491e8a4c",
-   "time": "2026-11-08T07:02:00+00:00",
-   "source": "Indian Express",
-   "title": "Anuj Shrivatri creates history, becomes India’s 100th Grandmaster",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0ab278dd14daea84b6bf068050703&url=https%3a%2f%2findianexpress.com%2farticle%2fsports%2fchess%2fanuj-shrivatri-creates-history-becomes-india-100th-grandmaster-10955712%2f&c=15606170844199868649&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "8995e12f3193060b",
-   "time": "2026-11-08T06:21:53+00:00",
-   "source": "Indian Express",
-   "title": "Mumbai to get India’s largest tunnel boring machines in January; tunnelling to begin by May 2027",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFV3Q1JIdGpwN1VCbGRIWFd5Q2lGOE9vc1Bra203R2ZJVWhhazN5RFEySEthZ1ZrSHVZb0ZhbGt4d1ZDQTkwWGo0djh4bzZvaUVXc1Z1VVROT0hGdzBqZHJyeFNmODNDMFRpUGhLeWdFbTdJa2RBWG11bVdpTXNWcjRjbE1Wd0J6NDRrNEYwRU1sM3diMDNIYy1uQmZPRDRnQXd0bk9n0gGsAUFVX3lxTE5wazdxU284Qy00d0VKN3dGNHpBWWNDVEtHYlF1c0dZNXRMRjZOLVVJOWpNZmNOaGFWLWJHV0tqWTFCM1NQQTJPTW5BeVI2QW9sUzdqZ3pSUFZNZ29TaEVPRHJ2QW9qOUF5dzE0eGx0dFNaajc3ODV3Yl9JWXpZc3dIYkZNM1ljTXF5RHhqd2s5RFJXZXc4eEJHZGlZTkVTV3dGT1lJeHNxOHFVTVE?oc=5",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-12T06:06:33.411351+00:00"
+ "updated": "2026-11-12T07:22:17.907973+00:00"
 }
