@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "2daedf0c02a52e57",
+   "time": "2026-11-13T01:28:01+00:00",
+   "source": "The Hindu",
+   "title": "Minister-level meeting seeks report on relocation, rehabilitation plans for P&T Colony residents from Ernakulam Collector",
+   "url": "https://www.thehindu.com/news/cities/Kochi/minister-level-meeting-seeks-report-on-relocation-rehabilitation-plans-for-pt-colony-residents-from-ernakulam-collector/article71693526.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "367b651378e1ccc6",
    "time": "2026-11-12T20:44:11+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "9d710a5145d9e0da",
-   "time": "2026-11-12T18:00:03+00:00",
-   "source": "The Hindu",
-   "title": "Vizag CII Summit: ReNew to invest ₹80,000 crore in green data centre, solar manufacturing in Andhra Pradesh",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-12T23:46:47.078905+00:00"
+ "updated": "2026-11-13T01:49:29.574355+00:00"
 }
