@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "4a5fcf9ced5c7750",
+   "time": "2026-11-13T11:17:12+00:00",
+   "source": "The Hindu",
+   "title": "Six vehicles involved in chain-reaction crash on Mumbai Coastal Road; one catches fire, two drivers booked",
+   "url": "https://www.thehindu.com/news/cities/mumbai/six-vehicles-involved-in-accident-on-mumbai-coastal-road-suv-catches-fire-no-injuries/article71696916.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "538eb184e33a3445",
+   "time": "2026-11-13T10:51:03+00:00",
+   "source": "The Hindu",
+   "title": "Chinese company linked to Alice Huang obtained banned Nvidia chips: report",
+   "url": "https://www.thehindu.com/news/international/chinese-company-linked-to-alice-huang-shanghai-longteng-intelligent-computing-obtained-banned-nvidia-chips/article71697606.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "4cdc1a38242aa4d3",
    "time": "2026-11-13T10:30:57+00:00",
    "source": "The Hindu",
@@ -38,6 +58,16 @@
    "url": "https://www.thehindu.com/news/national/telangana/telangana-acb-registers-da-case-against-irrigation-dept-deputy-executive-engineer/article71697233.ece",
    "paper": "GS-III",
    "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "ac104b48227889d1",
+   "time": "2026-11-13T09:42:09+00:00",
+   "source": "The Hindu",
+   "title": "Shashi Tharoor alleges 115 Bharat Summit speakers barred entry to India, their visas cancelled",
+   "url": "https://www.thehindu.com/news/national/telangana/shashi-tharoor-alleges-115-bharat-summit-speakers-were-denied-entry-into-india-or-their-visas-were-cancelled/article71697127.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -91,36 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "c0e2d6d166424e47",
-   "time": "2026-11-13T07:23:15+00:00",
-   "source": "The Hindu",
-   "title": "Sanskrit varsity ‘mock funeral’ row: Pinarayi Vijayan alleges conspiracy by ex-Governor Arlekar, V-C against SFI activists",
-   "url": "https://www.thehindu.com/news/national/kerala/sanskrit-varsity-mock-funeral-row-pinarayi-vijayan-alleges-conspiracy-by-ex-governor-arlekar-v-c-against-sfi-activists/article71696898.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "f5208c288782e0b3",
-   "time": "2026-11-13T07:19:36+00:00",
-   "source": "The Hindu",
-   "title": "Bharat Summit takes off in Hyderabad today; Rahul Gandhi to participate in valedictory",
-   "url": "https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "40126cd5fb5983ea",
-   "time": "2026-11-13T07:16:13+00:00",
-   "source": "The Hindu",
-   "title": "Hampi’s Islamic heritage: An overlooked chapter in Vijayanagara history",
-   "url": "https://www.thehindu.com/society/history-and-culture/beyond-binaries-tracing-hampis-islamic-heritage/article71685308.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-13T10:37:30.129272+00:00"
+ "updated": "2026-11-13T11:31:50.883203+00:00"
 }
