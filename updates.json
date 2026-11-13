@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "13e1141a8c95179d",
+   "time": "2026-11-13T09:25:10+00:00",
+   "source": "The Hindu",
+   "title": "A nonagenarian from Virudhunagar on a mission to spread Gandhi’s message",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/a-nonagenarian-from-virudhunagar-on-a-mission-to-spread-gandhis-message/article71697163.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "1cdb7b3beb5a8191",
+   "time": "2026-11-13T09:23:54+00:00",
+   "source": "The Hindu",
+   "title": "C.S. Karnan, controversial former High Court judge, passes away in Chennai",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/cs-karnan-controversial-former-high-court-judge-passes-away-in-chennai/article71696842.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "1d45ef49ad6e6c51",
+   "time": "2026-11-13T08:54:49+00:00",
+   "source": "The Hindu",
+   "title": "China, Kazakhstan, Iran, others confirm participation in SCO Civilisational Forum, says Gajendra Shekhawat",
+   "url": "https://www.thehindu.com/news/national/china-kazakhstan-iran-others-confirm-participation-in-sco-civilisational-forum-says-gajendra-shekhawat/article71697188.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "5cb3f2a8290374ef",
    "time": "2026-11-13T07:25:35+00:00",
    "source": "The Hindu",
@@ -91,36 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "068af3423ee65c04",
-   "time": "2026-11-13T03:57:32+00:00",
-   "source": "The Hindu",
-   "title": "Delhi reels under ‘severe’ level air pollution",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-reel-under-severe-level-air-pollution/article71696499.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "ffab10612b28e7d0",
-   "time": "2026-11-13T03:49:44+00:00",
-   "source": "The Hindu",
-   "title": "How AI rivals are becoming investors, suppliers and customers to one another | Explained",
-   "url": "https://www.thehindu.com/sci-tech/technology/how-ai-rivals-are-becoming-investors-suppliers-and-customers-to-one-another-explained/article71693766.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "9a8eaafe9665ec1a",
-   "time": "2026-11-13T03:47:40+00:00",
-   "source": "The Hindu",
-   "title": "South Korea says Google has removed Korean coordinates from maps under export permit",
-   "url": "https://www.thehindu.com/sci-tech/technology/south-korea-says-google-has-removed-korean-coordinates-from-maps-under-export-permit/article71696479.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-13T07:43:58.727678+00:00"
+ "updated": "2026-11-13T09:34:04.506313+00:00"
 }
