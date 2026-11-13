@@ -1,6 +1,56 @@
 {
  "items": [
   {
+   "id": "4cdc1a38242aa4d3",
+   "time": "2026-11-13T10:30:57+00:00",
+   "source": "The Hindu",
+   "title": "India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high",
+   "url": "https://www.thehindu.com/news/national/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high/article71697554.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "ac8df06c8ebc4a32",
+   "time": "2026-11-13T10:22:06+00:00",
+   "source": "The Hindu",
+   "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
+   "url": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "39c9959f1d88d273",
+   "time": "2026-11-13T10:09:25+00:00",
+   "source": "The Hindu",
+   "title": "Opposition not informed about possible Special Parliament session on delimitation: Priyanka Gandhi",
+   "url": "https://www.thehindu.com/news/national/opposition-not-informed-about-possible-special-parliament-session-on-delimitation-priyanka-gandhi/article71697000.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "207dfb6f9af3accd",
+   "time": "2026-11-13T10:06:54+00:00",
+   "source": "The Hindu",
+   "title": "Telangana ACB registers DA case against Irrigation Dept Deputy Executive engineer",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-acb-registers-da-case-against-irrigation-dept-deputy-executive-engineer/article71697233.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "b168fa5454148ced",
+   "time": "2026-11-13T09:34:20+00:00",
+   "source": "The Hindu",
+   "title": "Second car bomb to hit Russia in two days targets exiled Ukrainian political aide, media report",
+   "url": "https://www.thehindu.com/news/international/second-car-bomb-to-hit-russia-in-two-days-targets-exiled-ukrainian-political-aide-media-report/article71697330.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "13e1141a8c95179d",
    "time": "2026-11-13T09:25:10+00:00",
    "source": "The Hindu",
@@ -71,56 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "2def1854e322cab2",
-   "time": "2026-11-13T07:08:02+00:00",
-   "source": "The Hindu",
-   "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
-   "url": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "934ea638a94e3432",
-   "time": "2026-11-13T07:03:07+00:00",
-   "source": "The Hindu",
-   "title": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
-   "url": "https://www.thehindu.com/news/national/indias-ambassador-to-oman-visits-injured-indian-seafarer-in-hospital/article71696783.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "56d97998ad546817",
-   "time": "2026-11-13T07:02:52+00:00",
-   "source": "The Hindu",
-   "title": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "f0adc5a4e17fbd23",
-   "time": "2026-11-13T06:47:16+00:00",
-   "source": "The Hindu",
-   "title": "EU leaders seek to tackle challenges at first ever AI summit",
-   "url": "https://www.thehindu.com/sci-tech/eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit/article71696825.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "16d8bfbbc905f871",
-   "time": "2026-11-13T05:41:09+00:00",
-   "source": "The Hindu",
-   "title": "Turkiye's President calls genocide in Gaza ‘ecocide’ at UN climate summit",
-   "url": "https://www.thehindu.com/news/international/turkiyes-president-calls-genocide-in-gaza-ecocide-at-un-climate-summit/article71696637.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-13T09:34:04.506313+00:00"
+ "updated": "2026-11-13T10:37:30.129272+00:00"
 }
