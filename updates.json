@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "122882967776fd7c",
+   "time": "2026-11-13T19:57:29+00:00",
+   "source": "The Hindu",
+   "title": "The challenge of holding the Quad together",
+   "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "e506b603ecc73e79",
+   "time": "2026-11-13T19:45:08+00:00",
+   "source": "The Hindu",
+   "title": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "c0e85f7c2105e957",
+   "time": "2026-11-13T19:24:50+00:00",
+   "source": "The Hindu",
+   "title": "To strengthen the Supreme Court, divide it",
+   "url": "https://www.thehindu.com/opinion/lead/to-strengthen-the-supreme-court-divide-it/article71698099.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "7d4d5f866b928f19",
    "time": "2026-11-13T19:14:59+00:00",
    "source": "The Hindu",
@@ -41,6 +71,26 @@
    "exam": "Both"
   },
   {
+   "id": "3042f95a5c1a9674",
+   "time": "2026-11-13T18:57:08+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-plea-against-udhayanidhis-win-from-chepauk-thiruvallikeni/article71696602.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "5deeee7e7dad0702",
+   "time": "2026-11-13T18:51:32+00:00",
+   "source": "The Hindu",
+   "title": "Take steps to control inflation, Anbumani Ramadoss tells State govt.",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/take-steps-to-control-inflation-anbumani-ramadoss-tells-state-govt/article71698789.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "59b8aa4d635adeab",
    "time": "2026-11-13T18:46:29+00:00",
    "source": "The Hindu",
@@ -68,56 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "5ea38ebe6557bed5",
-   "time": "2026-11-13T17:44:14+00:00",
-   "source": "The Hindu",
-   "title": "1.43 lakh farmers to be enrolled on Agri Stack in Konaseema",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/143-lakh-farmers-to-be-enrolled-on-agri-stack-in-konaseema/article71698349.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "fb32c6f48fa964ba",
-   "time": "2026-11-13T17:39:43+00:00",
-   "source": "The Hindu",
-   "title": "TAS conference urges BRICS countries to join hands to tackle mental health stigma",
-   "url": "https://www.thehindu.com/news/national/tas-conference-urges-brics-countries-to-join-hands-to-tackle-mental-health-stigma/article71699084.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "c3435f354096f1ad",
-   "time": "2026-11-13T17:35:08+00:00",
-   "source": "The Hindu",
-   "title": "Technical resignation is a bridge, not a guillotine, says Karnataka High Court",
-   "url": "https://www.thehindu.com/news/national/karnataka/technical-resignation-is-a-bridge-not-a-guillotine-says-karnataka-high-court/article71698648.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "6385e82cdbf3ed58",
-   "time": "2026-11-13T17:08:00+00:00",
-   "source": "The Hindu",
-   "title": "India-Bangladesh consular dialogue will be held on a mutually convenient date, says Ministry of External Affairs",
-   "url": "https://www.thehindu.com/news/national/india-bangladesh-consular-dialogue-will-be-held-on-a-mutually-convenient-date-says-ministry-of-external-affairs/article71698994.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "c5e161f377d704fe",
-   "time": "2026-11-13T16:59:06+00:00",
-   "source": "The Hindu",
-   "title": "Mahatma Gandhi University in Keralam imposes restrictions on media access",
-   "url": "https://www.thehindu.com/news/national/kerala/mahatma-gandhi-university-in-keralam-imposes-restrictions-on-media-access/article71698222.ece",
-   "paper": "GS-II",
-   "topic": "Education",
    "exam": "Both"
   },
   {
@@ -201,5 +201,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-13T19:35:23.879211+00:00"
+ "updated": "2026-11-13T20:30:44.174037+00:00"
 }
