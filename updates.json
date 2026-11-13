@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "5ea38ebe6557bed5",
+   "time": "2026-11-13T17:44:14+00:00",
+   "source": "The Hindu",
+   "title": "1.43 lakh farmers to be enrolled on Agri Stack in Konaseema",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/143-lakh-farmers-to-be-enrolled-on-agri-stack-in-konaseema/article71698349.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "fb32c6f48fa964ba",
+   "time": "2026-11-13T17:39:43+00:00",
+   "source": "The Hindu",
+   "title": "TAS conference urges BRICS countries to join hands to tackle mental health stigma",
+   "url": "https://www.thehindu.com/news/national/tas-conference-urges-brics-countries-to-join-hands-to-tackle-mental-health-stigma/article71699084.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "c3435f354096f1ad",
+   "time": "2026-11-13T17:35:08+00:00",
+   "source": "The Hindu",
+   "title": "Technical resignation is a bridge, not a guillotine, says Karnataka High Court",
+   "url": "https://www.thehindu.com/news/national/karnataka/technical-resignation-is-a-bridge-not-a-guillotine-says-karnataka-high-court/article71698648.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "6385e82cdbf3ed58",
+   "time": "2026-11-13T17:08:00+00:00",
+   "source": "The Hindu",
+   "title": "India-Bangladesh consular dialogue will be held on a mutually convenient date, says Ministry of External Affairs",
+   "url": "https://www.thehindu.com/news/national/india-bangladesh-consular-dialogue-will-be-held-on-a-mutually-convenient-date-says-ministry-of-external-affairs/article71698994.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "c5e161f377d704fe",
    "time": "2026-11-13T16:59:06+00:00",
    "source": "The Hindu",
@@ -81,46 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "c1126d9ebf738769",
-   "time": "2026-11-13T15:57:09+00:00",
-   "source": "The Hindu",
-   "title": "Bangalore University announces BEd 4th sem results within six days",
-   "url": "https://www.thehindu.com/news/national/karnataka/bangalore-university-announces-bed-4th-sem-results-within-six-days/article71698151.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "8c0861483664b3ac",
-   "time": "2026-11-13T15:55:51+00:00",
-   "source": "The Hindu",
-   "title": "Telangana Women’s Commission issues notices to eight ART centres in illegal oocyte racket case",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-womens-commission-issues-notices-to-eight-art-centres-in-illegal-oocyte-racket-case/article71698872.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "f0fe1ab7cb789d94",
-   "time": "2026-11-13T15:29:30+00:00",
-   "source": "The Hindu",
-   "title": "As external funding to combat TB falls, domestic spending accounts for 86%: WHO report",
-   "url": "https://www.thehindu.com/sci-tech/health/as-external-funding-to-combat-tb-falls-domestic-spending-accounts-for-86-who-report/article71697995.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "92956c518d87ec44",
-   "time": "2026-11-13T14:58:57+00:00",
-   "source": "The Hindu",
-   "title": "Aaditya Thackeray calls for Climate Change Councils at Centre, State levels to tackle pollution",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/aaditya-thackeray-calls-for-climate-change-councils-at-centre-state-levels-to-tackle-pollution/article71698204.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -189,7 +189,17 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
+  },
+  {
+   "id": "ff1e10ed3f087dab",
+   "time": "2026-11-10T12:06:00+00:00",
+   "source": "Indian Express",
+   "title": "ELECTION COMMISSION OF INDIA NEWS",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af74f18cdf14f379a96a79333428bc5&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-13T17:03:57.414161+00:00"
+ "updated": "2026-11-13T17:54:29.374913+00:00"
 }
