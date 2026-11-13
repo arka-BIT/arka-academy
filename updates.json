@@ -1,6 +1,96 @@
 {
  "items": [
   {
+   "id": "5cb3f2a8290374ef",
+   "time": "2026-11-13T07:25:35+00:00",
+   "source": "The Hindu",
+   "title": "MHA declares Zakir Naik’s Islamic Research Foundation unlawful for another five years",
+   "url": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "c0e2d6d166424e47",
+   "time": "2026-11-13T07:23:15+00:00",
+   "source": "The Hindu",
+   "title": "Sanskrit varsity ‘mock funeral’ row: Pinarayi Vijayan alleges conspiracy by ex-Governor Arlekar, V-C against SFI activists",
+   "url": "https://www.thehindu.com/news/national/kerala/sanskrit-varsity-mock-funeral-row-pinarayi-vijayan-alleges-conspiracy-by-ex-governor-arlekar-v-c-against-sfi-activists/article71696898.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "f5208c288782e0b3",
+   "time": "2026-11-13T07:19:36+00:00",
+   "source": "The Hindu",
+   "title": "Bharat Summit takes off in Hyderabad today; Rahul Gandhi to participate in valedictory",
+   "url": "https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "40126cd5fb5983ea",
+   "time": "2026-11-13T07:16:13+00:00",
+   "source": "The Hindu",
+   "title": "Hampi’s Islamic heritage: An overlooked chapter in Vijayanagara history",
+   "url": "https://www.thehindu.com/society/history-and-culture/beyond-binaries-tracing-hampis-islamic-heritage/article71685308.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "2def1854e322cab2",
+   "time": "2026-11-13T07:08:02+00:00",
+   "source": "The Hindu",
+   "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
+   "url": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "934ea638a94e3432",
+   "time": "2026-11-13T07:03:07+00:00",
+   "source": "The Hindu",
+   "title": "India’s ambassador to Oman visits injured Indian seafarer in hospital",
+   "url": "https://www.thehindu.com/news/national/indias-ambassador-to-oman-visits-injured-indian-seafarer-in-hospital/article71696783.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "56d97998ad546817",
+   "time": "2026-11-13T07:02:52+00:00",
+   "source": "The Hindu",
+   "title": "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "f0adc5a4e17fbd23",
+   "time": "2026-11-13T06:47:16+00:00",
+   "source": "The Hindu",
+   "title": "EU leaders seek to tackle challenges at first ever AI summit",
+   "url": "https://www.thehindu.com/sci-tech/eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit/article71696825.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "16d8bfbbc905f871",
+   "time": "2026-11-13T05:41:09+00:00",
+   "source": "The Hindu",
+   "title": "Turkiye's President calls genocide in Gaza ‘ecocide’ at UN climate summit",
+   "url": "https://www.thehindu.com/news/international/turkiyes-president-calls-genocide-in-gaza-ecocide-at-un-climate-summit/article71696637.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "068af3423ee65c04",
    "time": "2026-11-13T03:57:32+00:00",
    "source": "The Hindu",
@@ -28,96 +118,6 @@
    "url": "https://www.thehindu.com/sci-tech/technology/south-korea-says-google-has-removed-korean-coordinates-from-maps-under-export-permit/article71696479.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "5e6721a49f38c83d",
-   "time": "2026-11-13T02:50:37+00:00",
-   "source": "The Hindu",
-   "title": "UN climate summit pushes electrification goal as groups call for mining safeguards",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-summit-pushes-electrification-goal-as-groups-call-for-mining-safeguards/article71696419.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "2f7e91fb0ff31b07",
-   "time": "2026-11-13T02:09:23+00:00",
-   "source": "The Hindu",
-   "title": "Twin cyclone leave livelihoods in tatters",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/twin-cyclone-leave-livelihoods-in-tatters/article71695213.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "2daedf0c02a52e57",
-   "time": "2026-11-13T01:28:01+00:00",
-   "source": "The Hindu",
-   "title": "Minister-level meeting seeks report on relocation, rehabilitation plans for P&T Colony residents from Ernakulam Collector",
-   "url": "https://www.thehindu.com/news/cities/Kochi/minister-level-meeting-seeks-report-on-relocation-rehabilitation-plans-for-pt-colony-residents-from-ernakulam-collector/article71693526.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "367b651378e1ccc6",
-   "time": "2026-11-12T20:44:11+00:00",
-   "source": "The Hindu",
-   "title": "India and U.K. are turning climate ambition into action",
-   "url": "https://www.thehindu.com/opinion/op-ed/india-and-uk-are-turning-climate-ambition-into-action/article71695180.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "280882929582bf9e",
-   "time": "2026-11-12T20:22:43+00:00",
-   "source": "The Hindu",
-   "title": "New deal: On COP31 and lofty climate goals",
-   "url": "https://www.thehindu.com/opinion/editorial/new-deal-on-cop31-and-lofty-climate-goals/article71695206.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "0a115d3b10e76450",
-   "time": "2026-11-12T19:52:29+00:00",
-   "source": "The Hindu",
-   "title": "RTI Act strengthens people’s voice in democracy, says Keralam Information Commissioner",
-   "url": "https://www.thehindu.com/news/national/kerala/rti-act-strengthens-peoples-voice-in-democracy-says-keralam-information-commissioner/article71694470.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "e2143e6e3e20b1d9",
-   "time": "2026-11-12T19:46:14+00:00",
-   "source": "The Hindu",
-   "title": "Restrictions on me arbitrary, vague: Sonam Wangchuk",
-   "url": "https://www.thehindu.com/news/national/ladakh/restrictions-on-me-arbitrary-vague-sonam-wangchuk/article71695290.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "914d60579c1f727b",
-   "time": "2026-11-12T19:32:42+00:00",
-   "source": "The Hindu",
-   "title": "Five e-scooters catch fire in Ranipet",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/five-e-scooters-catch-fire-in-ranipet/article71693876.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "a88e28e5b1c8caac",
-   "time": "2026-11-12T18:58:51+00:00",
-   "source": "The Hindu",
-   "title": "Now agentic AI can perform complex lab research, and maybe cheaper too",
-   "url": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -171,5 +171,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-13T04:26:39.428152+00:00"
+ "updated": "2026-11-13T07:43:58.727678+00:00"
 }
