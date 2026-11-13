@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "116ad52fcc0e7b10",
+   "time": "2026-11-13T23:08:21+00:00",
+   "source": "The Hindu",
+   "title": "Two-year-old dies after firecracker explodes inside his mouth",
+   "url": "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "122882967776fd7c",
    "time": "2026-11-13T19:57:29+00:00",
    "source": "The Hindu",
@@ -111,16 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "48c23ee91809eeb9",
-   "time": "2026-11-13T18:09:47+00:00",
-   "source": "The Hindu",
-   "title": "Andhra Pradesh emerges as a leader in India’s rooftop solar push: Union Minister",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-emerges-as-a-leader-in-indias-rooftop-solar-push-union-minister/article71697838.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -219,7 +219,17 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
+  },
+  {
+   "id": "bce648c93ee4071e",
+   "time": "2026-11-10T12:06:00+00:00",
+   "source": "Indian Express",
+   "title": "ELECTION COMMISSION OF INDIA NEWS",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d2226a340bcb843a25c68294a8e&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-13T22:49:03.142600+00:00"
+ "updated": "2026-11-13T23:27:25.748679+00:00"
 }
