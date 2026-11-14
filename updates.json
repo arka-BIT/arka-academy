@@ -1,6 +1,76 @@
 {
  "items": [
   {
+   "id": "b0cb84808876009e",
+   "time": "2026-11-14T16:53:22+00:00",
+   "source": "The Hindu",
+   "title": "Sparsham to focus on children’s mental health, behavioural change: Minister",
+   "url": "https://www.thehindu.com/news/national/kerala/sparsham-to-focus-on-childrens-mental-health-behavioural-change-minister/article71702556.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "2c3ac7b812d3fcb4",
+   "time": "2026-11-14T16:51:58+00:00",
+   "source": "The Hindu",
+   "title": "Irrigation issues in Harihar constituency will be addressed, says MP Prabha Mallikarjun",
+   "url": "https://www.thehindu.com/news/national/karnataka/irrigation-issues-in-harihar-constituency-will-be-addressed-says-mp-prabha-mallikarjun/article71702742.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "aa80ca38213ff028",
+   "time": "2026-11-14T16:40:40+00:00",
+   "source": "The Hindu",
+   "title": "A.P. attracts major investments at CII summit in Visakhapatnam",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-attracts-major-investments-at-cii-summit-in-visakhapatnam/article71701918.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "2c2275ce4df7fd3c",
+   "time": "2026-11-14T16:38:43+00:00",
+   "source": "The Hindu",
+   "title": "From a rustic tradition to world recognition, Meghalaya’s Wangala festival marks a flourishing heritage",
+   "url": "https://www.thehindu.com/news/national/meghalaya/from-a-rustic-tradition-to-world-recognition-meghalayas-wangala-festival-marks-a-flourishing-heritage/article71702147.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "ecbf2cc56d0d97b5",
+   "time": "2026-11-14T16:30:57+00:00",
+   "source": "The Hindu",
+   "title": "BRS wants CM, Irrigation Minister to protect interests of Telangana’s river water rights in Delhi",
+   "url": "https://www.thehindu.com/news/national/telangana/brs-wants-cm-irrigation-minister-to-protect-interests-of-telanganas-river-water-rights-in-delhi/article71702629.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "fab97fa21c7a25a5",
+   "time": "2026-11-14T16:17:12+00:00",
+   "source": "The Hindu",
+   "title": "CM promises govt. support to India’s newest public health university coming up in Hyderabad",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/cm-promises-govt-support-to-indias-newest-public-health-university-coming-up-in-hyderabad/article71702469.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "042c6f8fe17d8f39",
+   "time": "2026-11-14T16:16:03+00:00",
+   "source": "The Hindu",
+   "title": "Air pollution does not recognise State boundaries, coordinated action required: Union Minister",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/air-pollution-does-not-recognise-state-boundaries-coordinated-action-required-union-minister/article71701924.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "203d8c19bdfba7c0",
    "time": "2026-11-14T15:39:19+00:00",
    "source": "The Hindu",
@@ -48,76 +118,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/hescom-undertakes-maintenance-works-ahead-of-legislature-session-in-belagavi/article71702015.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "7040199edc0a438d",
-   "time": "2026-11-14T14:52:03+00:00",
-   "source": "The Hindu",
-   "title": "Forest Department registers case against school for chopping branches of trees",
-   "url": "https://www.thehindu.com/news/national/karnataka/forest-department-registers-case-against-school-for-chopping-branches-of-trees/article71702189.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "22bc8d862c6461fb",
-   "time": "2026-11-14T14:47:51+00:00",
-   "source": "The Hindu",
-   "title": "Landslip in Idukki kills cardamom farmer",
-   "url": "https://www.thehindu.com/news/national/kerala/landslip-in-idukki-kills-cardamom-farmer/article71702114.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "415d44d20e6085aa",
-   "time": "2026-11-14T14:37:56+00:00",
-   "source": "The Hindu",
-   "title": "Quad Summit likely to be held in Manila on November 17, sources say",
-   "url": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "9d22a1da966cfe4c",
-   "time": "2026-11-14T13:26:37+00:00",
-   "source": "The Hindu",
-   "title": "KSSP warns Mission Samudra threatens traditional fishing livelihoods",
-   "url": "https://www.thehindu.com/news/national/kerala/kssp-warns-mission-samudra-threatens-traditional-fishing-livelihoods/article71701801.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "783b01203d209a73",
-   "time": "2026-11-14T13:04:25+00:00",
-   "source": "The Hindu",
-   "title": "Pakistani Minister to visit India for the first time in three years, as SCO meets",
-   "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "d0f2c9801212d319",
-   "time": "2026-11-14T12:09:34+00:00",
-   "source": "The Hindu",
-   "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
-   "url": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "d59049dfca39df5c",
-   "time": "2026-11-14T12:08:29+00:00",
-   "source": "The Hindu",
-   "title": "Government is committed to supporting startups in Kalyana Karnataka: Priyank Kharge",
-   "url": "https://www.thehindu.com/news/national/karnataka/government-is-committed-to-supporting-startups-in-kalyana-karnataka-priyank-kharge/article71701537.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -241,5 +241,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T15:43:57.536897+00:00"
+ "updated": "2026-11-14T17:00:25.226910+00:00"
 }
