@@ -121,6 +121,36 @@
    "exam": "Both"
   },
   {
+   "id": "301b7ca5a8c8a489",
+   "time": "2026-11-14T13:56:20+00:00",
+   "source": "Indian Express",
+   "title": "Centre asks states to fix officers to track pollution curbs, seals 191 units",
+   "url": "https://indianexpress.com/article/india/delhi-air-pollution-bhupender-yadav-caqm-crackdown-191-industries-sealed-officials-accountability-10963249/",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "f5c71b35aa87c8a8",
+   "time": "2026-11-14T13:08:19+00:00",
+   "source": "Indian Express",
+   "title": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit",
+   "url": "https://indianexpress.com/article/india/rahul-gandhi-bharat-summit-hyderabad-speech-modi-adani-maharashtra-voters-gig-workers-10963183/",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "28f6b484df23a07f",
+   "time": "2026-11-14T12:30:53+00:00",
+   "source": "Indian Express",
+   "title": "Pakistan minister to attend Delhi SCO meet, Islamabad announces",
+   "url": "https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "0099381c62467ab2",
    "time": "2026-11-14T02:25:00+00:00",
    "source": "Indian Express",
@@ -229,37 +259,7 @@
    "paper": "GS-III",
    "topic": "Internal Security",
    "exam": "Both"
-  },
-  {
-   "id": "9649f12dfc22e037",
-   "time": "2026-11-10T22:27:00+00:00",
-   "source": "Indian Express",
-   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af863492ed940909f83e3db5a7deb8a&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "ed983c480fc2162a",
-   "time": "2026-11-10T22:27:00+00:00",
-   "source": "Indian Express",
-   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8a541de1f40dabacc10386ca414ae&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "1cb92d50c60be8b2",
-   "time": "2026-11-10T22:27:00+00:00",
-   "source": "Indian Express",
-   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8ae8cab54400e93a491a0ea7120f9&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T21:58:09.975315+00:00"
+ "updated": "2026-11-14T22:26:32.313696+00:00"
 }
