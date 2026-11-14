@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "9d22a1da966cfe4c",
+   "time": "2026-11-14T13:26:37+00:00",
+   "source": "The Hindu",
+   "title": "KSSP warns Mission Samudra threatens traditional fishing livelihoods",
+   "url": "https://www.thehindu.com/news/national/kerala/kssp-warns-mission-samudra-threatens-traditional-fishing-livelihoods/article71701801.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "783b01203d209a73",
+   "time": "2026-11-14T13:04:25+00:00",
+   "source": "The Hindu",
+   "title": "Pakistani Minister to visit India for the first time in three years, as SCO meets",
+   "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-sco-summit-india-visit-new-delhi/article71701699.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "d0f2c9801212d319",
    "time": "2026-11-14T12:09:34+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "cf93353bcc371ff3",
-   "time": "2026-11-14T08:30:37+00:00",
-   "source": "The Hindu",
-   "title": "Series of security lapses led to burglary at Tanishq showroom in Madurai",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/series-of-security-lapses-led-to-burglary-at-tanishq-showroom-in-madurai/article71699245.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "2e1b8e5dfe04288d",
-   "time": "2026-11-14T07:56:02+00:00",
-   "source": "The Hindu",
-   "title": "Media access order puts MG University on collision course with Minister",
-   "url": "https://www.thehindu.com/news/national/kerala/media-access-order-puts-mg-university-on-collision-course-with-minister/article71701033.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
    "id": "0099381c62467ab2",
    "time": "2026-11-14T02:25:00+00:00",
    "source": "Indian Express",
@@ -156,6 +156,16 @@
    "source": "Indian Express",
    "title": "India missed its 2025 TB target. How much progress has it made?",
    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8564323dd45609fb6142d3ba83791&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "784e0efcab9a8462",
+   "time": "2026-11-14T02:25:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af863492ed940909f83e3db5a7deb8a&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
@@ -219,7 +229,17 @@
    "paper": "GS-III",
    "topic": "Internal Security",
    "exam": "Both"
+  },
+  {
+   "id": "9649f12dfc22e037",
+   "time": "2026-11-10T22:27:00+00:00",
+   "source": "Indian Express",
+   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af863492ed940909f83e3db5a7deb8a&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T12:37:18.499888+00:00"
+ "updated": "2026-11-14T13:32:20.489971+00:00"
 }
