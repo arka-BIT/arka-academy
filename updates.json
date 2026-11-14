@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "203d8c19bdfba7c0",
+   "time": "2026-11-14T15:39:19+00:00",
+   "source": "The Hindu",
+   "title": "You are Arjuna, nothing will happen to you, Karnataka CM comforts young cancer patients at Kidwai",
+   "url": "https://www.thehindu.com/news/national/karnataka/you-are-arjuna-nothing-will-happen-to-you-karnataka-cm-comforts-young-cancer-patients-at-kidwai/article71702437.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "df6f4ab3bfde6b33",
+   "time": "2026-11-14T15:29:50+00:00",
+   "source": "The Hindu",
+   "title": "Speakers emphasise role of research ethics, organisational excellence at global tech conferences",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-emphasise-role-of-research-ethics-organisational-excellence-at-global-tech-conferences/article71701953.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "ff69f89352f38a02",
+   "time": "2026-11-14T15:11:45+00:00",
+   "source": "The Hindu",
+   "title": "Footwear hanging from trees marks a unique annual festival at Lakamma Devi temple",
+   "url": "https://www.thehindu.com/news/national/karnataka/footwear-hanging-from-trees-marks-a-unique-annual-festival-at-lakamma-devi-temple/article71701964.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
    "id": "a592721142c94f6a",
    "time": "2026-11-14T14:57:54+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/government-is-committed-to-supporting-startups-in-kalyana-karnataka-priyank-kharge/article71701537.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "4a54d95491c096ea",
-   "time": "2026-11-14T11:47:41+00:00",
-   "source": "The Hindu",
-   "title": "Magnitude-4 moderate earthquake hits Assam",
-   "url": "https://www.thehindu.com/news/national/assam/magnitude-4-moderate-earthquake-hits-assam/article71701606.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "e6bed2ab141013f3",
-   "time": "2026-11-14T11:31:44+00:00",
-   "source": "The Hindu",
-   "title": "No road, school or hospital in this Karnataka village deep inside a wildlife sanctuary",
-   "url": "https://www.thehindu.com/news/national/karnataka/no-road-school-or-hospital-in-this-karnataka-village-deep-inside-a-wildlife-sanctuary/article71690010.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "c7e1a51596b7293d",
-   "time": "2026-11-14T10:40:27+00:00",
-   "source": "The Hindu",
-   "title": "Women must get adequate representation in Parliament, legislatures: Karnataka CM D.K. Shivakumar",
-   "url": "https://www.thehindu.com/news/national/karnataka/women-must-get-adequate-representation-in-parliament-legislatures-karnataka-cm-dk-shivakumar/article71701382.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -241,5 +241,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T15:00:59.881642+00:00"
+ "updated": "2026-11-14T15:43:57.536897+00:00"
 }
