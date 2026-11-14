@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "3ff2b4d973acceee",
+   "time": "2026-11-14T04:17:31+00:00",
+   "source": "The Hindu",
+   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+   "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "a418cb8cb259d17f",
+   "time": "2026-11-14T04:00:48+00:00",
+   "source": "The Hindu",
+   "title": "Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained",
+   "url": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "3d90bb1d6d76656e",
+   "time": "2026-11-14T03:51:28+00:00",
+   "source": "The Hindu",
+   "title": "From policy to talent: Amaravati Quantum Valley’s innovation blueprint",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/from-policy-to-talent-amaravati-quantum-valleys-innovation-blueprint/article71692805.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "124a2f69e70e5185",
+   "time": "2026-11-14T03:51:17+00:00",
+   "source": "The Hindu",
+   "title": "Justice Karnan’s incident brought judicial misconduct to the forefront",
+   "url": "https://www.thehindu.com/news/national/justice-karnans-incident-brought-judicial-misconduct-to-the-forefront/article71697857.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "b29e9825c2ada598",
+   "time": "2026-11-14T03:48:54+00:00",
+   "source": "The Hindu",
+   "title": "Inside Amaravati’s pioneering leap to quantum frontier",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "7664311b5301ca84",
+   "time": "2026-11-14T03:28:04+00:00",
+   "source": "The Hindu",
+   "title": "Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report",
+   "url": "https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "08c9848109cd7636",
    "time": "2026-11-14T03:13:35+00:00",
    "source": "The Hindu",
@@ -58,66 +118,6 @@
    "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "e506b603ecc73e79",
-   "time": "2026-11-13T19:45:08+00:00",
-   "source": "The Hindu",
-   "title": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Partnership Summit in Vizag",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "4a94ff1ea8067cf0",
-   "time": "2026-11-13T19:42:50+00:00",
-   "source": "The Hindu",
-   "title": "Two Wayanad farmers win national plant genome saviour awards",
-   "url": "https://www.thehindu.com/news/national/kerala/two-wayanad-farmers-win-national-plant-genome-saviour-awards/article71698922.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "c0e85f7c2105e957",
-   "time": "2026-11-13T19:24:50+00:00",
-   "source": "The Hindu",
-   "title": "To strengthen the Supreme Court, divide it",
-   "url": "https://www.thehindu.com/opinion/lead/to-strengthen-the-supreme-court-divide-it/article71698099.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7d4d5f866b928f19",
-   "time": "2026-11-13T19:14:59+00:00",
-   "source": "The Hindu",
-   "title": "BIM, Texas university to offer course on AI in Business from next year",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/bim-texas-university-to-offer-course-on-ai-in-business-from-next-year/article71698085.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "7970319337663086",
-   "time": "2026-11-13T19:11:46+00:00",
-   "source": "The Hindu",
-   "title": "Rajya Sabha panel visits ISRO, HAL facilities in Bengaluru",
-   "url": "https://www.thehindu.com/news/national/karnataka/rajya-sabha-panel-visits-isro-hal-facilities-in-bengaluru/article71698110.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "eb8013289dd8838c",
-   "time": "2026-11-13T19:06:24+00:00",
-   "source": "The Hindu",
-   "title": "Kerala High Court seeks State’s response to PIL seeking mechanism to implement cyber laws",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-states-response-to-pil-seeking-mechanism-to-implement-cyber-laws/article71641007.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -239,7 +239,17 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
+  },
+  {
+   "id": "5bdd618a9e153711",
+   "time": "2026-11-10T12:06:00+00:00",
+   "source": "Indian Express",
+   "title": "ELECTION COMMISSION OF INDIA NEWS",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7e19941504fb0b5e5c1ef3d6924cf&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T03:26:56.454700+00:00"
+ "updated": "2026-11-14T04:19:32.558570+00:00"
 }
