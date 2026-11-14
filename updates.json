@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "c7e1a51596b7293d",
+   "time": "2026-11-14T10:40:27+00:00",
+   "source": "The Hindu",
+   "title": "Women must get adequate representation in Parliament, legislatures: Karnataka CM D.K. Shivakumar",
+   "url": "https://www.thehindu.com/news/national/karnataka/women-must-get-adequate-representation-in-parliament-legislatures-karnataka-cm-dk-shivakumar/article71701382.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "85f292f36096863d",
+   "time": "2026-11-14T10:38:49+00:00",
+   "source": "The Hindu",
+   "title": "Four earthquakes recorded in J-K, Ladakh",
+   "url": "https://www.thehindu.com/news/national/four-earthquakes-recorded-in-j-k-ladakh/article71701433.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "e6670c21b3cc28ff",
+   "time": "2026-11-14T10:37:55+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone may bring isolated heavy rain to Andhra Pradesh from November 18 to 20",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-may-bring-isolated-heavy-rain-to-andhra-pradesh-from-november-18-to-20/article71701292.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "8d5a662d1f9462d6",
    "time": "2026-11-14T10:00:48+00:00",
    "source": "The Hindu",
@@ -91,33 +121,13 @@
    "exam": "Both"
   },
   {
-   "id": "3d90bb1d6d76656e",
-   "time": "2026-11-14T03:51:28+00:00",
-   "source": "The Hindu",
-   "title": "From policy to talent: Amaravati Quantum Valley’s innovation blueprint",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/from-policy-to-talent-amaravati-quantum-valleys-innovation-blueprint/article71692805.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "124a2f69e70e5185",
-   "time": "2026-11-14T03:51:17+00:00",
-   "source": "The Hindu",
-   "title": "Justice Karnan’s incident brought judicial misconduct to the forefront",
-   "url": "https://www.thehindu.com/news/national/justice-karnans-incident-brought-judicial-misconduct-to-the-forefront/article71697857.ece",
+   "id": "0099381c62467ab2",
+   "time": "2026-11-14T02:25:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83d9fc7bf45bd83858be6962aec25&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
    "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "b29e9825c2ada598",
-   "time": "2026-11-14T03:48:54+00:00",
-   "source": "The Hindu",
-   "title": "Inside Amaravati’s pioneering leap to quantum frontier",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
+   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -251,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T10:14:06.316556+00:00"
+ "updated": "2026-11-14T10:52:12.667559+00:00"
 }
