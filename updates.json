@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "d0f2c9801212d319",
+   "time": "2026-11-14T12:09:34+00:00",
+   "source": "The Hindu",
+   "title": "Puri resigns from Uttar Pradesh Rajya Sabha seat after being re-elected from MP",
+   "url": "https://www.thehindu.com/news/national/puri-resigns-from-uttar-pradesh-rajya-sabha-seat-after-being-re-elected-from-mp/article71701657.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "d59049dfca39df5c",
+   "time": "2026-11-14T12:08:29+00:00",
+   "source": "The Hindu",
+   "title": "Government is committed to supporting startups in Kalyana Karnataka: Priyank Kharge",
+   "url": "https://www.thehindu.com/news/national/karnataka/government-is-committed-to-supporting-startups-in-kalyana-karnataka-priyank-kharge/article71701537.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "4a54d95491c096ea",
    "time": "2026-11-14T11:47:41+00:00",
    "source": "The Hindu",
@@ -101,26 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "f8b6f878e342a3eb",
-   "time": "2026-11-14T07:29:06+00:00",
-   "source": "The Hindu",
-   "title": "Twenty-four hours in Ahmedabad: A quick guide to India’s first UNESCO World Heritage City",
-   "url": "https://www.thehindu.com/life-and-style/travel/twenty-four-hours-in-ahmedabad-a-quick-guide-to-indias-first-unesco-world-heritage-city/article71686532.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "e884026906587c59",
-   "time": "2026-11-14T06:16:40+00:00",
-   "source": "The Hindu",
-   "title": "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-directs-excise-commissioner-to-disclose-steps-taken-to-implement-prohibitory-measures-to-curb-underage-alcohol-consumption/article71699601.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
    "id": "0099381c62467ab2",
    "time": "2026-11-14T02:25:00+00:00",
    "source": "Indian Express",
@@ -146,6 +146,16 @@
    "source": "Indian Express",
    "title": "India missed its 2025 TB target. How much progress has it made?",
    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84d6d99bc47b4885f695840132578&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "b2520e89e0c97dce",
+   "time": "2026-11-14T02:25:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8564323dd45609fb6142d3ba83791&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
@@ -209,57 +219,7 @@
    "paper": "GS-III",
    "topic": "Internal Security",
    "exam": "Both"
-  },
-  {
-   "id": "3d0a2a6e5e64c64d",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af737beb8304a03bdd5a33ea6d65a98&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "97abb6713dcd85b3",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af74340c869465085688daba0acaa1d&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "ff1e10ed3f087dab",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af74f18cdf14f379a96a79333428bc5&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "005b9d9a7863252d",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af78ad8e879429da9e0b70c61a469c5&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "0631a9a994e2a5b8",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7942354e04491b0a680af2a6082e2&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T11:59:36.875941+00:00"
+ "updated": "2026-11-14T12:37:18.499888+00:00"
 }
