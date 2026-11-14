@@ -131,6 +131,16 @@
    "exam": "Both"
   },
   {
+   "id": "bc01c480603de612",
+   "time": "2026-11-14T02:25:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84508306d427a992c17f4c1360610&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -178,6 +188,16 @@
    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af47e9eed874ef280e164e3c0a27c7d&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2fnavi-mumbai-cleanest-city-india-swachh-survekshan-awards-2025-26-surat-vijayawada-10959238%2f&c=2745469103089585664&mkt=en-us",
    "paper": "GS-III",
    "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "2671c847fddbfb81",
+   "time": "2026-11-10T22:27:00+00:00",
+   "source": "Indian Express",
+   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84508306d427a992c17f4c1360610&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Internal Security",
    "exam": "Both"
   },
   {
@@ -239,27 +259,7 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
-  },
-  {
-   "id": "0886a8e190537693",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d5497baf4a3b813f94f27d269bfb&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "5bdd618a9e153711",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7e19941504fb0b5e5c1ef3d6924cf&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T10:52:12.667559+00:00"
+ "updated": "2026-11-14T11:23:48.226571+00:00"
 }
