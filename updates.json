@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "e09b48e7a5d42507",
+   "time": "2026-11-14T05:38:51+00:00",
+   "source": "The Hindu",
+   "title": "Himachal’s ₹1,500 allowance scheme: Who benefits and what’s the political impact? | Explained",
+   "url": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
    "id": "3ff2b4d973acceee",
    "time": "2026-11-14T04:17:31+00:00",
    "source": "The Hindu",
@@ -106,16 +116,6 @@
    "source": "The Hindu",
    "title": "Concern mounts over poor air quality in Kochi; Corpn. to set up monitoring stations",
    "url": "https://www.thehindu.com/news/national/kerala/concern-mounts-over-poor-air-quality-in-kochi-corpn-to-set-up-monitoring-stations/article71696854.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "122882967776fd7c",
-   "time": "2026-11-13T19:57:29+00:00",
-   "source": "The Hindu",
-   "title": "The challenge of holding the Quad together",
-   "url": "https://www.thehindu.com/opinion/op-ed/the-challenge-of-holding-the-quad-together/article71698092.ece",
    "paper": "GS-II",
    "topic": "International Relations",
    "exam": "Both"
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T05:15:14.086656+00:00"
+ "updated": "2026-11-14T06:10:04.479388+00:00"
 }
