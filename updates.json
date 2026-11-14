@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "8d5a662d1f9462d6",
+   "time": "2026-11-14T10:00:48+00:00",
+   "source": "The Hindu",
+   "title": "KVASU signs MoU with UAE university for veterinary education, research",
+   "url": "https://www.thehindu.com/news/national/kerala/kvasu-signs-mou-with-uae-university-for-veterinary-education-research/article71701338.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "173068b88273a09c",
    "time": "2026-11-14T09:17:22+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "7664311b5301ca84",
-   "time": "2026-11-14T03:28:04+00:00",
-   "source": "The Hindu",
-   "title": "Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report",
-   "url": "https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T09:29:58.181004+00:00"
+ "updated": "2026-11-14T10:14:06.316556+00:00"
 }
