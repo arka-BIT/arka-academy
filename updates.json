@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "2e1b8e5dfe04288d",
+   "time": "2026-11-14T07:56:02+00:00",
+   "source": "The Hindu",
+   "title": "Media access order puts MG University on collision course with Minister",
+   "url": "https://www.thehindu.com/news/national/kerala/media-access-order-puts-mg-university-on-collision-course-with-minister/article71701033.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "f8b6f878e342a3eb",
+   "time": "2026-11-14T07:29:06+00:00",
+   "source": "The Hindu",
+   "title": "Twenty-four hours in Ahmedabad: A quick guide to India’s first UNESCO World Heritage City",
+   "url": "https://www.thehindu.com/life-and-style/travel/twenty-four-hours-in-ahmedabad-a-quick-guide-to-indias-first-unesco-world-heritage-city/article71686532.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "e884026906587c59",
    "time": "2026-11-14T06:16:40+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "116ad52fcc0e7b10",
-   "time": "2026-11-13T23:08:21+00:00",
-   "source": "The Hindu",
-   "title": "Two-year-old dies after firecracker explodes inside his mouth",
-   "url": "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "40f653b3957007bc",
-   "time": "2026-11-13T20:16:38+00:00",
-   "source": "The Hindu",
-   "title": "Petition moved in Kerala High Court challenging clean chit to Chief Minister in Punarjani flood rehabilitation scheme",
-   "url": "https://www.thehindu.com/news/national/kerala/petition-moved-in-kerala-high-court-challenging-clean-chit-to-chief-minister-in-punarjani-flood-rehabilitation-scheme/article71699491.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-14T07:02:13.826327+00:00"
+ "updated": "2026-11-14T08:05:40.584394+00:00"
 }
