@@ -1,11 +1,51 @@
 {
  "items": [
   {
+   "id": "08c9848109cd7636",
+   "time": "2026-11-14T03:13:35+00:00",
+   "source": "The Hindu",
+   "title": "U.S. loses measles-free status after continued spread of the disease: report",
+   "url": "https://www.thehindu.com/news/international/us-loses-measles-free-status-after-continued-spread-of-the-disease-report/article71700760.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "5e5cf0cb5f68bc51",
+   "time": "2026-11-14T03:05:01+00:00",
+   "source": "The Hindu",
+   "title": "Algae-based artificial tree to help check air pollution in Guntur",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/algae-based-artificial-tree-to-help-check-air-pollution-in-guntur/article71697256.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "116ad52fcc0e7b10",
    "time": "2026-11-13T23:08:21+00:00",
    "source": "The Hindu",
    "title": "Two-year-old dies after firecracker explodes inside his mouth",
    "url": "https://www.thehindu.com/news/national/chhattisgarh/two-year-old-dies-after-firecracker-explodes-inside-his-mouth/article71699299.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "40f653b3957007bc",
+   "time": "2026-11-13T20:16:38+00:00",
+   "source": "The Hindu",
+   "title": "Petition moved in Kerala High Court challenging clean chit to Chief Minister in Punarjani flood rehabilitation scheme",
+   "url": "https://www.thehindu.com/news/national/kerala/petition-moved-in-kerala-high-court-challenging-clean-chit-to-chief-minister-in-punarjani-flood-rehabilitation-scheme/article71699491.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "0b1801803353da23",
+   "time": "2026-11-13T20:02:07+00:00",
+   "source": "The Hindu",
+   "title": "Concern mounts over poor air quality in Kochi; Corpn. to set up monitoring stations",
+   "url": "https://www.thehindu.com/news/national/kerala/concern-mounts-over-poor-air-quality-in-kochi-corpn-to-set-up-monitoring-stations/article71696854.ece",
    "paper": "GS-II",
    "topic": "International Relations",
    "exam": "Both"
@@ -28,6 +68,16 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
    "paper": "GS-II",
    "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "4a94ff1ea8067cf0",
+   "time": "2026-11-13T19:42:50+00:00",
+   "source": "The Hindu",
+   "title": "Two Wayanad farmers win national plant genome saviour awards",
+   "url": "https://www.thehindu.com/news/national/kerala/two-wayanad-farmers-win-national-plant-genome-saviour-awards/article71698922.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -61,63 +111,13 @@
    "exam": "Both"
   },
   {
-   "id": "5e8b5605d3c5ae06",
-   "time": "2026-11-13T19:05:30+00:00",
+   "id": "eb8013289dd8838c",
+   "time": "2026-11-13T19:06:24+00:00",
    "source": "The Hindu",
-   "title": "T.N. Governor meets Home Minister Amit Shah in New Delhi",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-governor-meets-home-minister-amit-shah-in-new-delhi/article71698871.ece",
+   "title": "Kerala High Court seeks State’s response to PIL seeking mechanism to implement cyber laws",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-seeks-states-response-to-pil-seeking-mechanism-to-implement-cyber-laws/article71641007.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "4f4614b39abc92f4",
-   "time": "2026-11-13T19:02:34+00:00",
-   "source": "The Hindu",
-   "title": "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
-   "url": "https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "3042f95a5c1a9674",
-   "time": "2026-11-13T18:57:08+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court refuses to reject election plea against Udhayanidhi’s win from Chepauk-Thiruvallikeni",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-refuses-to-reject-election-plea-against-udhayanidhis-win-from-chepauk-thiruvallikeni/article71696602.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "5deeee7e7dad0702",
-   "time": "2026-11-13T18:51:32+00:00",
-   "source": "The Hindu",
-   "title": "Take steps to control inflation, Anbumani Ramadoss tells State govt.",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/take-steps-to-control-inflation-anbumani-ramadoss-tells-state-govt/article71698789.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "59b8aa4d635adeab",
-   "time": "2026-11-13T18:46:29+00:00",
-   "source": "The Hindu",
-   "title": "Urgent climate finance pleas at COP31 face a non-urgent response",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "dfe2987f55a42c29",
-   "time": "2026-11-13T18:19:17+00:00",
-   "source": "The Hindu",
-   "title": "ICFAI honours undergraduate toppers at 16th graduation ceremony",
-   "url": "https://www.thehindu.com/news/national/telangana/icfai-honours-undergraduate-toppers-at-16th-graduation-ceremony/article71699323.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -229,7 +229,17 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
+  },
+  {
+   "id": "0886a8e190537693",
+   "time": "2026-11-10T12:06:00+00:00",
+   "source": "Indian Express",
+   "title": "ELECTION COMMISSION OF INDIA NEWS",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af7d5497baf4a3b813f94f27d269bfb&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-13T23:59:06.386936+00:00"
+ "updated": "2026-11-14T03:26:56.454700+00:00"
 }
