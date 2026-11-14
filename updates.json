@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "4a54d95491c096ea",
+   "time": "2026-11-14T11:47:41+00:00",
+   "source": "The Hindu",
+   "title": "Magnitude-4 moderate earthquake hits Assam",
+   "url": "https://www.thehindu.com/news/national/assam/magnitude-4-moderate-earthquake-hits-assam/article71701606.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "e6bed2ab141013f3",
+   "time": "2026-11-14T11:31:44+00:00",
+   "source": "The Hindu",
+   "title": "No road, school or hospital in this Karnataka village deep inside a wildlife sanctuary",
+   "url": "https://www.thehindu.com/news/national/karnataka/no-road-school-or-hospital-in-this-karnataka-village-deep-inside-a-wildlife-sanctuary/article71690010.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "c7e1a51596b7293d",
    "time": "2026-11-14T10:40:27+00:00",
    "source": "The Hindu",
@@ -51,6 +71,16 @@
    "exam": "Both"
   },
   {
+   "id": "542475b1b2dbc31c",
+   "time": "2026-11-14T08:33:02+00:00",
+   "source": "The Hindu",
+   "title": "Mumbai weather: Cooler mornings, warm afternoons likely over next few days",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-weather-cooler-mornings-warm-afternoons-likely-over-next-few-days/article71701151.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "cf93353bcc371ff3",
    "time": "2026-11-14T08:30:37+00:00",
    "source": "The Hindu",
@@ -91,36 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "e09b48e7a5d42507",
-   "time": "2026-11-14T05:38:51+00:00",
-   "source": "The Hindu",
-   "title": "Himachal’s ₹1,500 allowance scheme: Who benefits and what’s the political impact? | Explained",
-   "url": "https://www.thehindu.com/news/national/himachals-1500-allowance-scheme-who-benefits-and-whats-the-political-impact-explained/article71700979.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "3ff2b4d973acceee",
-   "time": "2026-11-14T04:17:31+00:00",
-   "source": "The Hindu",
-   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
-   "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "a418cb8cb259d17f",
-   "time": "2026-11-14T04:00:48+00:00",
-   "source": "The Hindu",
-   "title": "Why has Centre sanctioned fresh infrastructure along the China border in Arunachal Pradesh | Explained",
-   "url": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
    "id": "0099381c62467ab2",
    "time": "2026-11-14T02:25:00+00:00",
    "source": "Indian Express",
@@ -136,6 +136,16 @@
    "source": "Indian Express",
    "title": "India missed its 2025 TB target. How much progress has it made?",
    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84508306d427a992c17f4c1360610&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "f33a2d6d0d5fdb22",
+   "time": "2026-11-14T02:25:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84d6d99bc47b4885f695840132578&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
@@ -249,17 +259,7 @@
    "paper": "GS-II",
    "topic": "Polity",
    "exam": "Both"
-  },
-  {
-   "id": "bce648c93ee4071e",
-   "time": "2026-11-10T12:06:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af79d2226a340bcb843a25c68294a8e&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T11:23:48.226571+00:00"
+ "updated": "2026-11-14T11:59:36.875941+00:00"
 }
