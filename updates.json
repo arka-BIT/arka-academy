@@ -101,21 +101,21 @@
    "exam": "Both"
   },
   {
+   "id": "fefce4e6e3e688ed",
+   "time": "2026-11-14T15:48:11+00:00",
+   "source": "The Hindu",
+   "title": "Another round of counselling for remaining seats in agriculture, veterinary courses",
+   "url": "https://www.thehindu.com/news/national/karnataka/another-round-of-counselling-for-remaining-seats-in-agriculture-veterinary-courses/article71702307.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "203d8c19bdfba7c0",
    "time": "2026-11-14T15:39:19+00:00",
    "source": "The Hindu",
    "title": "You are Arjuna, nothing will happen to you, Karnataka CM comforts young cancer patients at Kidwai",
    "url": "https://www.thehindu.com/news/national/karnataka/you-are-arjuna-nothing-will-happen-to-you-karnataka-cm-comforts-young-cancer-patients-at-kidwai/article71702437.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "df6f4ab3bfde6b33",
-   "time": "2026-11-14T15:29:50+00:00",
-   "source": "The Hindu",
-   "title": "Speakers emphasise role of research ethics, organisational excellence at global tech conferences",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/speakers-emphasise-role-of-research-ethics-organisational-excellence-at-global-tech-conferences/article71701953.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
@@ -239,7 +239,17 @@
    "paper": "GS-III",
    "topic": "Internal Security",
    "exam": "Both"
+  },
+  {
+   "id": "ed983c480fc2162a",
+   "time": "2026-11-10T22:27:00+00:00",
+   "source": "Indian Express",
+   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8a541de1f40dabacc10386ca414ae&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T17:41:57.080158+00:00"
+ "updated": "2026-11-14T18:14:19.007896+00:00"
 }
