@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "c5ac5f733991c9b9",
+   "time": "2026-11-14T22:32:08+00:00",
+   "source": "The Hindu",
+   "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+   "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "a68b1565fc11ae12",
    "time": "2026-11-14T21:18:48+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-attracts-major-investments-at-cii-summit-in-visakhapatnam/article71701918.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "2c2275ce4df7fd3c",
-   "time": "2026-11-14T16:38:43+00:00",
-   "source": "The Hindu",
-   "title": "From a rustic tradition to world recognition, Meghalaya’s Wangala festival marks a flourishing heritage",
-   "url": "https://www.thehindu.com/news/national/meghalaya/from-a-rustic-tradition-to-world-recognition-meghalayas-wangala-festival-marks-a-flourishing-heritage/article71702147.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
    "exam": "Both"
   },
   {
@@ -249,17 +249,7 @@
    "paper": "GS-III",
    "topic": "Science & Tech",
    "exam": "Both"
-  },
-  {
-   "id": "2671c847fddbfb81",
-   "time": "2026-11-10T22:27:00+00:00",
-   "source": "Indian Express",
-   "title": "India rejects Khalistani terrorist Pannun’s attacks on NSA, R&AW chief.",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84508306d427a992c17f4c1360610&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2findia-rejects-khalistani-terrorist-gurpatwant-singh-pannun-attacks-on-nsa-raw-chief-10958090%2f&c=5476595764585492138&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-14T22:26:32.313696+00:00"
+ "updated": "2026-11-14T22:58:31.249753+00:00"
 }
