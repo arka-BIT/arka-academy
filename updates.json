@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "17cb82a08cd9038d",
+   "time": "2026-11-15T19:12:15+00:00",
+   "source": "The Hindu",
+   "title": "NCW calls for inquiry, seeks report from DGP over Kallakurichi issue",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "111e76699196b280",
    "time": "2026-11-15T18:59:37+00:00",
    "source": "The Hindu",
@@ -111,31 +121,21 @@
    "exam": "Both"
   },
   {
+   "id": "26bd5a90b7590edf",
+   "time": "2026-11-15T15:16:59+00:00",
+   "source": "The Hindu",
+   "title": "Judge inspects K.R. Nagar hospital after woman’s death",
+   "url": "https://www.thehindu.com/news/national/karnataka/judge-inspects-kr-nagar-hospital-after-womans-death/article71705339.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "b33a427ed4b749e5",
    "time": "2026-11-15T13:21:18+00:00",
    "source": "Indian Express",
    "title": "Andhra Pradesh braces for third intense cyclone in a month",
    "url": "https://indianexpress.com/article/india/andhra-pradesh-braces-for-third-intense-cyclone-in-a-month-10964246/",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "ec549609bcb43ff4",
-   "time": "2026-11-15T11:14:25+00:00",
-   "source": "The Hindu",
-   "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
-   "url": "https://www.thehindu.com/news/national/air-india-resumes-direct-flights-to-new-york-newark-after-easing-of-airspace-curbs/article71704583.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "7d2ea2b8ebe139fa",
-   "time": "2026-11-15T09:43:22+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Akvan to move towards Andhra coast by November 19, rainfall expected in Tamil Nadu, Bengal",
-   "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
    "paper": "GS-III",
    "topic": "Disaster Management",
    "exam": "Both"
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T19:14:48.067346+00:00"
+ "updated": "2026-11-15T19:52:03.740601+00:00"
 }
