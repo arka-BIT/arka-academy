@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "111e76699196b280",
+   "time": "2026-11-15T18:59:37+00:00",
+   "source": "The Hindu",
+   "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "90112f2cdd33d91b",
+   "time": "2026-11-15T18:21:02+00:00",
+   "source": "The Hindu",
+   "title": "P. Viswanathan and Selvaperunthagai spar over comments on T.N.’s law and order situation",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/p-viswanathan-and-selvaperunthagai-spar-over-comments-on-tns-law-and-order-situation/article71705749.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "72d2754f3e220628",
    "time": "2026-11-15T18:11:57+00:00",
    "source": "The Hindu",
@@ -81,6 +101,16 @@
    "exam": "Both"
   },
   {
+   "id": "b3d68c187888192a",
+   "time": "2026-11-15T15:29:27+00:00",
+   "source": "The Hindu",
+   "title": "Sri Sathya Sai Vidya Vihar students volunteer at Visakhaptnam mental health hospital",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisathyasaividyaviharstudents-volunteer-atvisakhaptnam-mental-health-hospital/article71705206.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "b33a427ed4b749e5",
    "time": "2026-11-15T13:21:18+00:00",
    "source": "Indian Express",
@@ -108,36 +138,6 @@
    "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
    "paper": "GS-III",
    "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "5ef7df66302b46c8",
-   "time": "2026-11-15T09:41:33+00:00",
-   "source": "The Hindu",
-   "title": "Thiruvambady Devaswom welcomes rejection of Crime Branch probe report on Thrissur Pooram disruption",
-   "url": "https://www.thehindu.com/news/national/kerala/thiruvambady-devaswom-welcomes-rejection-of-crime-branch-probe-report-on-thrissur-pooram-disruption/article71704391.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "548590c530ceb352",
-   "time": "2026-11-15T09:30:49+00:00",
-   "source": "The Hindu",
-   "title": "Deep Ocean Mission important for India’s future: MoES secretary",
-   "url": "https://www.thehindu.com/news/national/kerala/deep-ocean-mission-important-for-indias-future-moes-secretary/article71701535.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "fa33d246feeb23c4",
-   "time": "2026-11-15T09:24:45+00:00",
-   "source": "The Hindu",
-   "title": "Project Amrit Sarovar: Major push to water security in Ladakh as Lt. Governor clears 97 new ponds",
-   "url": "https://www.thehindu.com/news/national/project-amrit-sarovar-major-push-to-water-security-in-ladakh-as-lt-governor-clears-97-new-ponds/article71704423.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T18:28:09.574374+00:00"
+ "updated": "2026-11-15T19:14:48.067346+00:00"
 }
