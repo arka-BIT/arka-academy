@@ -61,6 +61,26 @@
    "exam": "Both"
   },
   {
+   "id": "fc60884f5cf02542",
+   "time": "2026-11-15T07:19:15+00:00",
+   "source": "The Hindu",
+   "title": "Maharashtra government urges drought-hit farmers to complete e-KYC, obtain Farmer IDs to access benefits",
+   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-urges-drought-hit-farmers-to-complete-e-kyc-obtain-farmer-ids-to-access-benefits/article71704321.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "c04c489560da52c1",
+   "time": "2026-11-15T07:02:35+00:00",
+   "source": "The Hindu",
+   "title": "Human rights commission seeks report on parking woes of city buses in Kozhikode",
+   "url": "https://www.thehindu.com/news/national/kerala/human-rights-commission-seeks-report-on-parking-woes-of-city-buses-in-kozhikode/article71704117.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "27d47fd6ea4197d6",
    "time": "2026-11-15T06:59:38+00:00",
    "source": "The Hindu",
@@ -68,6 +88,16 @@
    "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "be2b917555ee2af2",
+   "time": "2026-11-15T06:53:17+00:00",
+   "source": "The Hindu",
+   "title": "Unnatural death allegations: Family to protest with woman’s body outside bank in Kozhikode",
+   "url": "https://www.thehindu.com/news/national/kerala/unnatural-death-allegations-family-to-protest-with-womans-body-outside-bank-in-kozhikode/article71704147.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/sci-tech/health/91-of-studies-in-india-in-last-5-decades-linked-air-pollution-to-health-effects-analysis/article71704215.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "492b5fec1a33c5e9",
-   "time": "2026-11-15T06:15:28+00:00",
-   "source": "The Hindu",
-   "title": "COP31: Experts flag extreme heat risks to pregnant women, call for targeted adaptation",
-   "url": "https://www.thehindu.com/sci-tech/health/cop31-experts-flag-extreme-heat-risks-to-pregnant-women-call-for-targeted-adaptation/article71704165.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "6fde729c078eae99",
-   "time": "2026-11-15T06:05:59+00:00",
-   "source": "The Hindu",
-   "title": "Health Wrap Episode 59 discusses living with diabetes, approaches to diabetes care and more",
-   "url": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-59-discusses-living-with-diabetes-approaches-to-diabetes-care-and-more/article71704119.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "20274e7561b805e5",
-   "time": "2026-11-15T05:45:22+00:00",
-   "source": "The Hindu",
-   "title": "Delhi air pollution: Outdoor workers report breathing difficulties, cough and burning eyes as AQI worsens",
-   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-outdoor-workers-report-breathing-difficulties-cough-and-burning-eyes-as-aqi-worsens/article71698385.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T09:51:05.420729+00:00"
+ "updated": "2026-11-15T10:28:55.766718+00:00"
 }
