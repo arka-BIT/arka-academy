@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "7441eba025414d84",
+   "time": "2026-11-15T20:03:33+00:00",
+   "source": "The Hindu",
+   "title": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
+   "url": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "3657ef1d21589992",
    "time": "2026-11-15T19:51:13+00:00",
    "source": "The Hindu",
@@ -118,16 +128,6 @@
    "url": "https://www.thehindu.com/news/national/india-bangladesh-leaderships-should-support-temporary-renewal-of-ganga-water-treaty-says-expert/article71705422.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "a246c93b595bfd5c",
-   "time": "2026-11-15T16:05:18+00:00",
-   "source": "The Hindu",
-   "title": "BMLTA Amendment notified: Tunnel Roads, Elevated Corridors to evade institutional scrutiny",
-   "url": "https://www.thehindu.com/news/national/karnataka/bmlta-amendment-notified-tunnel-roads-elevated-corridors-to-evade-institutional-scrutiny/article71704811.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T22:58:10.515918+00:00"
+ "updated": "2026-11-15T23:36:37.756061+00:00"
 }
