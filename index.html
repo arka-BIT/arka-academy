@@ -1581,7 +1581,7 @@ if(typeof SUPABASE!=="undefined"&&SUPABASE.url&&SUPABASE.key){fetch(SUPABASE.url
 })();
 /* ============ MENTOR PHOTOS (home page) ============
    Paste each mentor's photo URL between the quotes. Leave "" to show the placeholder. */
-var MENTOR_PHOTOS={rishi:"rishi.png.png",gaurav:"",siddharth:"",ashwini:"",ujjwala:""};
+var MENTOR_PHOTOS={rishi:"rishi.png.png",gaurav:"",siddharth:"siddharth.jpeg.jpeg",ashwini:"",ujjwala:""};
 document.querySelectorAll(".m-ph[data-m]").forEach(function(b){var u=MENTOR_PHOTOS[b.dataset.m];if(!u)return;var n=b.parentNode.querySelector("h3").textContent;b.innerHTML='<img src="'+u+'" alt="'+n+'" loading="lazy">';b.classList.add("has")});
 (function(){var F=document.querySelectorAll(".m-sunf .fire,.logo .lgs svg");if(!F.length)return;var q=matchMedia("(prefers-reduced-motion:reduce)");function a(){F.forEach(function(f){if(f.pauseAnimations)q.matches?f.pauseAnimations():f.unpauseAnimations()})}a();if(q.addEventListener)q.addEventListener("change",a)})();
 function fillFee(e,c){var d=COURSES[c];e.innerHTML=d.fee?d.fee+(d.regular?" <s>"+d.regular+"</s>":""):"<span style=\"font-size:1rem;font-weight:500\">Fee details available on enquiry</span>"}
