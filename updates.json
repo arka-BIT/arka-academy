@@ -1,6 +1,76 @@
 {
  "items": [
   {
+   "id": "0da5263b8a9b14ab",
+   "time": "2026-11-15T17:24:21+00:00",
+   "source": "The Hindu",
+   "title": "Mumbai to host sixth Earthshot Prize Awards on November 17; organisers promise biggest edition yet",
+   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-to-host-sixth-earthshot-prize-awards-on-november-17-organisers-promise-biggest-edition-yet/article71705598.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "9b27a54d84764ccd",
+   "time": "2026-11-15T17:21:47+00:00",
+   "source": "The Hindu",
+   "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
+   "url": "https://www.thehindu.com/news/international/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who-says/article71705676.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "d539f67125ecf020",
+   "time": "2026-11-15T17:13:18+00:00",
+   "source": "The Hindu",
+   "title": "Telangana aims to emerge as a leader in aerospace and defence sectors: Minister Sridhar Babu",
+   "url": "https://www.thehindu.com/news/national/telangana/telangana-aims-to-emerge-as-a-leader-in-aerospace-and-defence-sectors-minister-sridhar-babu/article71705671.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "32e8b8da8e8f3efa",
+   "time": "2026-11-15T17:08:14+00:00",
+   "source": "The Hindu",
+   "title": "Inspector, constable suspended for filing fake case under POCSO Act in Chennai",
+   "url": "https://www.thehindu.com/news/cities/chennai/inspector-constable-suspended-for-filing-fake-case-under-pocso-act-in-chennai/article71705675.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "7b052e93933ea596",
+   "time": "2026-11-15T16:50:01+00:00",
+   "source": "Indian Express",
+   "title": "On Birsa Munda Jayanti, MP CM Mohan Yadav inaugurates Rs 1,400-crore Narmada irrigation project",
+   "url": "https://indianexpress.com/article/india/narmada-irrigation-project-madhya-pradesh-1400-crore-10964392/",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "73255680e571e004",
+   "time": "2026-11-15T16:36:04+00:00",
+   "source": "The Hindu",
+   "title": "India, Bangladesh leaderships should support temporary renewal of Ganga Water Treaty, says expert",
+   "url": "https://www.thehindu.com/news/national/india-bangladesh-leaderships-should-support-temporary-renewal-of-ganga-water-treaty-says-expert/article71705422.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "b33a427ed4b749e5",
+   "time": "2026-11-15T13:21:18+00:00",
+   "source": "Indian Express",
+   "title": "Andhra Pradesh braces for third intense cyclone in a month",
+   "url": "https://indianexpress.com/article/india/andhra-pradesh-braces-for-third-intense-cyclone-in-a-month-10964246/",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
    "id": "ec549609bcb43ff4",
    "time": "2026-11-15T11:14:25+00:00",
    "source": "The Hindu",
@@ -51,6 +121,16 @@
    "exam": "Both"
   },
   {
+   "id": "284b7866c9ca7908",
+   "time": "2026-11-15T08:55:07+00:00",
+   "source": "Indian Express",
+   "title": "Why a Supreme Court order may let Maharashtra’s women prisoners live with their children in a colony",
+   "url": "https://indianexpress.com/article/india/maharashtra-open-prison-colony-women-supreme-court-nashik-sambhajinagar-10963956/",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "7854e2bcfe862bff",
    "time": "2026-11-15T08:51:26+00:00",
    "source": "The Hindu",
@@ -66,56 +146,6 @@
    "source": "The Hindu",
    "title": "Fading tetanus and diphtheria immunity: experts explain why the Td shot is important",
    "url": "https://www.thehindu.com/sci-tech/health/fading-tetanus-and-diphtheria-immunity-experts-explain-why-the-td-shot-is-important/article70662485.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "9ad8d93f2a0edcce",
-   "time": "2026-11-15T07:35:26+00:00",
-   "source": "The Hindu",
-   "title": "What is ‘food is medicine’? – 2 experts explain this decades-old approach to healthcare that is taking on new life",
-   "url": "https://www.thehindu.com/sci-tech/health/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life/article71704316.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "fc60884f5cf02542",
-   "time": "2026-11-15T07:19:15+00:00",
-   "source": "The Hindu",
-   "title": "Maharashtra government urges drought-hit farmers to complete e-KYC, obtain Farmer IDs to access benefits",
-   "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-urges-drought-hit-farmers-to-complete-e-kyc-obtain-farmer-ids-to-access-benefits/article71704321.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "c04c489560da52c1",
-   "time": "2026-11-15T07:02:35+00:00",
-   "source": "The Hindu",
-   "title": "Human rights commission seeks report on parking woes of city buses in Kozhikode",
-   "url": "https://www.thehindu.com/news/national/kerala/human-rights-commission-seeks-report-on-parking-woes-of-city-buses-in-kozhikode/article71704117.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "27d47fd6ea4197d6",
-   "time": "2026-11-15T06:59:38+00:00",
-   "source": "The Hindu",
-   "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
-   "url": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "be2b917555ee2af2",
-   "time": "2026-11-15T06:53:17+00:00",
-   "source": "The Hindu",
-   "title": "Unnatural death allegations: Family to protest with woman’s body outside bank in Kozhikode",
-   "url": "https://www.thehindu.com/news/national/kerala/unnatural-death-allegations-family-to-protest-with-womans-body-outside-bank-in-kozhikode/article71704147.ece",
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
@@ -211,36 +241,6 @@
    "exam": "Both"
   },
   {
-   "id": "784e0efcab9a8462",
-   "time": "2026-11-14T02:25:00+00:00",
-   "source": "Indian Express",
-   "title": "India missed its 2025 TB target. How much progress has it made?",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af863492ed940909f83e3db5a7deb8a&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "ee93793c178c5da1",
-   "time": "2026-11-14T01:25:35+00:00",
-   "source": "Indian Express",
-   "title": "A Diwali plaything turns fatal: 2-year-old dies after cracker explodes in his mouth",
-   "url": "https://indianexpress.com/article/india/diwali-fatal-2-year-old-dies-cracker-explodes-mouth-10962373/",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "71ccf023c2417c7a",
-   "time": "2026-11-14T01:10:32+00:00",
-   "source": "Indian Express",
-   "title": "Kishtwar killings raise questions: Why were the cops sent to a base with its own SOG unit?",
-   "url": "https://indianexpress.com/article/india/kishtwar-killings-questions-special-police-officers-jammu-kashmir-10962372/",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
    "id": "220ac05c031a3302",
    "time": "2026-11-12T09:34:16.581782+00:00",
    "source": "DD News",
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T11:45:29.290701+00:00"
+ "updated": "2026-11-15T17:57:13.413346+00:00"
 }
