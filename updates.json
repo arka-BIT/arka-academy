@@ -51,6 +51,16 @@
    "exam": "Both"
   },
   {
+   "id": "bf8933de248dc96b",
+   "time": "2026-11-15T08:41:28+00:00",
+   "source": "The Hindu",
+   "title": "Fading tetanus and diphtheria immunity: experts explain why the Td shot is important",
+   "url": "https://www.thehindu.com/sci-tech/health/fading-tetanus-and-diphtheria-immunity-experts-explain-why-the-td-shot-is-important/article70662485.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "9ad8d93f2a0edcce",
    "time": "2026-11-15T07:35:26+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/international/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back/article71704174.ece",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "0384aac191878991",
-   "time": "2026-11-15T06:22:52+00:00",
-   "source": "The Hindu",
-   "title": "91% of studies in India in last 5 decades linked air pollution to health effects: Analysis",
-   "url": "https://www.thehindu.com/sci-tech/health/91-of-studies-in-india-in-last-5-decades-linked-air-pollution-to-health-effects-analysis/article71704215.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T10:28:55.766718+00:00"
+ "updated": "2026-11-15T11:10:15.071972+00:00"
 }
