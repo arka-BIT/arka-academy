@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "ec549609bcb43ff4",
+   "time": "2026-11-15T11:14:25+00:00",
+   "source": "The Hindu",
+   "title": "Air India resumes direct flights to New York, Newark after easing of airspace curbs",
+   "url": "https://www.thehindu.com/news/national/air-india-resumes-direct-flights-to-new-york-newark-after-easing-of-airspace-curbs/article71704583.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "7d2ea2b8ebe139fa",
    "time": "2026-11-15T09:43:22+00:00",
    "source": "The Hindu",
@@ -108,16 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/unnatural-death-allegations-family-to-protest-with-womans-body-outside-bank-in-kozhikode/article71704147.ece",
    "paper": "GS-III",
    "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "e992f0d6fb4cd315",
-   "time": "2026-11-15T06:47:17+00:00",
-   "source": "The Hindu",
-   "title": "NATO to skip a leaders' summit in Albania next year as high-level meetings are scaled back",
-   "url": "https://www.thehindu.com/news/international/nato-to-skip-a-leaders-summit-in-albania-next-year-as-high-level-meetings-are-scaled-back/article71704174.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T11:10:15.071972+00:00"
+ "updated": "2026-11-15T11:45:29.290701+00:00"
 }
