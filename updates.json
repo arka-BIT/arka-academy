@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "72d2754f3e220628",
+   "time": "2026-11-15T18:11:57+00:00",
+   "source": "The Hindu",
+   "title": "200 patients receive medical services at health camp",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "0da5263b8a9b14ab",
    "time": "2026-11-15T17:24:21+00:00",
    "source": "The Hindu",
@@ -58,6 +68,16 @@
    "url": "https://www.thehindu.com/news/national/india-bangladesh-leaderships-should-support-temporary-renewal-of-ganga-water-treaty-says-expert/article71705422.ece",
    "paper": "GS-II",
    "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "a246c93b595bfd5c",
+   "time": "2026-11-15T16:05:18+00:00",
+   "source": "The Hindu",
+   "title": "BMLTA Amendment notified: Tunnel Roads, Elevated Corridors to evade institutional scrutiny",
+   "url": "https://www.thehindu.com/news/national/karnataka/bmlta-amendment-notified-tunnel-roads-elevated-corridors-to-evade-institutional-scrutiny/article71704811.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -128,26 +148,6 @@
    "url": "https://indianexpress.com/article/india/maharashtra-open-prison-colony-women-supreme-court-nashik-sambhajinagar-10963956/",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7854e2bcfe862bff",
-   "time": "2026-11-15T08:51:26+00:00",
-   "source": "The Hindu",
-   "title": "Dhinakaran, Vasan urge Vijay to protect interests of T.N. farmers in Mekedatu issue",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/dhinakaran-vasan-urge-vijay-to-protect-interests-of-tn-farmers-in-mekedatu-issue/article71704365.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "bf8933de248dc96b",
-   "time": "2026-11-15T08:41:28+00:00",
-   "source": "The Hindu",
-   "title": "Fading tetanus and diphtheria immunity: experts explain why the Td shot is important",
-   "url": "https://www.thehindu.com/sci-tech/health/fading-tetanus-and-diphtheria-immunity-experts-explain-why-the-td-shot-is-important/article70662485.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T17:57:13.413346+00:00"
+ "updated": "2026-11-15T18:28:09.574374+00:00"
 }
