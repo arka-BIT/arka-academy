@@ -11,6 +11,16 @@
    "exam": "Both"
   },
   {
+   "id": "cec66edfe28ed25a",
+   "time": "2026-11-15T19:39:51+00:00",
+   "source": "The Hindu",
+   "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "17cb82a08cd9038d",
    "time": "2026-11-15T19:12:15+00:00",
    "source": "The Hindu",
@@ -118,16 +128,6 @@
    "url": "https://www.thehindu.com/news/national/karnataka/bmlta-amendment-notified-tunnel-roads-elevated-corridors-to-evade-institutional-scrutiny/article71704811.ece",
    "paper": "GS-II",
    "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "b3d68c187888192a",
-   "time": "2026-11-15T15:29:27+00:00",
-   "source": "The Hindu",
-   "title": "Sri Sathya Sai Vidya Vihar students volunteer at Visakhaptnam mental health hospital",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisathyasaividyaviharstudents-volunteer-atvisakhaptnam-mental-health-hospital/article71705206.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T21:00:28.980697+00:00"
+ "updated": "2026-11-15T21:42:46.639724+00:00"
 }
