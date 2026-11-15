@@ -1,6 +1,16 @@
 {
  "items": [
   {
+   "id": "3657ef1d21589992",
+   "time": "2026-11-15T19:51:13+00:00",
+   "source": "The Hindu",
+   "title": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
+   "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "17cb82a08cd9038d",
    "time": "2026-11-15T19:12:15+00:00",
    "source": "The Hindu",
@@ -118,16 +128,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisathyasaividyaviharstudents-volunteer-atvisakhaptnam-mental-health-hospital/article71705206.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "26bd5a90b7590edf",
-   "time": "2026-11-15T15:16:59+00:00",
-   "source": "The Hindu",
-   "title": "Judge inspects K.R. Nagar hospital after woman’s death",
-   "url": "https://www.thehindu.com/news/national/karnataka/judge-inspects-kr-nagar-hospital-after-womans-death/article71705339.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-15T19:52:03.740601+00:00"
+ "updated": "2026-11-15T20:24:44.726563+00:00"
 }
