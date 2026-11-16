@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "003e1b0e5a6a529a",
+   "time": "2026-11-16T17:48:08+00:00",
+   "source": "The Hindu",
+   "title": "Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order",
+   "url": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "1edff65d6a55657d",
+   "time": "2026-11-16T17:47:27+00:00",
+   "source": "The Hindu",
+   "title": "ED’s arrest was politically motivated, Azam Khan tells Allahabad High Court",
+   "url": "https://www.thehindu.com/news/national/uttar-pradesh/eds-arrest-was-politically-motivated-azam-khan-tells-allahabad-high-court/article71708140.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "0e83423a2e484dea",
+   "time": "2026-11-16T17:45:44+00:00",
+   "source": "The Hindu",
+   "title": "Followed tiger out of curiosity, says Tamil Nadu Minister",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/followed-tiger-out-of-curiosity-says-tamil-nadu-minister/article71709317.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
    "id": "87ad482ac63b46fa",
    "time": "2026-11-16T17:22:19+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-dedicated-a-press-commission-to-protect-journalists/article71708842.ece",
    "paper": "GS-II",
    "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "ee328f56e53b858c",
-   "time": "2026-11-16T15:58:40+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka High Court asks authorities to determine nationality of man claiming to be Indian before deporting him to Bangladesh",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-authorities-to-determine-nationality-of-man-claiming-to-be-indian-before-deporting-him-to-bangladesh/article71708429.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "401070cf806d48f8",
-   "time": "2026-11-16T15:35:38+00:00",
-   "source": "The Hindu",
-   "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
-   "url": "https://www.thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "ec157d665044620e",
-   "time": "2026-11-16T15:05:11+00:00",
-   "source": "The Hindu",
-   "title": "Matrescence: when motherhood needs mental health support",
-   "url": "https://www.thehindu.com/sci-tech/health/matrescence-when-motherhood-needs-mental-health-support/article71669544.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T17:37:36.307734+00:00"
+ "updated": "2026-11-16T18:29:21.271289+00:00"
 }
