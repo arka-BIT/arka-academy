@@ -1,6 +1,86 @@
 {
  "items": [
   {
+   "id": "5954523d9ad0d6e8",
+   "time": "2026-11-16T14:31:36+00:00",
+   "source": "The Hindu",
+   "title": "Samples of 23 persons tested H5N1 negative, says Health Minister",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/samples-of-23-persons-tested-h5n1-negative-says-health-minister/article71708022.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "4ed3e166ddf78c9c",
+   "time": "2026-11-16T14:30:39+00:00",
+   "source": "The Hindu",
+   "title": "Global tech leaders, investors to converge in Kochi for Digital Transformation Summit",
+   "url": "https://www.thehindu.com/news/national/kerala/global-tech-leaders-investors-to-converge-in-kochi-for-digital-transformation-summit/article71708201.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "c524e8b282113c03",
+   "time": "2026-11-16T14:27:58+00:00",
+   "source": "The Hindu",
+   "title": "29-year-old regains limb movement after emergency stroke treatment at two govt. hospitals",
+   "url": "https://www.thehindu.com/news/national/telangana/29-year-old-regains-limb-movement-after-emergency-stroke-treatment-at-two-govt-hospitals/article71707905.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "4e5d34df9f2ec024",
+   "time": "2026-11-16T14:25:28+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka releases three drought-resistant crop varieties to support farmers",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-releases-three-drought-resistant-crop-varieties-to-support-farmers/article71708392.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "1e8ba135b230739c",
+   "time": "2026-11-16T14:24:52+00:00",
+   "source": "The Hindu",
+   "title": "Man launches indefinite protest in front of hospital seeking action against alleged medical negligence",
+   "url": "https://www.thehindu.com/news/cities/Kochi/man-launches-indefinite-protest-in-front-of-hospital-seeking-action-against-alleged-medical-negligence/article71707929.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "ea5ac5756253fdd7",
+   "time": "2026-11-16T14:22:08+00:00",
+   "source": "The Hindu",
+   "title": "CAHOTECH 2026 launches new accelerator to propel Indian health tech",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cahotech-2026-launches-new-accelerator-to-propel-indian-health-tech/article71707893.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "2acfffbd299e7fd9",
+   "time": "2026-11-16T13:09:41+00:00",
+   "source": "The Hindu",
+   "title": "COP31 draft deal calls for ‘accelerated action’ to exit fossil fuels",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "bb1ac03afd713822",
+   "time": "2026-11-16T12:35:59+00:00",
+   "source": "The Hindu",
+   "title": "Pollution in Yamuna increased despite huge expenditure on cleaning: Supreme Court",
+   "url": "https://www.thehindu.com/news/cities/Delhi/pollution-in-yamuna-increased-despite-huge-expenditure-on-cleaning-supreme-court/article71707841.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "7e40738ffbbb6b30",
    "time": "2026-11-16T11:27:32+00:00",
    "source": "The Hindu",
@@ -48,86 +128,6 @@
    "url": "https://www.thehindu.com/news/cities/Madurai/why-tamil-nadus-pastoralists-are-demanding-a-voice-in-wildlife-conservation/article71704546.ece",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "10c20657d31da026",
-   "time": "2026-11-16T10:36:27+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Akvan may bring rains to Telangana between November 19 and 21",
-   "url": "https://www.thehindu.com/news/national/telangana/cyclone-akvan-may-bring-rains-to-telangana-between-november-19-and-21/article71707448.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "e4149b3732d74dae",
-   "time": "2026-11-16T10:35:22+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Akvan to cross Andhra coast between Nellore and Tuni by November 20 noon, says IMD",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-cross-andhra-coast-between-nellore-and-tuni-by-november-20-noon-says-imd/article71706785.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "76e42f48a7220073",
-   "time": "2026-11-16T10:34:52+00:00",
-   "source": "The Hindu",
-   "title": "Study provides atlas of links between early-life environmental exposures, health",
-   "url": "https://www.thehindu.com/sci-tech/health/study-provides-atlas-of-links-between-early-life-environmental-exposures-health/article71707549.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "1f7dc6950aa67c2c",
-   "time": "2026-11-16T10:34:02+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone Akvan to hit Andhra on November 20; Naidu reviews preparedness, 173 fishing boats yet to return",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-hit-andhra-on-november-20-naidu-reviews-preparedness-173-fishing-boats-yet-to-return/article71707396.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "ac99f0b6a0310782",
-   "time": "2026-11-16T10:31:17+00:00",
-   "source": "The Hindu",
-   "title": "Beijing hails ‘groundbreaking significance’ of U.S., China, Russia summit in Shenzhen",
-   "url": "https://www.thehindu.com/news/international/beijing-hails-groundbreaking-significance-of-us-china-russia-summit-in-shenzhen/article71707480.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "f4eec4b647efeef3",
-   "time": "2026-11-16T10:29:53+00:00",
-   "source": "The Hindu",
-   "title": "Karthigai Deepam lit only at deepa mandapam for over 150 years: Tamil Nadu government tells Supreme Court",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-lit-only-at-deepa-mandapam-for-over-150-years-tn-tells-sc/article71705025.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "f2f1a66dcdad3119",
-   "time": "2026-11-16T10:23:53+00:00",
-   "source": "The Hindu",
-   "title": "Annamalai condemns use of ‘Arohara’ chant to praise Tamil Nadu CM Vijay, Minister",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-condemns-use-of-arohara-chant-to-praise-tamil-nadu-cm-vijay-minister/article71707097.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "54419847d7f78271",
-   "time": "2026-11-16T10:19:12+00:00",
-   "source": "The Hindu",
-   "title": "SIT calls off search for victim’s body at ‘Gem Granites’ Veeramani’s house in Chennai",
-   "url": "https://www.thehindu.com/news/cities/chennai/sit-calls-off-search-for-victims-body-at-veeramanis-house/article71705066.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T11:49:54.186834+00:00"
+ "updated": "2026-11-16T14:37:26.845671+00:00"
 }
