@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "304095c4bcb2edb2",
+   "time": "2026-11-16T05:52:02+00:00",
+   "source": "The Hindu",
+   "title": "Estonia to close Russian border crossings after attempted arson attack",
+   "url": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "63f1d4d56b5a3f59",
+   "time": "2026-11-16T05:12:47+00:00",
+   "source": "The Hindu",
+   "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+   "url": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "5ca8ea400f3c961e",
+   "time": "2026-11-16T05:09:34+00:00",
+   "source": "The Hindu",
+   "title": "U.K.'s Prince William, Princess Kate arrive in Mumbai for three-day trip",
+   "url": "https://www.thehindu.com/news/national/prince-william-and-kate-middleton-on-three-day-india-visit-for-earthshot-prize/article71706811.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "8b24566a15fc4765",
    "time": "2026-11-16T01:57:03+00:00",
    "source": "The Hindu",
@@ -88,36 +118,6 @@
    "url": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece",
    "paper": "GS-II",
    "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "0da5263b8a9b14ab",
-   "time": "2026-11-15T17:24:21+00:00",
-   "source": "The Hindu",
-   "title": "Mumbai to host sixth Earthshot Prize Awards on November 17; organisers promise biggest edition yet",
-   "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-to-host-sixth-earthshot-prize-awards-on-november-17-organisers-promise-biggest-edition-yet/article71705598.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "9b27a54d84764ccd",
-   "time": "2026-11-15T17:21:47+00:00",
-   "source": "The Hindu",
-   "title": "Respiratory illnesses rise in Gaza with worst to come as winter floods arrive, WHO says",
-   "url": "https://www.thehindu.com/news/international/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who-says/article71705676.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "d539f67125ecf020",
-   "time": "2026-11-15T17:13:18+00:00",
-   "source": "The Hindu",
-   "title": "Telangana aims to emerge as a leader in aerospace and defence sectors: Minister Sridhar Babu",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-aims-to-emerge-as-a-leader-in-aerospace-and-defence-sectors-minister-sridhar-babu/article71705671.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -251,5 +251,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T05:07:36.695520+00:00"
+ "updated": "2026-11-16T06:16:49.837617+00:00"
 }
