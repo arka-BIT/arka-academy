@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "8f5eab74ccc52fec",
+   "time": "2026-11-16T16:11:59+00:00",
+   "source": "The Hindu",
+   "title": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-approves-robotics-and-physical-ai-policy-202636-aimed-at-total-ecosystem-for-state/article71708466.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "1c3ccaa1e0eb8f3d",
+   "time": "2026-11-16T16:04:14+00:00",
+   "source": "The Hindu",
+   "title": "Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits",
+   "url": "https://www.thehindu.com/news/national/kerala//article71708777.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "527892aea7c0a9dd",
+   "time": "2026-11-16T16:03:58+00:00",
+   "source": "The Hindu",
+   "title": "Call for dedicated a Press Commission to protect journalists",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-dedicated-a-press-commission-to-protect-journalists/article71708842.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "ee328f56e53b858c",
+   "time": "2026-11-16T15:58:40+00:00",
+   "source": "The Hindu",
+   "title": "Karnataka High Court asks authorities to determine nationality of man claiming to be Indian before deporting him to Bangladesh",
+   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-authorities-to-determine-nationality-of-man-claiming-to-be-indian-before-deporting-him-to-bangladesh/article71708429.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "401070cf806d48f8",
+   "time": "2026-11-16T15:35:38+00:00",
+   "source": "The Hindu",
+   "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+   "url": "https://www.thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "ec157d665044620e",
+   "time": "2026-11-16T15:05:11+00:00",
+   "source": "The Hindu",
+   "title": "Matrescence: when motherhood needs mental health support",
+   "url": "https://www.thehindu.com/sci-tech/health/matrescence-when-motherhood-needs-mental-health-support/article71669544.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "5954523d9ad0d6e8",
    "time": "2026-11-16T14:31:36+00:00",
    "source": "The Hindu",
@@ -61,56 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "2acfffbd299e7fd9",
-   "time": "2026-11-16T13:09:41+00:00",
-   "source": "The Hindu",
-   "title": "COP31 draft deal calls for ‘accelerated action’ to exit fossil fuels",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels/article71707955.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "bb1ac03afd713822",
-   "time": "2026-11-16T12:35:59+00:00",
-   "source": "The Hindu",
-   "title": "Pollution in Yamuna increased despite huge expenditure on cleaning: Supreme Court",
-   "url": "https://www.thehindu.com/news/cities/Delhi/pollution-in-yamuna-increased-despite-huge-expenditure-on-cleaning-supreme-court/article71707841.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "7e40738ffbbb6b30",
-   "time": "2026-11-16T11:27:32+00:00",
-   "source": "The Hindu",
-   "title": "Complaint to National Tiger Conservation Authority seeks probe into Minister Vanni Arasu’s MTR visit",
-   "url": "https://www.thehindu.com/news/cities/Coimbatore/complaint-to-national-tiger-conservation-authority-seeks-probe-into-minister-vanni-arasus-mtr-visit/article71707137.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "48e22967ac85fc18",
-   "time": "2026-11-16T11:17:03+00:00",
-   "source": "The Hindu",
-   "title": "UN-backed talks consider possible rules on lethal autonomous weapons",
-   "url": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "af0a10a553f948de",
-   "time": "2026-11-16T11:13:26+00:00",
-   "source": "The Hindu",
-   "title": "French troops deployed in Ukraine on secret mission: RFI",
-   "url": "https://www.thehindu.com/news/international/french-troops-deployed-in-ukraine-on-secret-mission-rfi/article71707700.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
    "id": "87f22535ff7123f9",
    "time": "2026-11-16T10:44:32.444572+00:00",
    "source": "DD News",
@@ -118,16 +128,6 @@
    "url": "https://ddnews.gov.in/philippine-president-calls-for-stronger-asean-un-cooperation-to-achieve-the-sdgs/",
    "paper": "GS-II",
    "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "a25141b8700913ea",
-   "time": "2026-11-16T10:42:18+00:00",
-   "source": "The Hindu",
-   "title": "Why Tamil Nadu’s pastoralists are demanding a voice in wildlife conservation?",
-   "url": "https://www.thehindu.com/news/cities/Madurai/why-tamil-nadus-pastoralists-are-demanding-a-voice-in-wildlife-conservation/article71704546.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T14:37:26.845671+00:00"
+ "updated": "2026-11-16T16:24:13.239796+00:00"
 }
