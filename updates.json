@@ -1,6 +1,26 @@
 {
  "items": [
   {
+   "id": "213e53064a182b89",
+   "time": "2026-11-16T20:19:08+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone Akvan to bring light rainfall to parts of coastal T.N. on November 17",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-akvan-to-bring-light-rainfall-to-parts-of-coastal-tn-on-november-17/article71707572.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "4b7543dc2231eb05",
+   "time": "2026-11-16T20:18:23+00:00",
+   "source": "The Hindu",
+   "title": "Kerala High Court refers petition challenging clean chit to Chief Minister in Punarjani case to Chief Justice",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-refers-petition-challenging-clean-chit-to-chief-minister-in-punarjani-case-to-chief-justice/article71708756.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "afea610a18d57f1d",
    "time": "2026-11-16T19:19:08+00:00",
    "source": "The Hindu",
@@ -98,26 +118,6 @@
    "url": "https://www.thehindu.com/news/national/kerala/kerala-university-hikes-sitting-feesand-allowances-for-syndicate-senate-and-academic-council-members/article71708766.ece",
    "paper": "GS-II",
    "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "f25bbcd7dee3fe15",
-   "time": "2026-11-16T17:04:18+00:00",
-   "source": "The Hindu",
-   "title": "Cultural activists protest at Thiruvananthapuram Corporation over denial of permission to Manaveeyam Veedhi event",
-   "url": "https://www.thehindu.com/news/national/kerala/cultural-activists-protest-at-thiruvananthapuram-corporation-over-denial-of-permission-to-manaveeyam-veedhi-event/article71708740.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "f1fd97866c548c22",
-   "time": "2026-11-16T17:02:50+00:00",
-   "source": "The Hindu",
-   "title": "Six Liangmai Naga civilians laid to rest in Manipur 187 days after abduction, killing",
-   "url": "https://www.thehindu.com/news/national/manipur/six-months-after-abduction-bodies-of-six-naga-men-interred-in-manipur/article71708214.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
    "exam": "Both"
   },
   {
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T20:16:29.046336+00:00"
+ "updated": "2026-11-16T21:11:14.543920+00:00"
 }
