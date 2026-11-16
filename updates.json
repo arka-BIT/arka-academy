@@ -1,6 +1,106 @@
 {
  "items": [
   {
+   "id": "874d69cade140ac7",
+   "time": "2026-11-16T09:13:29.476520+00:00",
+   "source": "DD News",
+   "title": "QUAD देशों के नेताओं की मंगलवार को मनीला में होगी बैठक",
+   "url": "https://ddnews.gov.in/leaders-of-the-quad-countries-will-meet-in-manila-on-tuesday/",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "142590c555ac9def",
+   "time": "2026-11-16T09:08:44+00:00",
+   "source": "The Hindu",
+   "title": "Noted agricultural scientist K. Prabhakaran Nair dies",
+   "url": "https://www.thehindu.com/news/national/kerala/noted-agricultural-scientist-k-prabhakaran-nair-dies/article71707303.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "83390828595aae0d",
+   "time": "2026-11-16T08:59:30+00:00",
+   "source": "The Hindu",
+   "title": "Encounter breaks out in Kulgam during anti-terror operation",
+   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kulgam-encounter-security-terrorists-operation-nov-16-2026/article71707314.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "67a4394b54355e63",
+   "time": "2026-11-16T08:49:25+00:00",
+   "source": "The Hindu",
+   "title": "Rajasthan Health Minister directs medical colleges to enforce zero-tolerance policy against ragging",
+   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-health-minister-directs-medical-colleges-to-enforce-zero-tolerance-policy-against-ragging/article71707289.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "cd30bd8828c6fe0e",
+   "time": "2026-11-16T08:10:03+00:00",
+   "source": "The Hindu",
+   "title": "Pakistan’s participation in SCO Civilisational Forum | Explained",
+   "url": "https://www.thehindu.com/news/international/pakistans-participation-in-sco-civilisational-forum-explained/article71707102.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "06bb126c6e0cadb8",
+   "time": "2026-11-16T08:01:46+00:00",
+   "source": "The Hindu",
+   "title": "Special trains from Santragachi to Prasanthi Nilayam for Sathya Sai Baba birth centenary",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/special-trains-from-santragachi-to-prasanthi-nilayam-for-sathya-sai-baba-birth-centenary/article71706994.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "f06417099ffa66ab",
+   "time": "2026-11-16T07:50:58+00:00",
+   "source": "The Hindu",
+   "title": "Patients allege rat bites, dog roaming in Rajasthan’s Pali govt hospital ward; staff faces action",
+   "url": "https://www.thehindu.com/news/national/rajasthan/patients-allege-rat-bites-dog-roaming-in-rajasthans-pali-govt-hospital-ward-staff-faces-action/article71707128.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "8c5ce8c671be83ac",
+   "time": "2026-11-16T07:20:06+00:00",
+   "source": "The Hindu",
+   "title": "Wholesale inflation surges to 12.29% in October, fuel and power prices lead rise",
+   "url": "https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "53d6237b3764b607",
+   "time": "2026-11-16T07:10:45+00:00",
+   "source": "The Hindu",
+   "title": "India, U.S., eight other nations sign declaration to safeguard AI supply chains",
+   "url": "https://www.thehindu.com/sci-tech/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/article71707057.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "3d6dc0c0b550a192",
+   "time": "2026-11-16T06:24:34+00:00",
+   "source": "The Hindu",
+   "title": "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+   "url": "https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
    "id": "304095c4bcb2edb2",
    "time": "2026-11-16T05:52:02+00:00",
    "source": "The Hindu",
@@ -28,96 +128,6 @@
    "url": "https://www.thehindu.com/news/national/prince-william-and-kate-middleton-on-three-day-india-visit-for-earthshot-prize/article71706811.ece",
    "paper": "GS-III",
    "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "8b24566a15fc4765",
-   "time": "2026-11-16T01:57:03+00:00",
-   "source": "The Hindu",
-   "title": "China confirms first Xi-Trump-Putin summit on November 19",
-   "url": "https://www.thehindu.com/news/international/china-confirms-first-xi-trump-putin-summit-on-november-19/article71706625.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "81abe5524637993e",
-   "time": "2026-11-15T20:05:04+00:00",
-   "source": "The Hindu",
-   "title": "Suspended SSUS students file amended plea to set aside inquiry committee report",
-   "url": "https://www.thehindu.com/news/national/kerala/suspended-ssus-students-file-amended-plea-to-set-aside-inquiry-committee-report/article71705577.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "7441eba025414d84",
-   "time": "2026-11-15T20:03:33+00:00",
-   "source": "The Hindu",
-   "title": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
-   "url": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "3657ef1d21589992",
-   "time": "2026-11-15T19:51:13+00:00",
-   "source": "The Hindu",
-   "title": "M.P. CM announces crop loss survey, financial aid for farmers in rain deficit Alirajpur district",
-   "url": "https://www.thehindu.com/news/national/madhya-pradesh/mp-cm-announces-crop-loss-survey-financial-aid-for-farmers-in-rain-deficit-alirajpur-district/article71705207.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "cec66edfe28ed25a",
-   "time": "2026-11-15T19:39:51+00:00",
-   "source": "The Hindu",
-   "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
-   "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "17cb82a08cd9038d",
-   "time": "2026-11-15T19:12:15+00:00",
-   "source": "The Hindu",
-   "title": "NCW calls for inquiry, seeks report from DGP over Kallakurichi issue",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/ncw-calls-for-inquiry-seeks-report-from-dgp-over-kallakurichi-issue/article71705800.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "111e76699196b280",
-   "time": "2026-11-15T18:59:37+00:00",
-   "source": "The Hindu",
-   "title": "Hyderabad hospital performs combined heart valve procedures in single sitting",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-combined-heart-valve-procedures-in-single-sitting/article71705052.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "90112f2cdd33d91b",
-   "time": "2026-11-15T18:21:02+00:00",
-   "source": "The Hindu",
-   "title": "P. Viswanathan and Selvaperunthagai spar over comments on T.N.’s law and order situation",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/p-viswanathan-and-selvaperunthagai-spar-over-comments-on-tns-law-and-order-situation/article71705749.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "72d2754f3e220628",
-   "time": "2026-11-15T18:11:57+00:00",
-   "source": "The Hindu",
-   "title": "200 patients receive medical services at health camp",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece",
-   "paper": "GS-II",
-   "topic": "Health",
    "exam": "Both"
   },
   {
@@ -251,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T06:16:49.837617+00:00"
+ "updated": "2026-11-16T09:13:29.476520+00:00"
 }
