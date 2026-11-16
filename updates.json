@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "afea610a18d57f1d",
+   "time": "2026-11-16T19:19:08+00:00",
+   "source": "The Hindu",
+   "title": "IISc researchers combine antibiotics to tackle drug-resistant TB",
+   "url": "https://www.thehindu.com/news/national/karnataka/iisc-researchers-combine-antibiotics-to-tackle-drug-resistant-tb/article71708093.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "b3db8ffc258682ea",
+   "time": "2026-11-16T19:15:45+00:00",
+   "source": "The Hindu",
+   "title": "El Nino impact drives record surge in crop insurance registrations across Karnataka",
+   "url": "https://www.thehindu.com/news/national/karnataka/el-nino-impact-drives-record-surge-in-crop-insurance-registrations-across-karnataka/article71708780.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "c18944c5e4813bd3",
+   "time": "2026-11-16T19:00:06+00:00",
+   "source": "The Hindu",
+   "title": "Sonia’s memoir ‘Belonging’ debuts with 2 lakh copies sold in under a week: HarperCollins India CEO",
+   "url": "https://www.thehindu.com/books/sonias-memoir-belonging-debuts-with-2-lakh-copies-sold-in-under-a-week-harpercollins-ceo/article71709375.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "e1f27df36d3c68dd",
+   "time": "2026-11-16T18:25:45+00:00",
+   "source": "The Hindu",
+   "title": "29th edition of Bengaluru Tech Summit to kick off on November 17",
+   "url": "https://www.thehindu.com/news/national/karnataka/29th-edition-of-bengaluru-tech-summit-to-kick-off-today/article71709164.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
    "id": "003e1b0e5a6a529a",
    "time": "2026-11-16T17:48:08+00:00",
    "source": "The Hindu",
@@ -81,46 +121,6 @@
    "exam": "Both"
   },
   {
-   "id": "9c2630b276c80ccb",
-   "time": "2026-11-16T16:45:13+00:00",
-   "source": "The Hindu",
-   "title": "After Yemen setback, Saudi Arabia replaces military commander",
-   "url": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "8f5eab74ccc52fec",
-   "time": "2026-11-16T16:11:59+00:00",
-   "source": "The Hindu",
-   "title": "A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-govt-approves-robotics-and-physical-ai-policy-202636-aimed-at-total-ecosystem-for-state/article71708466.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "1c3ccaa1e0eb8f3d",
-   "time": "2026-11-16T16:04:14+00:00",
-   "source": "The Hindu",
-   "title": "Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits",
-   "url": "https://www.thehindu.com/news/national/kerala//article71708777.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "527892aea7c0a9dd",
-   "time": "2026-11-16T16:03:58+00:00",
-   "source": "The Hindu",
-   "title": "Call for dedicated a Press Commission to protect journalists",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/call-for-dedicated-a-press-commission-to-protect-journalists/article71708842.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
    "id": "87f22535ff7123f9",
    "time": "2026-11-16T10:44:32.444572+00:00",
    "source": "DD News",
@@ -161,6 +161,16 @@
    "exam": "Both"
   },
   {
+   "id": "71bec2541575c4c8",
+   "time": "2026-11-16T03:23:00+00:00",
+   "source": "Indian Express",
+   "title": "Knowledge Nugget | From battery waste to critical minerals: Why India has banned black mass exports",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59a514f5408a9a161927208808b1&url=https%3a%2f%2findianexpress.com%2farticle%2fupsc-current-affairs%2fupsc-essentials%2fknowledge-nugget-lithium-ion-battery-black-mass-upsc-10965290%2f&c=12013223201633034195&mkt=en-ca",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "51dad557e031516d",
    "time": "2026-11-16T00:50:49+00:00",
    "source": "Indian Express",
@@ -168,6 +178,16 @@
    "url": "https://indianexpress.com/article/india/report-increase-in-government-health-spending-as-out-of-pocket-expenditure-declines-10964481/",
    "paper": "GS-III",
    "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "5fd81c67bfcc56eb",
+   "time": "2026-11-16T00:27:00+00:00",
+   "source": "Indian Express",
+   "title": "Blacklisted over child abuse in US, man’s plea to enter India rejected by Delhi High Court",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59a514f5408a9a161927208808b1&url=https%3a%2f%2findianexpress.com%2farticle%2flegal-news%2fblacklisted-child-abuse-us-man-enter-india-delhi-high-court-10964800%2f&c=5958403624120580332&mkt=en-ca",
+   "paper": "GS-II",
+   "topic": "Polity",
    "exam": "Both"
   },
   {
@@ -239,27 +259,7 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
-  },
-  {
-   "id": "f5c71b35aa87c8a8",
-   "time": "2026-11-14T13:08:19+00:00",
-   "source": "Indian Express",
-   "title": "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit",
-   "url": "https://indianexpress.com/article/india/rahul-gandhi-bharat-summit-hyderabad-speech-modi-adani-maharashtra-voters-gig-workers-10963183/",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "28f6b484df23a07f",
-   "time": "2026-11-14T12:30:53+00:00",
-   "source": "Indian Express",
-   "title": "Pakistan minister to attend Delhi SCO meet, Islamabad announces",
-   "url": "https://indianexpress.com/article/india/pakistan-minister-attend-delhi-sco-meet-islamabad-announces-10963150/",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-16T18:29:21.271289+00:00"
+ "updated": "2026-11-16T19:28:30.817678+00:00"
 }
