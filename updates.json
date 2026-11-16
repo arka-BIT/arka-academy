@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "87ad482ac63b46fa",
+   "time": "2026-11-16T17:22:19+00:00",
+   "source": "The Hindu",
+   "title": "Madras High Court protects personality rights of CSK fan popular for his unique yellow look",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-protects-personality-rights-of-csk-fan-popular-for-his-unique-yellow-look/article71709199.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "d95c03577a61fb0c",
+   "time": "2026-11-16T17:21:02+00:00",
+   "source": "The Hindu",
+   "title": "3,478 pregnant women identified for shifting to hospitals amid cyclone alert",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/3478-pregnant-women-identified-for-shifting-to-hospitals-amid-cyclone-alert/article71708888.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "507561be384b9471",
+   "time": "2026-11-16T17:17:58+00:00",
+   "source": "The Hindu",
+   "title": "Kerala University hikes sitting fees and allowances for Syndicate, Senate and Academic Council members",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-university-hikes-sitting-feesand-allowances-for-syndicate-senate-and-academic-council-members/article71708766.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "f25bbcd7dee3fe15",
+   "time": "2026-11-16T17:04:18+00:00",
+   "source": "The Hindu",
+   "title": "Cultural activists protest at Thiruvananthapuram Corporation over denial of permission to Manaveeyam Veedhi event",
+   "url": "https://www.thehindu.com/news/national/kerala/cultural-activists-protest-at-thiruvananthapuram-corporation-over-denial-of-permission-to-manaveeyam-veedhi-event/article71708740.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "f1fd97866c548c22",
+   "time": "2026-11-16T17:02:50+00:00",
+   "source": "The Hindu",
+   "title": "Six Liangmai Naga civilians laid to rest in Manipur 187 days after abduction, killing",
+   "url": "https://www.thehindu.com/news/national/manipur/six-months-after-abduction-bodies-of-six-naga-men-interred-in-manipur/article71708214.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "9c2630b276c80ccb",
+   "time": "2026-11-16T16:45:13+00:00",
+   "source": "The Hindu",
+   "title": "After Yemen setback, Saudi Arabia replaces military commander",
+   "url": "https://www.thehindu.com/news/international/after-yemen-setback-saudi-arabia-replaces-military-commander/article71709122.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
    "id": "8f5eab74ccc52fec",
    "time": "2026-11-16T16:11:59+00:00",
    "source": "The Hindu",
@@ -56,66 +116,6 @@
    "source": "The Hindu",
    "title": "Matrescence: when motherhood needs mental health support",
    "url": "https://www.thehindu.com/sci-tech/health/matrescence-when-motherhood-needs-mental-health-support/article71669544.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "5954523d9ad0d6e8",
-   "time": "2026-11-16T14:31:36+00:00",
-   "source": "The Hindu",
-   "title": "Samples of 23 persons tested H5N1 negative, says Health Minister",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/samples-of-23-persons-tested-h5n1-negative-says-health-minister/article71708022.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "4ed3e166ddf78c9c",
-   "time": "2026-11-16T14:30:39+00:00",
-   "source": "The Hindu",
-   "title": "Global tech leaders, investors to converge in Kochi for Digital Transformation Summit",
-   "url": "https://www.thehindu.com/news/national/kerala/global-tech-leaders-investors-to-converge-in-kochi-for-digital-transformation-summit/article71708201.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "c524e8b282113c03",
-   "time": "2026-11-16T14:27:58+00:00",
-   "source": "The Hindu",
-   "title": "29-year-old regains limb movement after emergency stroke treatment at two govt. hospitals",
-   "url": "https://www.thehindu.com/news/national/telangana/29-year-old-regains-limb-movement-after-emergency-stroke-treatment-at-two-govt-hospitals/article71707905.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "4e5d34df9f2ec024",
-   "time": "2026-11-16T14:25:28+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka releases three drought-resistant crop varieties to support farmers",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-releases-three-drought-resistant-crop-varieties-to-support-farmers/article71708392.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "1e8ba135b230739c",
-   "time": "2026-11-16T14:24:52+00:00",
-   "source": "The Hindu",
-   "title": "Man launches indefinite protest in front of hospital seeking action against alleged medical negligence",
-   "url": "https://www.thehindu.com/news/cities/Kochi/man-launches-indefinite-protest-in-front-of-hospital-seeking-action-against-alleged-medical-negligence/article71707929.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "ea5ac5756253fdd7",
-   "time": "2026-11-16T14:22:08+00:00",
-   "source": "The Hindu",
-   "title": "CAHOTECH 2026 launches new accelerator to propel Indian health tech",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cahotech-2026-launches-new-accelerator-to-propel-indian-health-tech/article71707893.ece",
    "paper": "GS-II",
    "topic": "Health",
    "exam": "Both"
@@ -261,5 +261,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-16T16:24:13.239796+00:00"
+ "updated": "2026-11-16T17:37:36.307734+00:00"
 }
