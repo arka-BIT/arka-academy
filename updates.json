@@ -1,6 +1,36 @@
 {
  "items": [
   {
+   "id": "7e40738ffbbb6b30",
+   "time": "2026-11-16T11:27:32+00:00",
+   "source": "The Hindu",
+   "title": "Complaint to National Tiger Conservation Authority seeks probe into Minister Vanni Arasu’s MTR visit",
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/complaint-to-national-tiger-conservation-authority-seeks-probe-into-minister-vanni-arasus-mtr-visit/article71707137.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "48e22967ac85fc18",
+   "time": "2026-11-16T11:17:03+00:00",
+   "source": "The Hindu",
+   "title": "UN-backed talks consider possible rules on lethal autonomous weapons",
+   "url": "https://www.thehindu.com/news/international/un-backed-talks-consider-possible-rules-on-lethal-autonomous-weapons/article71707403.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "af0a10a553f948de",
+   "time": "2026-11-16T11:13:26+00:00",
+   "source": "The Hindu",
+   "title": "French troops deployed in Ukraine on secret mission: RFI",
+   "url": "https://www.thehindu.com/news/international/french-troops-deployed-in-ukraine-on-secret-mission-rfi/article71707700.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
    "id": "87f22535ff7123f9",
    "time": "2026-11-16T10:44:32.444572+00:00",
    "source": "DD News",
@@ -8,6 +38,16 @@
    "url": "https://ddnews.gov.in/philippine-president-calls-for-stronger-asean-un-cooperation-to-achieve-the-sdgs/",
    "paper": "GS-II",
    "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "a25141b8700913ea",
+   "time": "2026-11-16T10:42:18+00:00",
+   "source": "The Hindu",
+   "title": "Why Tamil Nadu’s pastoralists are demanding a voice in wildlife conservation?",
+   "url": "https://www.thehindu.com/news/cities/Madurai/why-tamil-nadus-pastoralists-are-demanding-a-voice-in-wildlife-conservation/article71704546.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -91,46 +131,6 @@
    "exam": "Both"
   },
   {
-   "id": "1d8038d2a36397e0",
-   "time": "2026-11-16T10:18:12+00:00",
-   "source": "The Hindu",
-   "title": "Out-of-pocket expenditure on health shows decadal decline | Explained",
-   "url": "https://www.thehindu.com/sci-tech/health/out-of-pocket-expenditure-on-health-shows-decadal-decline-explained/article71707302.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "112ff2382b22d0a6",
-   "time": "2026-11-16T10:17:56+00:00",
-   "source": "The Hindu",
-   "title": "Supreme Court warns contempt if authorities fail to give detailed reply to plea on visually impaired unable to do Aadhaar face authentication",
-   "url": "https://www.thehindu.com/news/national/supreme-court-warns-contempt-if-authorities-fail-to-give-detailed-reply-to-plea-on-visually-impaired-unable-to-do-aadhaar-face-authentication/article71707355.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "473b9f5c8e894bbf",
-   "time": "2026-11-16T10:16:39+00:00",
-   "source": "The Hindu",
-   "title": "Madras High Court quashes case against Tamil Nadu Labour Minister Mohamed Farvas",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-quashes-case-against-tamil-nadu-labour-minister-mohamed-farvas/article71707157.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "04377e7c59aad3b9",
-   "time": "2026-11-16T10:15:29+00:00",
-   "source": "The Hindu",
-   "title": "Bahrain sentences 64 Shias, mostly clerics, to life on terror charges: rights group",
-   "url": "https://www.thehindu.com/news/international/bahrain-sentences-64-shias-mostly-clerics-to-life-on-terror-charges-rights-group/article71707395.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
    "id": "874d69cade140ac7",
    "time": "2026-11-16T09:13:29.476520+00:00",
    "source": "DD News",
@@ -138,6 +138,46 @@
    "url": "https://ddnews.gov.in/leaders-of-the-quad-countries-will-meet-in-manila-on-tuesday/",
    "paper": "GS-II",
    "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "1c7a2f5378c821df",
+   "time": "2026-11-16T04:45:00+00:00",
+   "source": "Indian Express",
+   "title": "On Neha Bora’s Delhi AQI ask, Centre says minister in Turkiye, is monitoring, pollution high priority",
+   "url": "https://indianexpress.com/article/india/aisa-neha-bora-environment-ministry-march-delhi-air-pollution-bhupender-yadav-turkiye-10964771/",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "b698c82c1f7ca45d",
+   "time": "2026-11-16T03:49:01+00:00",
+   "source": "Indian Express",
+   "title": "India News Live Updates, 16 November 2026 | INDIA bloc leaders ask 48 questions to Election Commission over SIR",
+   "url": "https://indianexpress.com/article/india/india-news-live-updates-16-november-2026-delhi-mumbai-weather-pollution-aqi-yamuna-chhath-asean-modi-quad-trump-10964698/",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "51dad557e031516d",
+   "time": "2026-11-16T00:50:49+00:00",
+   "source": "Indian Express",
+   "title": "Increase in government health spending as out-of-pocket expenditure declines: Report",
+   "url": "https://indianexpress.com/article/india/report-increase-in-government-health-spending-as-out-of-pocket-expenditure-declines-10964481/",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "056aeef55cffc34c",
+   "time": "2026-11-16T00:25:50+00:00",
+   "source": "Indian Express",
+   "title": "Taming of ‘Kabra Kaan’: Meet the 3,000-kg tusker that has 100 forest officials on their toes",
+   "url": "https://indianexpress.com/article/india/chhattisgarh-kabra-kaan-elephant-attack-10964502/",
+   "paper": "GS-III",
+   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -219,47 +259,7 @@
    "paper": "GS-II",
    "topic": "International Relations",
    "exam": "Both"
-  },
-  {
-   "id": "0099381c62467ab2",
-   "time": "2026-11-14T02:25:00+00:00",
-   "source": "Indian Express",
-   "title": "India missed its 2025 TB target. How much progress has it made?",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83d9fc7bf45bd83858be6962aec25&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "bc01c480603de612",
-   "time": "2026-11-14T02:25:00+00:00",
-   "source": "Indian Express",
-   "title": "India missed its 2025 TB target. How much progress has it made?",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84508306d427a992c17f4c1360610&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "f33a2d6d0d5fdb22",
-   "time": "2026-11-14T02:25:00+00:00",
-   "source": "Indian Express",
-   "title": "India missed its 2025 TB target. How much progress has it made?",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af84d6d99bc47b4885f695840132578&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "b2520e89e0c97dce",
-   "time": "2026-11-14T02:25:00+00:00",
-   "source": "Indian Express",
-   "title": "India missed its 2025 TB target. How much progress has it made?",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8564323dd45609fb6142d3ba83791&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-16T10:44:32.444572+00:00"
+ "updated": "2026-11-16T11:49:54.186834+00:00"
 }
