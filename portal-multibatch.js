@@ -159,8 +159,8 @@ return'<div class="card mb-card"><h2>Backlogs</h2><p class="lead">Tasks whose cl
 +(s.wait?'<p class="pn-note">'+s.wait+' step'+(s.wait===1?' is':'s are')+' waiting on your mentor.</p>':'')+'</div>'}
 
 /* ================= improvement graph (stars out of 10) ================= */
-function graph(rows){var pts=rows.filter(function(r){return r[1]&&r[1].stars!=null});
-if(!pts.length)return'<div class="gempty">'+FISH+'<p>Your graph starts after your first evaluated copy. Every star is a step forward.</p></div>';
+function graph(rows,who){var pts=rows.filter(function(r){return r[1]&&r[1].stars!=null});
+if(!pts.length)return'<div class="gempty">'+FISH+'<p>'+(who?'No stars yet for '+esc(who)+' in this batch. The graph appears once you evaluate their first copy and give stars out of 10.':'Your graph starts after your first evaluated copy. Every star is a step forward.')+'</p></div>';
 var W=Math.max(820,pts.length*70),Hh=250,L=36,R=40,T=16,B=46,iw=W-L-R,ih=Hh-T-B,n=pts.length;
 function x(i){return L+(n===1?iw/2:i*iw/(n-1))}function y(v){return T+ih-(v/10)*ih}
 var g='<svg viewBox="0 0 '+W+' '+Hh+'" class="gsvg" role="img" aria-label="Stars out of 10 for each evaluated task">';
@@ -171,7 +171,7 @@ pts.forEach(function(r,i){var dl=dayLabel(r[0]),lab=/^essay/i.test(r[0].subject|
 g+='<circle cx="'+x(i)+'" cy="'+y(r[1].stars)+'" r="5.5" fill="#D91E2E" stroke="#fff" stroke-width="2"><title>'+esc(r[0].subject+" › "+r[0].title+": "+r[1].stars+"/10")+'</title></circle>'
 +'<text x="'+x(i)+'" y="'+(y(r[1].stars)-10)+'" text-anchor="middle" class="gv">'+r[1].stars+'</text><text x="'+x(i)+'" y="'+(Hh-B+18)+'" text-anchor="middle" class="gt">'+esc(lab.trim())+'</text>'});
 g+='</svg>';var first=pts[0][1].stars,last=pts[n-1][1].stars,best=Math.max.apply(null,pts.map(function(r){return r[1].stars})),l5=pts.slice(-5),a5=l5.reduce(function(a,r){return a+r[1].stars},0)/l5.length;
-return'<div class="gwrap">'+g+'</div><div class="gstats"><div><b>'+avg.toFixed(1)+'</b><span>average ★</span></div><div><b>'+a5.toFixed(1)+'</b><span>last '+l5.length+' average</span></div><div><b>'+best+'</b><span>best so far</span></div><div><b class="'+(last>=first?"":"down")+'">'+(last-first>=0?"+":"")+(last-first)+'</b><span>since your first</span></div></div><p class="pn-note">Dashed line: your average.</p>'}
+return'<div class="gwrap">'+g+'</div><div class="gstats"><div><b>'+avg.toFixed(1)+'</b><span>average ★</span></div><div><b>'+a5.toFixed(1)+'</b><span>last '+l5.length+' average</span></div><div><b>'+best+'</b><span>best so far</span></div><div><b class="'+(last>=first?"":"down")+'">'+(last-first>=0?"+":"")+(last-first)+'</b><span>since '+(who?"the":"your")+' first</span></div></div><p class="pn-note">Dashed line: '+(who?esc(who.split(" ")[0])+'’s':'your')+' average.</p>'}
 
 /* ================= student task window ================= */
 function topicModal(id){var t=TOPICS.filter(function(x){return x.id===id})[0];if(!t)return;var p=PROG[id]||{},m=mapOf(t),b=BATCHES[t.batch_id]||{},st=stepState(t,p),dl=dayLabel(t);
@@ -228,7 +228,7 @@ return'<tr><td><b>'+esc(s.full_name)+'</b><br><small>'+esc(s.phone||"")+'</small
 if(SEL){var s=STUDENTS.filter(function(x){return x.id===SEL})[0];if(s){h+='<div class="card"><h2>'+esc(s.full_name)+'</h2>'+legend();
 bset(s).forEach(function(bid){var ts=TOPICS.filter(function(t){return String(t.batch_id)===bid});if(!ts.length)return;h+='<h3 style="margin:16px 0 4px">'+esc(bname(bid))+' <small style="color:var(--mu);font:600 13px Hanken Grotesk">· '+esc(mapOfB(bid).name)+' map</small></h3>';var last="";
 ts.forEach(function(t){if(t.subject!==last){last=t.subject;h+='<p class="subj">'+esc(t.subject)+'</p>'}h+='<div class="trow" data-st="'+s.id+'" data-tp="'+t.id+'"><span><b>'+esc(tname(t))+'</b></span>'+dots(stepState(t,PROG[s.id+":"+t.id]))+'<span class="btn s hide-m">Open</span></div>'});
-h+='<p class="subj" style="color:var(--d)">Improvement graph</p>'+graph(ts.map(function(t){return[t,PROG[s.id+":"+t.id]]}))});
+h+='<p class="subj" style="color:var(--d)">Improvement graph</p>'+graph(ts.map(function(t){return[t,PROG[s.id+":"+t.id]]}),s.full_name)});
 h+='</div>'}}}
 if(VIEW==="topics"){h+='<div class="card"><h2>Batch topics</h2><p style="color:var(--mu)">Tick when a class (or brainstorming) is done and when notes are shared. Students see it on their map.</p>';
 if(!MYB.length)h+='<p>No batches are assigned to you yet.</p>';
