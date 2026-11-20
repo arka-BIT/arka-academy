@@ -1,6 +1,126 @@
 {
  "items": [
   {
+   "id": "53a4f9322d0094c4",
+   "time": "2026-11-20T01:03:55+00:00",
+   "source": "The Hindu",
+   "title": "Cyclone Akvan: Landfall process begins",
+   "url": "https://www.thehindu.com/news/national/cyclone-akvan-odisha-andhra-pradesh-landfall-imd-updates/article71722866.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "81064022622d2cca",
+   "time": "2026-11-20T01:00:36+00:00",
+   "source": "The Hindu",
+   "title": "Removal proceedings against me infructuous after resignation: Justice Varma tells Lok Sabha Secretariat",
+   "url": "https://www.thehindu.com/news/national/removal-proceedings-against-me-infructuous-after-resignation-justice-varma-tells-lok-sabha-secretariat/article71721688.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "659b2ba3a45e31b5",
+   "time": "2026-11-19T22:08:18+00:00",
+   "source": "The Hindu",
+   "title": "Rajasthan High Court denies interim stay in IAS officer corruption probe",
+   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-high-court-denies-interim-stay-in-ias-officer-corruption-probe/article71720691.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "f38c2e36b122ef7c",
+   "time": "2026-11-19T21:36:10+00:00",
+   "source": "The Hindu",
+   "title": "Wall Street ends sharply lower as Anthropic’s debut fails to revive AI fervour",
+   "url": "https://www.thehindu.com/business/markets/wall-street-ends-sharply-lower-as-anthropics-debut-fails-to-revive-ai-fervour/article71721814.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "1037f0581b3c50be",
+   "time": "2026-11-19T21:23:48+00:00",
+   "source": "The Hindu",
+   "title": "Several Bengal districts under alert as cyclone Akvan likely to bring heavy rainfall",
+   "url": "https://www.thehindu.com/news/national/west-bengal/several-bengal-districts-under-alert-as-cyclone-akvan-likely-to-bring-heavy-rainfall/article71720970.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "d2963bede76ca01c",
+   "time": "2026-11-19T20:16:36+00:00",
+   "source": "The Hindu",
+   "title": "Devotees visiting Guruvayur temple must be treated with respect, says Kerala High Court",
+   "url": "https://www.thehindu.com/news/national/kerala/devotees-visiting-guruvayur-temple-must-be-treated-with-respect-says-kerala-high-court/article71721361.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "a4fc521fc240e4cf",
+   "time": "2026-11-19T19:33:47+00:00",
+   "source": "The Hindu",
+   "title": "Kerala High Court disposes of PILs against reconstitution of Waqf Board",
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-disposes-of-pils-against-reconstitution-of-waqf-board/article71721176.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "39cef57561354618",
+   "time": "2026-11-19T19:31:16+00:00",
+   "source": "The Hindu",
+   "title": "Draft of COP31 cover text drops references to fossil fuel phase-out, net zero dates",
+   "url": "https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "116239e5be4d278b",
+   "time": "2026-11-19T18:42:42+00:00",
+   "source": "The Hindu",
+   "title": "10 patented technologies handed over to various firms at T.N. Tech Transfer Summit",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/10-patented-technologies-handed-over-to-various-firms-at-tn-tech-transfer-summit/article71721117.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "536d4d6a82300e90",
+   "time": "2026-11-19T18:42:11+00:00",
+   "source": "The Hindu",
+   "title": "Dr. NTRUHS plans AI-based courses in affiliated colleges to strengthen research collaboration",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/dr-ntruhs-plans-ai-based-courses-in-affiliated-colleges-to-strengthen-research-collaboration/article71721220.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "67016be5003fa61f",
+   "time": "2026-11-19T18:38:46+00:00",
+   "source": "The Hindu",
+   "title": "Anthropic raises $81 billion in IPO amid AI market volatility",
+   "url": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "b178092ebcd0a499",
+   "time": "2026-11-19T18:32:12+00:00",
+   "source": "The Hindu",
+   "title": "CM launches Indiramma family life insurance scheme",
+   "url": "https://www.thehindu.com/news/national/telangana/cm-launches-indiramma-family-life-insurance-scheme/article71721517.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
    "id": "47314c3c4f8dce62",
    "time": "2026-11-19T14:27:58.896618+00:00",
    "source": "DD News",
@@ -18,126 +138,6 @@
    "url": "https://ddnews.gov.in/cyclone-akwan-intensifies-into-a-severe-cyclonic-storm-wind-speeds-expected-to-reach-up-to-110-km-h/",
    "paper": "GS-III",
    "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "912de953b5c3c66c",
-   "time": "2026-11-19T14:21:31+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka accounts for more than half of India’s GCCs; 43% of AI talent: Report",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-accounts-for-more-than-half-of-indias-gccs-43-of-ai-talent-report/article71720534.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "cc3752720dfeddf5",
-   "time": "2026-11-19T14:12:28+00:00",
-   "source": "The Hindu",
-   "title": "SDPI demands ED probe into financial irregularities in Muslim Co-operative Bank in Mysuru",
-   "url": "https://www.thehindu.com/news/national/karnataka/sdpi-demands-ed-probe-into-financial-irregularities-in-muslim-co-operative-bank-in-mysuru/article71718958.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "b586c33c715569c2",
-   "time": "2026-11-19T14:09:02+00:00",
-   "source": "The Hindu",
-   "title": "KSEB seeks nod for power procurement via Solar Energy Corporation of India schemes",
-   "url": "https://www.thehindu.com/news/national/kerala/kseb-seeks-nod-for-power-procurement-via-solar-energy-corporation-of-india-schemes/article71716925.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "ffb5312e8cbf4ece",
-   "time": "2026-11-19T14:07:55+00:00",
-   "source": "The Hindu",
-   "title": "Indian scientists call for translation of ocean and climate science into actionable coastal-advisories at COP31",
-   "url": "https://www.thehindu.com/news/national/telangana/indian-scientists-call-for-translation-of-ocean-and-climate-science-into-actionable-coastal-advisories-at-cop31/article71718861.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "a40fb30dc9c4bee4",
-   "time": "2026-11-19T13:52:07+00:00",
-   "source": "The Hindu",
-   "title": "Central University explores collaboration with Zensar to enhance student employability",
-   "url": "https://www.thehindu.com/news/national/karnataka/central-university-explores-collaboration-with-zensar-to-enhance-student-employability/article71719947.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "f836e6139d6bc404",
-   "time": "2026-11-19T13:50:55+00:00",
-   "source": "The Hindu",
-   "title": "Students’ savings scheme goes online",
-   "url": "https://www.thehindu.com/news/national/kerala/students-savings-scheme-goes-online/article71720371.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "e91ce128c2c94576",
-   "time": "2026-11-19T13:50:54+00:00",
-   "source": "The Hindu",
-   "title": "Cyclone 'Akvan' LIVE updates: ECoR cancels 39 trains, reschedules 28 others",
-   "url": "https://www.thehindu.com/news/national/cyclone-akwan-tracker-live-updates-odisha-andhra-pradesh-landfall-imd-map-location-puri-vizag-bay-of-bengal/article71718788.ece",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "b394670f1573f1be",
-   "time": "2026-11-19T13:49:42+00:00",
-   "source": "The Hindu",
-   "title": "Areca growers stage protest in Shivamogga, allege injustice in awarding compensation under weather-based crop insurance scheme",
-   "url": "https://www.thehindu.com/news/national/karnataka/areca-growers-stage-protest-in-shivamogga-alleging-injustice-in-awarding-compensation-under-weather-based-crop-insurance-scheme/article71719781.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "5068d48bf8c4aec2",
-   "time": "2026-11-19T13:42:41+00:00",
-   "source": "The Hindu",
-   "title": "Contract Assistant Professors at Nizam College protest demanding 7th UGC pay scales",
-   "url": "https://www.thehindu.com/news/national/telangana/contract-assistant-professors-at-nizam-college-protest-demanding-7th-ugc-pay-scales/article71719653.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "02f4e138ded654c4",
-   "time": "2026-11-19T13:42:22+00:00",
-   "source": "The Hindu",
-   "title": "Producing accused in court beyond 24-hour limit is illegal: Manipur High Court",
-   "url": "https://www.thehindu.com/news/national/manipur/producing-accused-in-court-beyond-24-hour-limit-is-illegal-manipur-high-court/article71720296.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "ec7def93c4a538d3",
-   "time": "2026-11-19T13:12:00+00:00",
-   "source": "The Hindu",
-   "title": "Health Ministry proposes to include antimicrobials in ‘New Drug’ definition, separate licence for bulk drug wholesale",
-   "url": "https://www.thehindu.com/news/national/health-ministry-proposes-to-include-antimicrobials-in-new-drug-definition-separate-licence-for-bulk-drug-wholesale/article71719726.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "0dc217206c14a631",
-   "time": "2026-11-19T13:08:33+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka elephant attacks: Forest Department captures a tusker near Sakaleshpur in Hassan",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-elephant-attacks-forest-department-captures-a-tusker-near-sakalehspur-in-hassan/article71719889.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
    "exam": "Both"
   },
   {
@@ -191,6 +191,16 @@
    "exam": "Both"
   },
   {
+   "id": "347063b23fcbac9f",
+   "time": "2026-11-16T05:40:00+00:00",
+   "source": "Indian Express",
+   "title": "India missed its 2025 TB target. How much progress has it made?",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6affafb108ec4ae693514553d82ac1a0&url=https%3a%2f%2findianexpress.com%2farticle%2fexplained%2fexplained-health%2findia-tb-report-2026-mortality-diagnosis-incidence-data-explained-10962990%2f&c=9364907577472862264&mkt=en-us",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
    "id": "1c7a2f5378c821df",
    "time": "2026-11-16T04:45:00+00:00",
    "source": "Indian Express",
@@ -219,47 +229,7 @@
    "paper": "GS-III",
    "topic": "Economy",
    "exam": "Both"
-  },
-  {
-   "id": "51dad557e031516d",
-   "time": "2026-11-16T00:50:49+00:00",
-   "source": "Indian Express",
-   "title": "Increase in government health spending as out-of-pocket expenditure declines: Report",
-   "url": "https://indianexpress.com/article/india/report-increase-in-government-health-spending-as-out-of-pocket-expenditure-declines-10964481/",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "5fd81c67bfcc56eb",
-   "time": "2026-11-16T00:27:00+00:00",
-   "source": "Indian Express",
-   "title": "Blacklisted over child abuse in US, man’s plea to enter India rejected by Delhi High Court",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afb59a514f5408a9a161927208808b1&url=https%3a%2f%2findianexpress.com%2farticle%2flegal-news%2fblacklisted-child-abuse-us-man-enter-india-delhi-high-court-10964800%2f&c=5958403624120580332&mkt=en-ca",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "056aeef55cffc34c",
-   "time": "2026-11-16T00:25:50+00:00",
-   "source": "Indian Express",
-   "title": "Taming of ‘Kabra Kaan’: Meet the 3,000-kg tusker that has 100 forest officials on their toes",
-   "url": "https://indianexpress.com/article/india/chhattisgarh-kabra-kaan-elephant-attack-10964502/",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "7b052e93933ea596",
-   "time": "2026-11-15T16:50:01+00:00",
-   "source": "Indian Express",
-   "title": "On Birsa Munda Jayanti, MP CM Mohan Yadav inaugurates Rs 1,400-crore Narmada irrigation project",
-   "url": "https://indianexpress.com/article/india/narmada-irrigation-project-madhya-pradesh-1400-crore-10964392/",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-19T14:27:58.896618+00:00"
+ "updated": "2026-11-20T02:24:46.299275+00:00"
 }
