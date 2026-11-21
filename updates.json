@@ -1,6 +1,126 @@
 {
  "items": [
   {
+   "id": "3f2d8f4f93e965e4",
+   "time": "2026-11-21T14:09:24+00:00",
+   "source": "The Hindu",
+   "title": "‘Comprehensive policy, action plan needed to tackle rabies’",
+   "url": "https://www.thehindu.com/news/national/kerala/comprehensive-policy-action-plan-needed-to-tackle-rabies/article71728479.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "790b933ad584b60a",
+   "time": "2026-11-21T14:08:16+00:00",
+   "source": "The Hindu",
+   "title": "Cyberabad SHE Teams nab 52 persons for indecent acts during 112 decoy operations",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-she-teams-nab-52-persons-for-indecent-acts-during-112-decoy-operations/article71728456.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "aca8e1c3c3328d9b",
+   "time": "2026-11-21T14:06:42+00:00",
+   "source": "The Hindu",
+   "title": "Health dept saves 11 heart attack victims at Sabarimala; 13,029 pilgrims seek treatment in five days",
+   "url": "https://www.thehindu.com/news/national/kerala/health-dept-saves-11-heart-attack-victims-at-sabarimala-13029-pilgrims-seek-treatment-in-five-days/article71728324.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "1280451748b261e2",
+   "time": "2026-11-21T14:03:45+00:00",
+   "source": "The Hindu",
+   "title": "Eshwar Khandre warns officials against negligence in implementing rural development schemes",
+   "url": "https://www.thehindu.com/news/national/karnataka/eshwar-khandre-warns-officials-against-negligence-in-implementing-rural-development-schemes/article71728419.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "4144e10340f7693b",
+   "time": "2026-11-21T14:00:16+00:00",
+   "source": "The Hindu",
+   "title": "School students from Wayanad, Kozhikode attend IIM-K workshop on disaster preparedness",
+   "url": "https://www.thehindu.com/news/national/kerala/school-students-from-wayanad-kozhikode-attend-iim-k-workshop-on-disaster-preparedness/article71728398.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "e70343614fa6b127",
+   "time": "2026-11-21T13:55:45+00:00",
+   "source": "The Hindu",
+   "title": "At least 13 dead after consuming spurious liquor, over 300 hospitalised in Manipur",
+   "url": "https://www.thehindu.com/news/national/manipur/liquor-tragedy-manipur-death-toll-updates/article71727251.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "d3133bb2f8e712ea",
+   "time": "2026-11-21T13:55:38+00:00",
+   "source": "The Hindu",
+   "title": "Kottayam Port to handle first major import consignment via Vizhinjam",
+   "url": "https://www.thehindu.com/news/national/kerala/kottayam-port-to-handle-first-major-import-consignment-via-vizhinjam/article71728339.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "837162ad62b93b9f",
+   "time": "2026-11-21T13:55:34+00:00",
+   "source": "The Hindu",
+   "title": "Chittoor farmers urged to diversify into natural farming, dairy, horticulture to boost income",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-farmers-urged-to-diversify-into-natural-farming-dairy-horticulture-to-boost-income/article71728269.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "8310ef939e7d9b95",
+   "time": "2026-11-21T13:53:39+00:00",
+   "source": "The Hindu",
+   "title": "Welfare schemes must reach every member of Bovi community: Ramappa",
+   "url": "https://www.thehindu.com/news/national/karnataka/welfare-schemes-must-reach-every-member-of-bovi-community-ramappa/article71728135.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "22261ff1c14bbb01",
+   "time": "2026-11-21T13:51:05+00:00",
+   "source": "The Hindu",
+   "title": "AI cameras, thermal drone to track elephant movement in Keralam’s Vadasserikkara",
+   "url": "https://www.thehindu.com/news/national/kerala/ai-cameras-thermal-drone-to-track-elephant-movement-in-keralams-vadasserikkara/article71728555.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "d688b5c88fcca50b",
+   "time": "2026-11-21T13:44:09+00:00",
+   "source": "The Hindu",
+   "title": "Parliament's Monsoon session remains unprorogued for 100 days, government yet to announce special sitting",
+   "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-100-days-government-yet-to-announce-special-sitting/article71728271.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "ebcebbf5667240c2",
+   "time": "2026-11-21T13:09:21+00:00",
+   "source": "The Hindu",
+   "title": "India, Finland seek to deepen economic ties through startup cooperation: Envoy Mikko Kivikoski",
+   "url": "https://www.thehindu.com/news/national/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy-mikko-kivikoski/article71728251.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
    "id": "a46e9dc43ecf1c1d",
    "time": "2026-11-20T14:27:25.763411+00:00",
    "source": "DD News",
@@ -18,126 +138,6 @@
    "url": "https://ddnews.gov.in/major-shift-in-cop31-talks-new-draft-makes-no-mention-of-reducing-fossil-fuel-use/",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "fb3887fc2fcc7bee",
-   "time": "2026-11-20T14:07:43+00:00",
-   "source": "The Hindu",
-   "title": "Tiger ‘Explorer’ reaches Mylavaram forest near Vijayawada; four villages on alert",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/tiger-explorer-reaches-mylavaram-forest-near-vijayawada-four-villages-on-alert/article71723383.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "1197140e48a79e3b",
-   "time": "2026-11-20T13:58:31+00:00",
-   "source": "The Hindu",
-   "title": "Health Minister orders regular surprise inspections at major government hospitals",
-   "url": "https://www.thehindu.com/news/national/kerala/health-minister-orders-regular-surprise-inspections-at-major-government-hospitals/article71724642.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "b94cac2b7fc3a161",
-   "time": "2026-11-20T13:52:54+00:00",
-   "source": "The Hindu",
-   "title": "India, Italy discuss to boost bilateral trade to €20 billion by 2029",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/india-italy-discuss-to-boost-bilateral-trade-to-20-billion-by-2029/article71723731.ece",
-   "paper": "GS-II",
-   "topic": "International Relations",
-   "exam": "Both"
-  },
-  {
-   "id": "38bd1db546f0caca",
-   "time": "2026-11-20T13:30:58+00:00",
-   "source": "The Hindu",
-   "title": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-   "url": "https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "978c69b9ad22701b",
-   "time": "2026-11-20T13:29:37+00:00",
-   "source": "The Hindu",
-   "title": "Arnab, Murasu cyclones caused ₹1,092 crore loss to horticulture crops in A.P., says Naidu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/arnab-murasu-cyclones-caused-1092-crore-loss-to-horticulture-crops-in-ap-says-naidu/article71724606.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "86ae44ca971cf64b",
-   "time": "2026-11-20T13:25:21+00:00",
-   "source": "The Hindu",
-   "title": "Farmers’ body calls public hearing on Greenko project expansion a ‘farce’, seeks its cancellation",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-body-calls-public-hearing-on-greenko-project-expansion-a-farce-seeks-its-cancellation/article71723451.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "29603d721f321452",
-   "time": "2026-11-20T13:22:13+00:00",
-   "source": "The Hindu",
-   "title": "Health Minister lays out plan for international medical tourism in State hospitals",
-   "url": "https://www.thehindu.com/news/national/telangana/health-minister-lays-out-plan-for-international-medical-tourism-in-state-hospitals/article71724389.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "5e9501d0101217c9",
-   "time": "2026-11-20T13:21:24+00:00",
-   "source": "The Hindu",
-   "title": "Guruvayur temple in Keralam to introduce special queue for women, mothers with infants",
-   "url": "https://www.thehindu.com/news/national/kerala/guruvayur-temple-in-keralam-to-introduce-special-queue-for-women-mothers-with-infants/article71724582.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "c4b4c2b444f72db8",
-   "time": "2026-11-20T13:19:01+00:00",
-   "source": "The Hindu",
-   "title": "FDA sets up council for post-market review of vaccines, gene therapies",
-   "url": "https://www.thehindu.com/sci-tech/health/fda-sets-up-council-for-post-market-review-of-vaccines-gene-therapies/article71723948.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "4a41262fab2de97e",
-   "time": "2026-11-20T13:15:11+00:00",
-   "source": "The Hindu",
-   "title": "Air India, AI Express extend suspension of Jeddah flights till November 24",
-   "url": "https://www.thehindu.com/news/national/air-india-air-india-express-flights-cancellation-to-jeddah-saudi-arabia/article71724670.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "48856cd35103d41c",
-   "time": "2026-11-20T13:15:00+00:00",
-   "source": "The Hindu",
-   "title": "NHAI’s AI tool to monitor road damage, follow-up complaints with contractors",
-   "url": "https://www.thehindu.com/news/national/telangana/nhais-ai-tool-to-monitor-road-damage-follow-up-complaints-with-contractors/article71724344.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "6705aad76aab93f0",
-   "time": "2026-11-20T13:12:16+00:00",
-   "source": "The Hindu",
-   "title": "RCMS Bank wins award",
-   "url": "https://www.thehindu.com/news/national/karnataka/rcms-bank-wins-award/article71724668.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
    "exam": "Both"
   },
   {
@@ -209,7 +209,17 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
+  },
+  {
+   "id": "6e83436a9499d79b",
+   "time": "2026-11-17T14:18:00+00:00",
+   "source": "Indian Express",
+   "title": "COP31: India seeks to strengthen climate engagement with small island nations",
+   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01a76b3fb3492d960617a1586402bd&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2fcop31-climate-conference-engagement-with-small-island-nations-10967527%2f&c=4626030441506803464&mkt=en-us",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
   }
  ],
- "updated": "2026-11-20T14:27:25.763411+00:00"
+ "updated": "2026-11-21T14:14:00.193981+00:00"
 }
