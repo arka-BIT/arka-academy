@@ -1,123 +1,143 @@
 {
  "items": [
   {
-   "id": "98f5ea060582f751",
-   "time": "2026-11-23T01:39:51+00:00",
-   "source": "The Hindu",
-   "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "1faccce18661a68e",
-   "time": "2026-11-22T22:02:28+00:00",
-   "source": "The Hindu",
-   "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-   "url": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "52ab67dd54d2818f",
-   "time": "2026-11-22T19:41:33+00:00",
-   "source": "The Hindu",
-   "title": "Takshashila University confers honorary doctorates on author S. Ramakrishnan and playback singer K.S. Chithra",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "6b1b2eacb7612a47",
-   "time": "2026-11-22T19:37:54+00:00",
-   "source": "The Hindu",
-   "title": "Paper tiger: On the Green India Mission",
-   "url": "https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "37b74e968b664244",
-   "time": "2026-11-22T19:33:12+00:00",
-   "source": "The Hindu",
-   "title": "Gildar Lane building fire: 8 rescued; officer taken to hospital",
-   "url": "https://www.thehindu.com/news/cities/mumbai/gildar-lane-building-fire-8-rescued-officer-taken-to-hospital/article71732127.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "2188c0e6199f2507",
-   "time": "2026-11-22T18:21:56+00:00",
-   "source": "The Hindu",
-   "title": "Indian science needs fewer borders",
-   "url": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "c56bebdd2714171f",
-   "time": "2026-11-22T18:02:41+00:00",
-   "source": "The Hindu",
-   "title": "Thumba to Kourou, over 60 years of space partnership",
-   "url": "https://www.thehindu.com/opinion/op-ed/thumba-to-kourou-over-60-years-of-space-partnership/article71731930.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "2ca5770a513311d1",
-   "time": "2026-11-22T17:24:54+00:00",
-   "source": "The Hindu",
-   "title": "Deepathoon row: Tamil Nadu files a review plea in Supreme Court against Thirupparankundram order",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/deepathoon-row-tamil-nadu-files-a-review-plea-in-supreme-court-against-thirupparankundram-order/article71731065.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "08a62cb5af8c862e",
-   "time": "2026-11-22T17:10:22+00:00",
-   "source": "The Hindu",
-   "title": "Centre prioritising border villages, 40 seeing reverse migration: Amit Shah in Arunachal Pradesh",
-   "url": "https://www.thehindu.com/news/national/arunachal-pradesh/amit-shah-says-congress-neglected-development-provided-inadequate-funds-during-its-rule-in-arunachal-pradesh/article71731087.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "1df5d7cbe90a602e",
-   "time": "2026-11-22T16:56:53+00:00",
-   "source": "The Hindu",
-   "title": "Botcha urges Governor to recommend dismissal of Chandrababu Naidu government",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/botcha-urges-governor-to-recommend-dismissal-of-chandrababu-naidu-government/article71731245.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "b9806fcd5c901141",
-   "time": "2026-11-22T16:34:07+00:00",
-   "source": "The Hindu",
-   "title": "Mysuru to host AI Summit on November 25",
-   "url": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
+   "id": "b3d142a1ebde6d92",
+   "time": "2026-11-23T14:35:00.220852+00:00",
+   "source": "DD News",
+   "title": "IFFI 2026 में NFDC और सोनी पिक्चर्स नेटवर्क्स इंडिया के बीच MoU, नए कंटेंट आइडिया की होगी तलाश",
+   "url": "https://ddnews.gov.in/mou-signed-between-nfdc-and-sony-pictures-networks-india-at-iffi-2026-the-partnership-will-explore-new-content-ideas/",
    "paper": "GS-II",
    "topic": "International Relations",
    "exam": "Both"
   },
   {
-   "id": "212bf4b3e53741b7",
-   "time": "2026-11-22T16:20:59+00:00",
-   "source": "The Hindu",
-   "title": "Bandi Sanjay inaugurates solar power system at Karimnagar gurudwara, lauds Sikh community",
-   "url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-inaugurates-solar-power-system-at-karimnagar-gurudwara-lauds-sikh-community/article71731861.ece",
+   "id": "14b2d24124debcef",
+   "time": "2026-11-23T14:35:00.220852+00:00",
+   "source": "DD News",
+   "title": "जलवायु संकट पर दुनिया एकमत नहीं, COP-31 में अंताल्या पैक्ट पर नहीं बनी सहमति",
+   "url": "https://ddnews.gov.in/the-world-is-not-in-agreement-on-the-climate-crisis-no-consensus-reached-on-the-antalya-pact-at-cop-31/",
    "paper": "GS-III",
    "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "667e328d19d94eaa",
+   "time": "2026-11-23T14:26:10+00:00",
+   "source": "The Hindu",
+   "title": "Over 4,100 children share ideas for a child-friendly Cyberabad",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/over-4100-children-share-ideas-for-a-child-friendly-cyberabad/article71734820.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "9944860c3a4ec4dc",
+   "time": "2026-11-23T14:24:55+00:00",
+   "source": "The Hindu",
+   "title": "NIT-C inks pact with IRFC Foundation to set up health centre",
+   "url": "https://www.thehindu.com/news/national/kerala/nit-c-inks-pact-with-irfc-foundation-to-set-up-health-centre/article71734637.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "a0c6c3fd695455ae",
+   "time": "2026-11-23T14:21:59+00:00",
+   "source": "The Hindu",
+   "title": "Bengal Christian group calls for missionary school alumni testimonies amid allegations of forced conversions",
+   "url": "https://www.thehindu.com/news/national/bengal-christian-group-calls-for-missionary-school-alumni-testimonies-amid-allegations-of-forced-conversions/article71734690.ece",
+   "paper": "GS-II",
+   "topic": "Schemes",
+   "exam": "Both"
+  },
+  {
+   "id": "73ce9bd350450d9b",
+   "time": "2026-11-23T14:15:34+00:00",
+   "source": "The Hindu",
+   "title": "Central University V-C receives Vishishta Shikshaka Samman",
+   "url": "https://www.thehindu.com/news/national/karnataka/central-university-v-c-receives-vishishta-shikshaka-samman/article71731794.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "8503f87b917ee1ec",
+   "time": "2026-11-23T14:13:57+00:00",
+   "source": "The Hindu",
+   "title": "Keralam’s Sabarimala temple pins hopes on ‘Vrischikam 12’ rush to lift slow start",
+   "url": "https://www.thehindu.com/news/national/kerala/keralams-sabarimala-temple-pins-hopes-on-vrischikam-12-rush-to-lift-slow-start/article71734766.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "9941c4da18c90a90",
+   "time": "2026-11-23T14:12:47+00:00",
+   "source": "The Hindu",
+   "title": "Keralam urged to launch ‘Nutri-Tuber Programme’ during 15th Five-Year Plan period to promote tuber crops",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-urged-to-launch-nutri-tuber-programme-during-15th-five-year-plan-period-to-promote-tuber-crops/article71734244.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "01f1fb94bd83254c",
+   "time": "2026-11-23T14:04:08+00:00",
+   "source": "The Hindu",
+   "title": "Constitution Day celebrations to be held in Mysuru on November 26",
+   "url": "https://www.thehindu.com/news/national/karnataka/grand-constitution-day-to-be-held-in-mysuru-on-november-26/article71734866.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "f6a6af8ebb948c4f",
+   "time": "2026-11-23T14:02:45+00:00",
+   "source": "The Hindu",
+   "title": "COP31 ends without a deal: Is global climate diplomacy breaking? | The Hindu Analysis",
+   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-ends-without-a-deal-is-global-climate-diplomacy-breaking-the-hindu-analysis/article71734819.ece",
+   "paper": "GS-III",
+   "topic": "Environment",
+   "exam": "Both"
+  },
+  {
+   "id": "31e3d2e8b65ac00e",
+   "time": "2026-11-23T14:01:17+00:00",
+   "source": "The Hindu",
+   "title": "Karimnagar Medical College building to be ready by March-end, says Health Minister",
+   "url": "https://www.thehindu.com/news/national/telangana/karimnagar-medical-college-building-to-be-ready-by-march-end-says-health-minister/article71734728.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "f09bc94d683ba239",
+   "time": "2026-11-23T13:57:55+00:00",
+   "source": "The Hindu",
+   "title": "TIFR Hyderabad, CMC Vellore join hands to advance metabolic health research",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/tifr-hyderabad-cmc-vellore-join-hands-to-advance-metabolic-health-research/article71734711.ece",
+   "paper": "GS-II",
+   "topic": "Health",
+   "exam": "Both"
+  },
+  {
+   "id": "74789f199c11ed24",
+   "time": "2026-11-23T13:56:46+00:00",
+   "source": "The Hindu",
+   "title": "Former TTD chairman condemns Tirupati temple demolition",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ttd-chairman-condemns-tirupati-temple-demolition/article71734931.ece",
+   "paper": "GS-I",
+   "topic": "Art & Culture",
+   "exam": "Both"
+  },
+  {
+   "id": "d381d85036825629",
+   "time": "2026-11-23T13:52:42+00:00",
+   "source": "The Hindu",
+   "title": "A.P. CM calls for wider use of AI in healthcare, agriculture to improve public services",
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-calls-for-wider-use-of-ai-in-healthcare-agriculture-to-improve-public-services/article71734734.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -139,67 +159,7 @@
    "paper": "GS-III",
    "topic": "Environment",
    "exam": "Both"
-  },
-  {
-   "id": "47314c3c4f8dce62",
-   "time": "2026-11-19T14:27:58.896618+00:00",
-   "source": "DD News",
-   "title": "UGC नेट ने जारी की विषयवार परीक्षा का कार्यक्रम, 14 से 21 दिसंबर तक होगी परीक्षा",
-   "url": "https://ddnews.gov.in/ugc-net-has-released-the-subject-wise-exam-schedule-the-examination-will-be-held-from-december-14-to-21/",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "ef2730b1d1a14b21",
-   "time": "2026-11-19T14:27:58.896618+00:00",
-   "source": "DD News",
-   "title": "Cyclone Akwan: भीषण चक्रवाती तूफान में बदला अक्वान, 110 किलोमीटर प्रति घंटे तक पहुंचने की संभावना",
-   "url": "https://ddnews.gov.in/cyclone-akwan-intensifies-into-a-severe-cyclonic-storm-wind-speeds-expected-to-reach-up-to-110-km-h/",
-   "paper": "GS-III",
-   "topic": "Disaster Management",
-   "exam": "Both"
-  },
-  {
-   "id": "f761aa2f042fb7d7",
-   "time": "2026-11-19T08:17:00+00:00",
-   "source": "Indian Express",
-   "title": "ELECTION COMMISSION OF INDIA NEWS",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0059107c29408186036669c2d05966&url=https%3a%2f%2findianexpress.com%2fabout%2felection-commission-of-india%2fpage%2f2%2f&c=7837723656772811784&mkt=en-us",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "93abd67a7a1d86c9",
-   "time": "2026-11-19T03:38:00+00:00",
-   "source": "Indian Express",
-   "title": "India News Highlights, 19 November 2026: Bank employees threaten nationwide strike against proposed IDBI Bank sale to Fairfax",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0252102b11422cbfd31278fc568e28&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2ftoday-india-breaking-news-live-updates-19-november-2026-cyclone-akvan-odisha-evacuation-trump-xi-putin-shenzhen-summit-delhi-aqi-today-10969193%2f&c=9255323512269709348&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "321416f4ec0add4f",
-   "time": "2026-11-19T03:38:00+00:00",
-   "source": "Indian Express",
-   "title": "India News Highlights, 19 November 2026: Bank employees threaten nationwide strike against proposed IDBI Bank sale to Fairfax",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02f88bb8a24c66b0b5e5a88d05e138&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2ftoday-india-breaking-news-live-updates-19-november-2026-cyclone-akvan-odisha-evacuation-trump-xi-putin-shenzhen-summit-delhi-aqi-today-10969193%2f&c=9255323512269709348&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
-  },
-  {
-   "id": "06d0c21a8605acab",
-   "time": "2026-11-19T03:38:00+00:00",
-   "source": "Indian Express",
-   "title": "India News Highlights, 19 November 2026: Bank employees threaten nationwide strike against proposed IDBI Bank sale to Fairfax",
-   "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03a4aa49054daaa662b37ae4bd4e23&url=https%3a%2f%2findianexpress.com%2farticle%2findia%2ftoday-india-breaking-news-live-updates-19-november-2026-cyclone-akvan-odisha-evacuation-trump-xi-putin-shenzhen-summit-delhi-aqi-today-10969193%2f&c=9255323512269709348&mkt=en-us",
-   "paper": "GS-III",
-   "topic": "Economy",
-   "exam": "Both"
   }
  ],
- "updated": "2026-11-23T02:26:46.920877+00:00"
+ "updated": "2026-11-23T14:35:00.220852+00:00"
 }
