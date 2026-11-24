@@ -1,6 +1,126 @@
 {
  "items": [
   {
+   "id": "a5588002be866742",
+   "time": "2026-11-23T20:59:04+00:00",
+   "source": "The Hindu",
+   "title": "Will bank manager accept Kayalvizhi Alagiri’s apology, asks Madras High Court",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/will-bank-manager-accept-kayalvizhi-alagiris-apology-asks-madras-high-court/article71735095.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "225826f09f7cb432",
+   "time": "2026-11-23T20:45:25+00:00",
+   "source": "The Hindu",
+   "title": "Rajasthan women’s varsity signs MoU with BRICS nations for global leadership centre",
+   "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-womens-varsity-signs-mou-with-brics-nations-for-global-leadership-centre/article71736242.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "e9decd51233583bd",
+   "time": "2026-11-23T20:32:44+00:00",
+   "source": "The Hindu",
+   "title": "No Winter Session of Parliament? Skipped only four times in history",
+   "url": "https://www.thehindu.com/news/national/no-winter-session-of-parliament-skipped-only-four-times-in-history/article71735258.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "45be7b10b3cc81a9",
+   "time": "2026-11-23T19:41:31+00:00",
+   "source": "The Hindu",
+   "title": "Fatal disagreement: on the COP31 summit",
+   "url": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "3fdaaf4edc76663c",
+   "time": "2026-11-23T19:01:27+00:00",
+   "source": "The Hindu",
+   "title": "SC admits appeal filed by SASTRA against Madras High Court’s eviction order",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/sc-admits-appeal-filed-bysastraagainst-madras-high-courts-eviction-order/article71735147.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "31472b95fbca633d",
+   "time": "2026-11-23T18:28:28+00:00",
+   "source": "The Hindu",
+   "title": "Sustainability experts from IIT-Madras, Birmingham University visit eco-farm in Chengalpattu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/sustainability-experts-from-iit-madras-birmingham-university-visit-eco-farm-in-chengalpattu/article71734549.ece",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "f2fc62c98d2a030e",
+   "time": "2026-11-23T18:14:18+00:00",
+   "source": "The Hindu",
+   "title": "Use AI to ensure inclusive delivery of government benefits: Chief Secretary",
+   "url": "https://www.thehindu.com/news/national/karnataka/use-ai-to-ensure-inclusive-delivery-of-government-benefits-chief-secretary/article71735447.ece",
+   "paper": "GS-III",
+   "topic": "Science & Tech",
+   "exam": "Both"
+  },
+  {
+   "id": "2537ddb34037fcfd",
+   "time": "2026-11-23T17:42:16+00:00",
+   "source": "The Hindu",
+   "title": "Rule of law needed, not ‘Rule of Power’: Netherlands Foreign Minister Berendsen on trilateral summit",
+   "url": "https://www.thehindu.com/news/national/rule-of-law-needed-not-rule-of-power-netherlands-foreign-minister-berendsen-on-trilateral-summit/article71736057.ece",
+   "paper": "GS-II",
+   "topic": "International Relations",
+   "exam": "Both"
+  },
+  {
+   "id": "cee7642fe340d683",
+   "time": "2026-11-23T17:39:10+00:00",
+   "source": "The Hindu",
+   "title": "Supreme Court flags ‘active connivance’ of civic authorities in ‘flagrant’ violations of building bye-laws",
+   "url": "https://www.thehindu.com/news/national/supreme-court-flags-active-connivance-of-civic-authorities-in-flagrant-violations-of-building-bye-laws/article71735727.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "c5e30cf8bb08f499",
+   "time": "2026-11-23T17:33:19+00:00",
+   "source": "The Hindu",
+   "title": "India maps landslide susceptibility as part of shift from post-disaster relief to landslide management",
+   "url": "https://www.thehindu.com/news/national/india-maps-landslide-susceptibility-as-part-of-shift-from-post-disaster-relief-to-landslide-management/article71735715.ece",
+   "paper": "GS-III",
+   "topic": "Disaster Management",
+   "exam": "Both"
+  },
+  {
+   "id": "c33b7ea440e4b8f1",
+   "time": "2026-11-23T17:27:46+00:00",
+   "source": "The Hindu",
+   "title": "RERA approvals for two Indiramma Housing towers in Hyderabad; to help beneficiaries in getting bank loans",
+   "url": "https://www.thehindu.com/news/cities/Hyderabad/rera-approvals-for-two-indiramma-housing-towers-in-hyderabad-to-help-beneficiaries-in-getting-bank-loans/article71735686.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "3f19fc19d6516905",
+   "time": "2026-11-23T17:04:51+00:00",
+   "source": "The Hindu",
+   "title": "Armenia drops Nagorno-Karabakh claim in proposed new constitution",
+   "url": "https://www.thehindu.com/news/international/armenia-drops-nagorno-karabakh-claim-in-proposed-new-constitution/article71735956.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "b3d142a1ebde6d92",
    "time": "2026-11-23T14:35:00.220852+00:00",
    "source": "DD News",
@@ -18,126 +138,6 @@
    "url": "https://ddnews.gov.in/the-world-is-not-in-agreement-on-the-climate-crisis-no-consensus-reached-on-the-antalya-pact-at-cop-31/",
    "paper": "GS-III",
    "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "667e328d19d94eaa",
-   "time": "2026-11-23T14:26:10+00:00",
-   "source": "The Hindu",
-   "title": "Over 4,100 children share ideas for a child-friendly Cyberabad",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/over-4100-children-share-ideas-for-a-child-friendly-cyberabad/article71734820.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "9944860c3a4ec4dc",
-   "time": "2026-11-23T14:24:55+00:00",
-   "source": "The Hindu",
-   "title": "NIT-C inks pact with IRFC Foundation to set up health centre",
-   "url": "https://www.thehindu.com/news/national/kerala/nit-c-inks-pact-with-irfc-foundation-to-set-up-health-centre/article71734637.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "a0c6c3fd695455ae",
-   "time": "2026-11-23T14:21:59+00:00",
-   "source": "The Hindu",
-   "title": "Bengal Christian group calls for missionary school alumni testimonies amid allegations of forced conversions",
-   "url": "https://www.thehindu.com/news/national/bengal-christian-group-calls-for-missionary-school-alumni-testimonies-amid-allegations-of-forced-conversions/article71734690.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "73ce9bd350450d9b",
-   "time": "2026-11-23T14:15:34+00:00",
-   "source": "The Hindu",
-   "title": "Central University V-C receives Vishishta Shikshaka Samman",
-   "url": "https://www.thehindu.com/news/national/karnataka/central-university-v-c-receives-vishishta-shikshaka-samman/article71731794.ece",
-   "paper": "GS-II",
-   "topic": "Education",
-   "exam": "Both"
-  },
-  {
-   "id": "8503f87b917ee1ec",
-   "time": "2026-11-23T14:13:57+00:00",
-   "source": "The Hindu",
-   "title": "Keralam’s Sabarimala temple pins hopes on ‘Vrischikam 12’ rush to lift slow start",
-   "url": "https://www.thehindu.com/news/national/kerala/keralams-sabarimala-temple-pins-hopes-on-vrischikam-12-rush-to-lift-slow-start/article71734766.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "9941c4da18c90a90",
-   "time": "2026-11-23T14:12:47+00:00",
-   "source": "The Hindu",
-   "title": "Keralam urged to launch ‘Nutri-Tuber Programme’ during 15th Five-Year Plan period to promote tuber crops",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-urged-to-launch-nutri-tuber-programme-during-15th-five-year-plan-period-to-promote-tuber-crops/article71734244.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "01f1fb94bd83254c",
-   "time": "2026-11-23T14:04:08+00:00",
-   "source": "The Hindu",
-   "title": "Constitution Day celebrations to be held in Mysuru on November 26",
-   "url": "https://www.thehindu.com/news/national/karnataka/grand-constitution-day-to-be-held-in-mysuru-on-november-26/article71734866.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "f6a6af8ebb948c4f",
-   "time": "2026-11-23T14:02:45+00:00",
-   "source": "The Hindu",
-   "title": "COP31 ends without a deal: Is global climate diplomacy breaking? | The Hindu Analysis",
-   "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-ends-without-a-deal-is-global-climate-diplomacy-breaking-the-hindu-analysis/article71734819.ece",
-   "paper": "GS-III",
-   "topic": "Environment",
-   "exam": "Both"
-  },
-  {
-   "id": "31e3d2e8b65ac00e",
-   "time": "2026-11-23T14:01:17+00:00",
-   "source": "The Hindu",
-   "title": "Karimnagar Medical College building to be ready by March-end, says Health Minister",
-   "url": "https://www.thehindu.com/news/national/telangana/karimnagar-medical-college-building-to-be-ready-by-march-end-says-health-minister/article71734728.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "f09bc94d683ba239",
-   "time": "2026-11-23T13:57:55+00:00",
-   "source": "The Hindu",
-   "title": "TIFR Hyderabad, CMC Vellore join hands to advance metabolic health research",
-   "url": "https://www.thehindu.com/news/cities/Hyderabad/tifr-hyderabad-cmc-vellore-join-hands-to-advance-metabolic-health-research/article71734711.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "74789f199c11ed24",
-   "time": "2026-11-23T13:56:46+00:00",
-   "source": "The Hindu",
-   "title": "Former TTD chairman condemns Tirupati temple demolition",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ttd-chairman-condemns-tirupati-temple-demolition/article71734931.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "d381d85036825629",
-   "time": "2026-11-23T13:52:42+00:00",
-   "source": "The Hindu",
-   "title": "A.P. CM calls for wider use of AI in healthcare, agriculture to improve public services",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-calls-for-wider-use-of-ai-in-healthcare-agriculture-to-improve-public-services/article71734734.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
    "exam": "Both"
   },
   {
@@ -161,5 +161,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-23T14:35:00.220852+00:00"
+ "updated": "2026-11-24T02:26:59.237182+00:00"
 }
