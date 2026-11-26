@@ -1,6 +1,146 @@
 {
  "items": [
   {
+   "id": "d8c2a834b97830c5",
+   "time": "2026-11-26T02:27:45.172602+00:00",
+   "source": "DD News",
+   "title": "UGC नेट दिसंबर 2026: परीक्षा शहर सूचना पर्ची जारी, 14 से 21 दिसंबर तक होंगे एग्जाम",
+   "url": "https://ddnews.gov.in/ugc-net-december-2026-exam-city-intimation-slip-released-exams-to-be-held-from-december-14-to-21/",
+   "paper": "GS-II",
+   "topic": "Education",
+   "exam": "Both"
+  },
+  {
+   "id": "8181ff1a50e96809",
+   "time": "2026-11-26T02:27:45.172602+00:00",
+   "source": "DD News",
+   "title": "वैश्विक अनिश्चितताओं के बीच भारतीय अर्थव्यवस्था ने दिखाई मजबूती; रिकॉर्ड निर्यात और विदेशी निवेश से मिला सहारा: RBI",
+   "url": "https://ddnews.gov.in/indian-economy-shows-resilience-amidst-global-uncertainties-bolstered-by-record-exports-and-foreign-investment-rbi/",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "54118d7988fe5899",
+   "time": "2026-11-26T01:59:52+00:00",
+   "source": "The Hindu",
+   "title": "Why is November 26 celebrated as Constitution Day in India",
+   "url": "https://www.thehindu.com/news/national/why-is-november-26-celebrated-as-constitution-day-in-india/article71733839.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "cda9275f0c00d799",
+   "time": "2026-11-26T01:26:45+00:00",
+   "source": "The Hindu",
+   "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+   "url": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece",
+   "paper": "GS-III",
+   "topic": "Economy",
+   "exam": "Both"
+  },
+  {
+   "id": "583726b2c92060c4",
+   "time": "2026-11-26T01:24:23+00:00",
+   "source": "The Hindu",
+   "title": "India, China hold high-level talks in Arunachal sector on border management, LAC issues: MEA",
+   "url": "https://www.thehindu.com/news/national/india-china-hold-high-level-talks-in-arunachal-sector-on-border-management-lac-issues-mea/article71745024.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "4d493cebc3588abb",
+   "time": "2026-11-26T01:16:28+00:00",
+   "source": "The Hindu",
+   "title": "Beyond 26/11: Other major terror attacks in Mumbai over the years",
+   "url": "https://www.thehindu.com/news/national/beyond-2611-other-major-terror-attacks-in-mumbai-over-the-years/article71737700.ece",
+   "paper": "GS-III",
+   "topic": "Internal Security",
+   "exam": "Both"
+  },
+  {
+   "id": "190c7f118f7ad467",
+   "time": "2026-11-26T01:14:29+00:00",
+   "source": "The Hindu",
+   "title": "Maharashtra Cabinet approves free foodgrains for over 42 lakh farmers",
+   "url": "https://www.thehindu.com/news/cities/mumbai/maha-govt-approves-free-food-grains-for-over-4230-lakh-farmers/article71742560.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "cd512e20ba76611a",
+   "time": "2026-11-25T21:18:50+00:00",
+   "source": "The Hindu",
+   "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+   "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "3819764d643cae72",
+   "time": "2026-11-25T21:16:16+00:00",
+   "source": "The Hindu",
+   "title": "Governor seeks CM’s report on compliance with SC’s directions",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/governor-seeks-cms-report-on-compliance-with-scs-directions/article71744124.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "52f6cb71b60fe604",
+   "time": "2026-11-25T20:59:13+00:00",
+   "source": "The Hindu",
+   "title": "Delhi High Court grants time to ED to respond to Engineer Rashid’s plea",
+   "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-grants-time-to-ed-to-respond-to-engineer-rashids-plea/article71742613.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "e1e15cedc4365170",
+   "time": "2026-11-25T20:23:32+00:00",
+   "source": "The Hindu",
+   "title": "Rajbanshi language to be included in Eighth Schedule of Constitution: Suvendu Adhikari",
+   "url": "https://www.thehindu.com/news/national/west-bengal/rajbanshi-languageto-be-included-ineighth-schedule-of-constitutionsuvendu-adhikari/article71742836.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "d629e21d17d080d1",
+   "time": "2026-11-25T20:15:56+00:00",
+   "source": "The Hindu",
+   "title": "Right to choose a partner is an aspect of constitutional freedom, not a privilege granted by a family, caste or community: Thirumavalavan",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/right-to-choose-a-partner-is-an-aspect-of-constitutional-freedom-not-a-privilege-granted-by-a-family-caste-or-community-thirumavalavan/article71743441.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
+   "id": "c2e3bcaa7647dc1b",
+   "time": "2026-11-25T19:01:03+00:00",
+   "source": "The Hindu",
+   "title": "Farmers stage protests; seek waiver of loans",
+   "url": "https://www.thehindu.com/news/cities/chennai/farmers-stage-protests-seek-waiver-of-loans/article71743739.ece",
+   "paper": "GS-III",
+   "topic": "Agriculture",
+   "exam": "Both"
+  },
+  {
+   "id": "af8fd24a273f0c3a",
+   "time": "2026-11-25T18:53:51+00:00",
+   "source": "The Hindu",
+   "title": "Women’s Commission urges Telangana Governor to recommend special investigation into illegal oocyte racket",
+   "url": "https://www.thehindu.com/news/national/telangana/womens-commission-urges-telangana-governor-to-recommend-special-investigation-into-illegal-oocyte-racket/article71742026.ece",
+   "paper": "GS-II",
+   "topic": "Polity",
+   "exam": "Both"
+  },
+  {
    "id": "fb4d74d3f87ff7cc",
    "time": "2026-11-25T14:35:23.634803+00:00",
    "source": "DD News",
@@ -41,126 +181,6 @@
    "exam": "Both"
   },
   {
-   "id": "e7153f2d08af31ff",
-   "time": "2026-11-25T14:34:00+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka poultry farmers protest, demand implementation of ₹10 per kg minimum rearing cost fixed by govt.",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-poultry-farmers-protest-demand-implementation-of-10-per-kg-minimum-rearing-cost-fixed-by-govt/article71742709.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "81880857d4a758b9",
-   "time": "2026-11-25T14:33:20+00:00",
-   "source": "The Hindu",
-   "title": "NIELIT brings a talent boost to Amaravati Quantum Valley",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/nielit-brings-a-talent-boost-to-amaravati-quantum-valley/article71739231.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "b6924f06038679f9",
-   "time": "2026-11-25T14:32:06+00:00",
-   "source": "The Hindu",
-   "title": "Traffic restrictions in view of President’s visit to Kalady temple",
-   "url": "https://www.thehindu.com/news/national/kerala/traffic-restrictions-in-view-of-presidents-visit-to-kalady-temple/article71742808.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "4327991d6c6e2e46",
-   "time": "2026-11-25T14:31:05+00:00",
-   "source": "The Hindu",
-   "title": "Thrissur MCH incident reflects health sector disarray: Pinarayi",
-   "url": "https://www.thehindu.com/news/national/kerala/thrissur-mch-incident-reflects-health-sector-disarray-pinarayi/article71742893.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "591b524535f69824",
-   "time": "2026-11-25T14:29:59+00:00",
-   "source": "The Hindu",
-   "title": "ED raids Punjab SAD leader's premises in money laundering case",
-   "url": "https://www.thehindu.com/news/national/punjab/ed-raids-punjab-sad-leaders-premises-in-money-laundering-case/article71743079.ece",
-   "paper": "GS-III",
-   "topic": "Internal Security",
-   "exam": "Both"
-  },
-  {
-   "id": "9dbf7eaa8c3b9b1d",
-   "time": "2026-11-25T14:28:55+00:00",
-   "source": "The Hindu",
-   "title": "Karnataka High Court orders fresh FIRs as Enforcement Directorate probe discloses illegalities in KPSC’s four more recruitment exams",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-fresh-firs-as-enforcement-directorate-probe-discloses-illegalities-in-kpscs-four-more-recruitment-exams/article71742358.ece",
-   "paper": "GS-II",
-   "topic": "Polity",
-   "exam": "Both"
-  },
-  {
-   "id": "35f004722ecdb44a",
-   "time": "2026-11-25T14:26:25+00:00",
-   "source": "The Hindu",
-   "title": "Govt. introduces price stabilisation scheme to curb price rise",
-   "url": "https://www.thehindu.com/news/national/kerala/govt-introduces-price-stabilisation-scheme-to-curb-price-rise/article71742918.ece",
-   "paper": "GS-II",
-   "topic": "Schemes",
-   "exam": "Both"
-  },
-  {
-   "id": "51ba9734fb9500ee",
-   "time": "2026-11-25T14:26:17+00:00",
-   "source": "The Hindu",
-   "title": "Keralam Assembly panel seeks health monitoring of adolescent girls, report on child deaths in Attappady",
-   "url": "https://www.thehindu.com/news/national/kerala/keralam-assembly-panel-seeks-health-monitoring-of-adolescent-girls-report-on-child-deaths-in-attappady/article71742685.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
-   "id": "50bbd5b4935a604b",
-   "time": "2026-11-25T14:25:33+00:00",
-   "source": "The Hindu",
-   "title": "AI should not overshadow human intelligence, says educationist",
-   "url": "https://www.thehindu.com/news/national/karnataka/ai-should-not-overshadow-human-intelligence-says-educationist/article71742385.ece",
-   "paper": "GS-III",
-   "topic": "Science & Tech",
-   "exam": "Both"
-  },
-  {
-   "id": "6749b6888e615a75",
-   "time": "2026-11-25T14:20:41+00:00",
-   "source": "The Hindu",
-   "title": "Telangana Agriculture dept. focuses on crops value addition, food processing and allied sectors",
-   "url": "https://www.thehindu.com/news/national/telangana/telangana-agriculture-dept-focuses-on-crops-value-addition-food-processing-and-allied-sectors/article71742587.ece",
-   "paper": "GS-III",
-   "topic": "Agriculture",
-   "exam": "Both"
-  },
-  {
-   "id": "21a96c401b704c25",
-   "time": "2026-11-25T14:13:33+00:00",
-   "source": "The Hindu",
-   "title": "Srisailam temple organises Karthika Vanabhojanalu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/srisailam-temple-organises-karthika-vanabhojanalu/article71742182.ece",
-   "paper": "GS-I",
-   "topic": "Art & Culture",
-   "exam": "Both"
-  },
-  {
-   "id": "a5ec041220be9fdc",
-   "time": "2026-11-25T13:48:28+00:00",
-   "source": "The Hindu",
-   "title": "IIT Dharwad scientist helps unravel structure of protein linked to heart disease",
-   "url": "https://www.thehindu.com/news/national/karnataka/iit-dharwad-scientist-helps-unravel-structure-of-protein-linked-to-heart-disease/article71742248.ece",
-   "paper": "GS-II",
-   "topic": "Health",
-   "exam": "Both"
-  },
-  {
    "id": "b3d142a1ebde6d92",
    "time": "2026-11-23T14:35:00.220852+00:00",
    "source": "DD News",
@@ -181,5 +201,5 @@
    "exam": "Both"
   }
  ],
- "updated": "2026-11-25T14:35:23.634803+00:00"
+ "updated": "2026-11-26T02:27:45.172602+00:00"
 }
